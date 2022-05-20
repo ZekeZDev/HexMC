@@ -279,11 +279,6 @@ hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "158e3d972a57b9ad6255921fd28efd92b48661633f961c7f1734bac1884ae307"
-metafile = true
-
-[[files]]
 file = "mods/mining-helmet-mod.toml"
 hash = "5d6f8512c932dea8b8ad443fabfef227686ee87551c8c9396a24706bbbefa709"
 metafile = true
