@@ -56,11 +56,6 @@ hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.toml"
-hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.toml"
 hash = "8abe66f024c57efabee15007de7b70510283223dc9c4e6d0f3ef02c8d462e6b7"
 metafile = true
@@ -141,6 +136,11 @@ hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
 metafile = true
 
 [[files]]
+file = "mods/easiercrafting.toml"
+hash = "b95252d61eac2ef829a30377ce389658e0c4e94b6e27ea0a7786b6b2a39b3d3f"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
@@ -208,6 +208,16 @@ metafile = true
 [[files]]
 file = "mods/here-be-no-dragons.toml"
 hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.toml"
+hash = "d77d0fe2df4d0c37048b0cf0dbaf9ff2a5a3d1d15a3d48c61bee8e8c9e797d9e"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion.toml"
+hash = "6c303c80feeb2917babcf76a6d06dfed64530e4c1d584d32d7248810e7c58ade"
 metafile = true
 
 [[files]]
@@ -281,6 +291,11 @@ hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.toml"
 hash = "293d4b2454e8a8a8a1f108cbfbc53ad04f90bc6fcfc2c0ce3df62c7aad88eac8"
 metafile = true
@@ -311,6 +326,11 @@ hash = "42f2e5c741eb458efcf1cd71ba22eb67f3ecd312e57970770514264d88eb8d13"
 metafile = true
 
 [[files]]
+file = "mods/pinglist.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
 file = "mods/promenade.toml"
 hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
 metafile = true
@@ -328,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/scrollable-tooltips.toml"
 hash = "7a2bc937ee5a9d3c24797d3fc2007af27378be726932bce899dac1c48f654463"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
 
 [[files]]
@@ -371,6 +396,11 @@ hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
 metafile = true
 
 [[files]]
+file = "mods/transparent-cosmetics.toml"
+hash = "af9698c6f2f6937a34519110b98a0f083701bd81288b9044aafaf84c785fbc47"
+metafile = true
+
+[[files]]
 file = "mods/traverse.toml"
 hash = "dd1d181278bca2d8abb0f881be69b947f4b3e074c3ad54a638ef9f18d3ff380e"
 metafile = true
@@ -383,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.toml"
+hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
 metafile = true
 
 [[files]]
