@@ -358,6 +358,11 @@ hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.toml"
+hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "cb8b77a8abe8fce770d8628a886e8d1bd3a2a7b93bd406025e521a61696a8547"
 metafile = true
@@ -443,11 +448,6 @@ hash = "af9698c6f2f6937a34519110b98a0f083701bd81288b9044aafaf84c785fbc47"
 metafile = true
 
 [[files]]
-file = "mods/traverse.toml"
-hash = "dd1d181278bca2d8abb0f881be69b947f4b3e074c3ad54a638ef9f18d3ff380e"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
@@ -455,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.toml"
+hash = "47c2cbbd078ba86f70ea4e79b9519936aa29694ffb91d24661d9e9e88dba696f"
 metafile = true
 
 [[files]]
