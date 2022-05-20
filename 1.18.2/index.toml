@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/RoughlyEnoughItems-7.4.456.jar"
+hash = "c6833d4a0324a0ec39160f0f10f19226aa90687f92b2b4fcfd526aa0fa98af33"
+
+[[files]]
 file = "mods/addadd.toml"
 hash = "2cfda06c01dabbbf520977a0d16226ade6c13fb7b226cbfb4510ab03195024b8"
 metafile = true
@@ -29,6 +33,10 @@ metafile = true
 file = "mods/arcanus.toml"
 hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
+
+[[files]]
+file = "mods/architectury-4.4.60.jar"
+hash = "16f8eed1a990f8d7de11a0154f9e010d3d44746d6d1a07fc7f98c1510ca4c88d"
 
 [[files]]
 file = "mods/badpackets.toml"
@@ -186,6 +194,11 @@ hash = "dd8bdf6455648424be1a2f192c41eaac4d63893224683ce079aa750419cdf951"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.toml"
+hash = "e8b275520835cf842cd127a12b7239ed10723dfe07919481aef1c9d870292bfb"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.toml"
 hash = "2e31d494d9d4cf10d4f8a7cfd506d1797d9ee3937258902b145cf2532cedab77"
 metafile = true
@@ -333,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
-metafile = true
-
-[[files]]
-file = "mods/rei.toml"
-hash = "05c72fd2271de4363bbbb0186199b29f1ea62904685edb2ed92b208fbb328dd8"
 metafile = true
 
 [[files]]
