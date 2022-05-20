@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "5caf4486f398d035bb3d6f3c39777f820a37d1ca438bbfff9db958b84a17b4f6"
+hash = "6ab676edd2b86bbee15552ca556304ef04916001445336dad1c249f9a3d63bfb"
 metafile = true
 
 [[files]]
