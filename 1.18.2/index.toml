@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-4.4.60.jar"
-hash = "16f8eed1a990f8d7de11a0154f9e010d3d44746d6d1a07fc7f98c1510ca4c88d"
+hash = "b34da3320ea68ee79c0be95f677aef6a600611c5a07138406d21c646063dc402"
 
 [[files]]
 file = "mods/badpackets.toml"
@@ -276,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.toml"
 hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.toml"
+hash = "158e3d972a57b9ad6255921fd28efd92b48661633f961c7f1734bac1884ae307"
 metafile = true
 
 [[files]]
