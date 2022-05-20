@@ -1,0 +1,10 @@
+name = "Inventory-Tweaks"
+filename = "MouseTweaks-fabric-mc1.18-2.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.18-2.22/MouseTweaks-fabric-mc1.18-2.22.jar"
+
+
+hash-format = "sha256"
+hash = "aa02606fb77e560cd3d77b6f22cd4d26aa66903fcb021f18a645abb981af8a98"
