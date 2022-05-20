@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-7.4.456.jar"
-hash = "c6833d4a0324a0ec39160f0f10f19226aa90687f92b2b4fcfd526aa0fa98af33"
+file = "mods/RoughlyEnoughItems-8.1.457.jar"
+hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
 
 [[files]]
 file = "mods/addadd.toml"
