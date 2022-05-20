@@ -1,0 +1,11 @@
+name = "Rei"
+filename = "RoughlyEnoughItems-7.4.456.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/download/3768218/file"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c6833d4a0324a0ec39160f0f10f19226aa90687f92b2b4fcfd526aa0fa98af33"

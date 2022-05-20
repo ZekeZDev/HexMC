@@ -136,11 +136,6 @@ hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
 metafile = true
 
 [[files]]
-file = "mods/easiercrafting.toml"
-hash = "b95252d61eac2ef829a30377ce389658e0c4e94b6e27ea0a7786b6b2a39b3d3f"
-metafile = true
-
-[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
@@ -338,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/rei.toml"
+hash = "56dd0ae284ec5531856d0fa7f4e0f5d5acbe4b975aff4a352bd8934990e785d6"
 metafile = true
 
 [[files]]
