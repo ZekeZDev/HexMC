@@ -244,6 +244,11 @@ hash = "d77d0fe2df4d0c37048b0cf0dbaf9ff2a5a3d1d15a3d48c61bee8e8c9e797d9e"
 metafile = true
 
 [[files]]
+file = "mods/icy-incitement.toml"
+hash = "473efcd8f932c19de373116114f8ce9f84bacb987991989d7e841642d253daae"
+metafile = true
+
+[[files]]
 file = "mods/illager-expansion.toml"
 hash = "6c303c80feeb2917babcf76a6d06dfed64530e4c1d584d32d7248810e7c58ade"
 metafile = true
