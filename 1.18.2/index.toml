@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/campanion.json"
+hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-8.1.457.jar"
 hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
 
@@ -145,11 +149,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
-metafile = true
-
-[[files]]
-file = "mods/ears.toml"
-hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
@@ -348,11 +347,6 @@ hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.toml"
-hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.toml"
 hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
@@ -470,9 +464,4 @@ metafile = true
 [[files]]
 file = "mods/wthit.toml"
 hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
-metafile = true
-
-[[files]]
-file = "mods/yigd.toml"
-hash = "ce95e70fbceb5e885a2b94e3e6b4791aeae0f32e21cb5d40e796477017409267"
 metafile = true
