@@ -5,6 +5,10 @@ file = "mods/RoughlyEnoughItems-8.1.457.jar"
 hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
 
 [[files]]
+file = "mods/TerraBlender-fabric-1.18.2-1.1.0.99.jar"
+hash = "acbff3e5c672c3725194a0536c809e4d5814467bb6eec18bf2ec9feef428ae36"
+
+[[files]]
 file = "mods/addadd.toml"
 hash = "2cfda06c01dabbbf520977a0d16226ade6c13fb7b226cbfb4510ab03195024b8"
 metafile = true
