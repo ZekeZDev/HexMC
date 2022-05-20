@@ -1,0 +1,10 @@
+# Due to version issues with modrinth the file needs to be manually specified to use api instead of base
+
+name = "Cardinal Components API"
+filename = "cardinal-components-api-4.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.4/cardinal-components-api-4.1.4.jar"
+hash-format = "sha1"
+hash = "c6501b7212b947e115e4299106f908ca0ca2e9fe"

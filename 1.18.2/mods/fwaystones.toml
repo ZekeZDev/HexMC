@@ -1,0 +1,13 @@
+name = "Fabric Waystones"
+filename = "wraith-waystones-2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.1/wraith-waystones-2.5.1.jar"
+hash-format = "sha1"
+hash = "17a293650f70052a25200a689d2ef1b3e174670b"
+
+[update]
+[update.modrinth]
+mod-id = "sTZr7NVo"
+version = "SQTThMkF"

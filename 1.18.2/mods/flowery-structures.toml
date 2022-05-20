@@ -1,0 +1,13 @@
+name = "Flowery Structures"
+filename = "flowery-fabric-10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q4udWMch/versions/fabric10/flowery-fabric-10.jar"
+hash-format = "sha1"
+hash = "498d367a48b1f383c0ec6fc741cf47b9d664bf36"
+
+[update]
+[update.modrinth]
+mod-id = "q4udWMch"
+version = "NJJdIq3e"

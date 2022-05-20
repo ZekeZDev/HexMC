@@ -1,0 +1,13 @@
+name = "Extra Alchemy"
+filename = "extraalchemy-fabric-1.18.2-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n0S5OkPo/versions/1.8.1/extraalchemy-fabric-1.18.2-1.8.1.jar"
+hash-format = "sha1"
+hash = "c7d184c8c39e603df8361fa5fa79652da1fa1386"
+
+[update]
+[update.modrinth]
+mod-id = "n0S5OkPo"
+version = "Z3fyvKQ5"

@@ -1,0 +1,13 @@
+name = "Earthbounds"
+filename = "earthbounds-1.18.2-1.1.2a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kCMvEtYh/versions/1.18.2-1.1.2a/earthbounds-1.18.2-1.1.2a.jar"
+hash-format = "sha1"
+hash = "c3b3f2926bd03f36937cfaf404c5af6e449bf328"
+
+[update]
+[update.modrinth]
+mod-id = "kCMvEtYh"
+version = "AZ9SXwzu"

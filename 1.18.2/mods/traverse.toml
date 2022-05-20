@@ -1,0 +1,13 @@
+name = "Traverse"
+filename = "traverse-5.0.0-alpha.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.0.0-alpha.2/traverse-5.0.0-alpha.2.jar"
+hash-format = "sha1"
+hash = "29273e55640aa31d4149cb6a3616281696caed71"
+
+[update]
+[update.modrinth]
+mod-id = "kXygSBVI"
+version = "fzIjr6Tn"

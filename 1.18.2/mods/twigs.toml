@@ -1,0 +1,13 @@
+name = "🪵 Twigs"
+filename = "twigs-fabric-1.1.3+legacy.1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RG50cUrX/versions/1.1.3+legacy.1.18.2/twigs-fabric-1.1.3%2Blegacy.1.18.2.jar"
+hash-format = "sha1"
+hash = "544eda62266a8c6f2a4c41a97e2aa36423817094"
+
+[update]
+[update.modrinth]
+mod-id = "RG50cUrX"
+version = "ItKxI7jS"

@@ -1,0 +1,11 @@
+# Manual install as a dependency but does not yet support modrinth.
+
+name = "GeckoLib"
+filename = "geckolib-fabric-1.18-3.0.42.jar"
+side = "both"
+
+[download]
+url = "https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/software/bernie/geckolib/geckolib-fabric-1.18/3.0.42/geckolib-fabric-1.18-3.0.42.jar"
+
+hash-format = "sha256"
+hash = "60e8265e17e87f65cd5374222ea93693f99e866b158e67858dbe6fe9d90b0386"

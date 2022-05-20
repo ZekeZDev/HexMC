@@ -1,0 +1,13 @@
+name = "Guarding!"
+filename = "guarding-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aV1COQ7a/versions/1.0.2/guarding-1.0.2.jar"
+hash-format = "sha1"
+hash = "bc70ca95b9b849f9558634926bd3a23c7057c8bd"
+
+[update]
+[update.modrinth]
+mod-id = "aV1COQ7a"
+version = "A9POgeVZ"

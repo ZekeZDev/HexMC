@@ -1,0 +1,13 @@
+name = "Promenade"
+filename = "promenade-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.6.1/promenade-2.6.1.jar"
+hash-format = "sha1"
+hash = "49526d73b0be80c8ba8ffedd7354d44f44a1bf91"
+
+[update]
+[update.modrinth]
+mod-id = "GuE5FpvB"
+version = "kZEtxN2J"

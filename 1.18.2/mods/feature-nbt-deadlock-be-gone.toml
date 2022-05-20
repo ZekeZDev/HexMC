@@ -1,0 +1,13 @@
+name = "Feature NBT Deadlock Be Gone"
+filename = "feature_nbt_deadlock_be_gone_fabric-2.0.0+1.18.2-rc1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HMNV4z01/versions/2.0.0+1.18.2-rc1_fabric/feature_nbt_deadlock_be_gone_fabric-2.0.0%2B1.18.2-rc1.jar"
+hash-format = "sha1"
+hash = "3cd12653da3a4502c42b7f6d6f935e2ff7ca45b3"
+
+[update]
+[update.modrinth]
+mod-id = "HMNV4z01"
+version = "AJQcpbQc"
