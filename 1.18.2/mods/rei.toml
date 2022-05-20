@@ -3,7 +3,7 @@ filename = "RoughlyEnoughItems-7.4.456.jar"
 side = "both"
 
 [download]
-url = "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/download/3768218/file"
+url = "https://github.com/ZekeSmith/HexMC-Modpack/blob/6c2ddb5eed1dd6a5efeb3a880ba9ac6bbe417150/RoughlyEnoughItems-7.4.456.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
