@@ -54,6 +54,11 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "1c4001eff34abec7ad25eac24b554bb8658cf849ab285f05611168a15c3479cc"
+metafile = true
+
+[[files]]
 file = "mods/blossom.toml"
 hash = "f3b6e06b6315b19169e4bc81a95e68940248f7b111f0d01f638ea2be9c2da46d"
 metafile = true
@@ -81,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.toml"
 hash = "9f6f8ef253da3c5d17050b6a5022693ed1b43f714f6f37bc5d4caf1456338f93"
+metafile = true
+
+[[files]]
+file = "mods/chunky.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/ears.toml"
+hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
@@ -214,6 +229,11 @@ hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
 metafile = true
 
 [[files]]
+file = "mods/guild.toml"
+hash = "b4745e1dcd7e3869a0047dfcb78eb8cd7d5b528bfb97e544aecfe251cb51f2bc"
+metafile = true
+
+[[files]]
 file = "mods/here-be-no-dragons.toml"
 hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
 metafile = true
@@ -279,6 +299,11 @@ hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.toml"
+hash = "fe86d01993ca7aa4c868fa3ccaaae882753f868909711f4ddabb44a0036aa8c0"
+metafile = true
+
+[[files]]
 file = "mods/mining-helmet-mod.toml"
 hash = "5d6f8512c932dea8b8ad443fabfef227686ee87551c8c9396a24706bbbefa709"
 metafile = true
@@ -339,6 +364,11 @@ hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
+file = "mods/plushie.toml"
+hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
 metafile = true
@@ -361,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.toml"
 hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
+metafile = true
+
+[[files]]
+file = "mods/smashing.toml"
+hash = "251b330903978d6939a32e3d238ad0eb39db095e7b31d76c308d404394cfbc5d"
 metafile = true
 
 [[files]]
@@ -391,11 +426,6 @@ metafile = true
 [[files]]
 file = "mods/things.toml"
 hash = "d322ac48506d6865bee1369c47b0220b26356d97049305ba515999d7db415e48"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage.toml"
-hash = "fc3c2766ef8afc1501365e56795dadc1e628bb0861a5bd41f194f147301b1efb"
 metafile = true
 
 [[files]]
