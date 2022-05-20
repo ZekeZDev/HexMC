@@ -394,11 +394,6 @@ hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
 
 [[files]]
-file = "mods/smashing.toml"
-hash = "251b330903978d6939a32e3d238ad0eb39db095e7b31d76c308d404394cfbc5d"
-metafile = true
-
-[[files]]
 file = "mods/snowpig-fabric.toml"
 hash = "75ec3aa60f0ae0fa192a41dbc532c52ce7e345694040881a149cae3ef06fde5b"
 metafile = true
