@@ -97,6 +97,11 @@ hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.toml"
+hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.toml"
 hash = "8abe66f024c57efabee15007de7b70510283223dc9c4e6d0f3ef02c8d462e6b7"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.toml"
 hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
 metafile = true
 
 [[files]]
@@ -494,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/villager-hats.toml"
 hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
+metafile = true
+
+[[files]]
+file = "mods/visuality.toml"
+hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
 metafile = true
 
 [[files]]
