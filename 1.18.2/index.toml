@@ -441,11 +441,6 @@ hash = "293d4b2454e8a8a8a1f108cbfbc53ad04f90bc6fcfc2c0ce3df62c7aad88eac8"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.toml"
-hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
-metafile = true
-
-[[files]]
 file = "mods/norecipebook-fabric.toml"
 hash = "d311731f3bdaa3be7652355d22e9b61934e70764dbe73194075badcaf727e921"
 metafile = true
