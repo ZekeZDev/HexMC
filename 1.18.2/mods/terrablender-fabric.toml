@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "4062b09b241f2478d68de2fb6b59aa239c701d0d"
-url = "https://edge.forgecdn.net/files/3725/995/erraBlender-fabric-1.18.2-1.1.0.99.jar
+url = "https://edge.forgecdn.net/files/3725/995/TerraBlender-fabric-1.18.2-1.1.0.99.jar"
 
 [update]
 [update.curseforge]
