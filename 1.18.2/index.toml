@@ -1,24 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MiniMOTD/icons/HexMC64.png"
-hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
-
-[[files]]
-file = "config/MiniMOTD/main.conf"
-hash = "bd092534643765ab9f95a4158c975efd6fb45475f761e49d61c1335ede5a32d9"
-
-[[files]]
-file = "config/MiniMOTD/plugin_settings.conf"
-hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
-
-[[files]]
 file = "config/campanion.json"
 hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/MiniMOTD/icons/HexMC64.png"
+hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
+
+[[files]]
+file = "config/yosbr/config/MiniMOTD/main.conf"
+hash = "bd092534643765ab9f95a4158c975efd6fb45475f761e49d61c1335ede5a32d9"
+
+[[files]]
+file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
+hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "93a7c17cbb1b20e8219fe1afb4691ba6bb337ed2aec6744db000c7ef60ee1361"
 
 [[files]]
 file = "mods/RoughlyEnoughItems-8.1.457.jar"
