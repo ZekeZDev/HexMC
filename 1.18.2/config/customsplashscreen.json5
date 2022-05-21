@@ -20,7 +20,7 @@
 	"textures": {
 		"BackgroundTexture": "background.jpg",
 		"MojangLogo": "mojangstudios.png",
-		"Aspect1to1Logo": "HexMC.png",
+		"Aspect1to1Logo": "hexmc.png",
 		"BossBarTexture": "textures/gui/bars.png",
 		"CustomBarTexture": "progressbar.png",
 		"CustomBarBackgroundTexture": "progressbar_background.png"
