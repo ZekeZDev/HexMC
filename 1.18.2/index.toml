@@ -38,7 +38,7 @@ hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/main.conf"
-hash = "bd092534643765ab9f95a4158c975efd6fb45475f761e49d61c1335ede5a32d9"
+hash = "af5bf4cc5e0363fa4be3bfe808ca0a5439a202ef0f639d932038084f8135d717"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
@@ -370,11 +370,6 @@ hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
 metafile = true
 
 [[files]]
-file = "mods/krypton.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
 metafile = true
@@ -467,11 +462,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.toml"
 hash = "42f2e5c741eb458efcf1cd71ba22eb67f3ecd312e57970770514264d88eb8d13"
-metafile = true
-
-[[files]]
-file = "mods/pinglist.toml"
-hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
