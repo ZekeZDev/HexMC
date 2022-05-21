@@ -93,6 +93,14 @@ file = "config/yosbr/options.txt"
 hash = "34a2111b33b0c63e7d48e874c6e9c7536d57c050d6c8302e941e1a58c6db1fca"
 
 [[files]]
+file = "mods/RoughlyEnoughItems-8.1.457.jar"
+hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
+
+[[files]]
+file = "mods/TerraBlender-fabric-1.18.2-1.1.0.99.jar"
+hash = "acbff3e5c672c3725194a0536c809e4d5814467bb6eec18bf2ec9feef428ae36"
+
+[[files]]
 file = "mods/addadd.toml"
 hash = "2cfda06c01dabbbf520977a0d16226ade6c13fb7b226cbfb4510ab03195024b8"
 metafile = true
@@ -123,9 +131,8 @@ hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.toml"
-hash = "8d60a7399c7cab7c8092ea9f3eb8d9868f764926691043e08885ed064b3b3401"
-metafile = true
+file = "mods/architectury-4.4.60.jar"
+hash = "b34da3320ea68ee79c0be95f677aef6a600611c5a07138406d21c646063dc402"
 
 [[files]]
 file = "mods/badpackets.toml"
@@ -493,11 +500,6 @@ hash = "6f435a935fe35a67cf0aaec3c76027efe74c51add5ae35243d7455b9619ef32a"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "47561003203faa9d7ee1328439242d6f54aada78209ca35a16a2b102900686a4"
-metafile = true
-
-[[files]]
 file = "mods/servercore.toml"
 hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
@@ -520,11 +522,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.toml"
-hash = "8f4fe75235513d20603a07a28cb909e4c2275a25e7624cb24f91483f5ede8a5d"
 metafile = true
 
 [[files]]
@@ -578,6 +575,5 @@ hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.toml"
-hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
-metafile = true
+file = "mods/yosbr-0.1.1.jar"
+hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
