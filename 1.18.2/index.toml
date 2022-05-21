@@ -491,3 +491,7 @@ metafile = true
 file = "mods/wthit.toml"
 hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
 metafile = true
+
+[[files]]
+file = "mods/yosbr-0.1.1.jar"
+hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
