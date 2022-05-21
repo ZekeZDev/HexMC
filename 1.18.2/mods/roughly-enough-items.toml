@@ -4,7 +4,7 @@ side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ff5ebb1de3f87e5321d748c102dd6a542032796"
+hash = "60f5fd2908a6d905affb42b00277b25563a16553"
 url = "https://edge.forgecdn.net/files/3768/212/RoughlyEnoughItems-8.1.457.jar"
 
 [update]
