@@ -17,12 +17,52 @@ file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
 hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
 
 [[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "8f5c4bac35757d624f296419976aff70a4a5b95c4430aff06048013ea7dd25c4"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "1786a6b8a60d295944e28a4585ba7f9a2f4d2c58bbe5e1932675e27b6f11f3e8"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "9777ceec1ab970d622dd51c655b6a6c9600c1911b204c9b02b0b2d9f1a3c837b"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "4d20619bd1cab384de10738a95ca6943be094bb5df21dc630d3400f25450a03e"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "93a7c17cbb1b20e8219fe1afb4691ba6bb337ed2aec6744db000c7ef60ee1361"
+hash = "34a2111b33b0c63e7d48e874c6e9c7536d57c050d6c8302e941e1a58c6db1fca"
 
 [[files]]
 file = "mods/RoughlyEnoughItems-8.1.457.jar"
