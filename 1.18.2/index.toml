@@ -6,15 +6,15 @@ hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "03dd850c1bb2ac72dac4039831f9e92ee0ae677d230e3d7852d3a3761b8ddce9"
+hash = "575149459c4368bcf73420260cf8636e79ea1e74a18ee9449ff5bbaf11c174c4"
 
 [[files]]
 file = "config/customsplashscreen/HexMC.png"
 hash = "1067701209c439e82ddf4e2bd413f7198aacb3cb3016e924ada41550914a5745"
 
 [[files]]
-file = "config/customsplashscreen/background.png"
-hash = "5af72969e37d96c1de139091fa34e2cf4610a1b72d316e772970b504cd6d7b4a"
+file = "config/customsplashscreen/background.jpg"
+hash = "1f2f9083e336a23f21776e31abc666a0c1fe867529522015fdf6f578b3e38dfc"
 
 [[files]]
 file = "config/customsplashscreen/logo.png"

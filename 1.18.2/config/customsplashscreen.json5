@@ -18,7 +18,7 @@
 	// Change the style of the boss loading bar
 	"bossBarType": "NOTCHED_6",
 	"textures": {
-		"BackgroundTexture": "background.png",
+		"BackgroundTexture": "background.jpg",
 		"MojangLogo": "mojangstudios.png",
 		"Aspect1to1Logo": "HexMC.png",
 		"BossBarTexture": "textures/gui/bars.png",
