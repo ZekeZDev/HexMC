@@ -38,7 +38,7 @@ hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/main.conf"
-hash = "af5bf4cc5e0363fa4be3bfe808ca0a5439a202ef0f639d932038084f8135d717"
+hash = "418b145db2cf2946af812c8119de682e6caf568ba5c389eeb2d17247bee94933"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
