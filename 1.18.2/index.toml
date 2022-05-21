@@ -77,6 +77,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "df19e2800d1be4d4eb6a30c63ba0aa3e4c0b2e1f2174c5ffcc50418a8b437180"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "4d20619bd1cab384de10738a95ca6943be094bb5df21dc630d3400f25450a03e"
 
