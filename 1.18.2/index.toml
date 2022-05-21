@@ -146,11 +146,6 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.toml"
-hash = "1c4001eff34abec7ad25eac24b554bb8658cf849ab285f05611168a15c3479cc"
-metafile = true
-
-[[files]]
 file = "mods/blossom.toml"
 hash = "f3b6e06b6315b19169e4bc81a95e68940248f7b111f0d01f638ea2be9c2da46d"
 metafile = true
