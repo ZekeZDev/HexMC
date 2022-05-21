@@ -496,11 +496,6 @@ hash = "6f435a935fe35a67cf0aaec3c76027efe74c51add5ae35243d7455b9619ef32a"
 metafile = true
 
 [[files]]
-file = "mods/servercore.toml"
-hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
-metafile = true
-
-[[files]]
 file = "mods/snowpig-fabric.toml"
 hash = "75ec3aa60f0ae0fa192a41dbc532c52ce7e345694040881a149cae3ef06fde5b"
 metafile = true
