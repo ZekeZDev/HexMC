@@ -41,10 +41,6 @@ file = "config/yosbr/config/iris.properties"
 hash = "1786a6b8a60d295944e28a4585ba7f9a2f4d2c58bbe5e1932675e27b6f11f3e8"
 
 [[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "9777ceec1ab970d622dd51c655b6a6c9600c1911b204c9b02b0b2d9f1a3c837b"
-
-[[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
@@ -194,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.toml"
 hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true
 
 [[files]]
@@ -374,11 +375,6 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.toml"
 hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.toml"
-hash = "91715ce7c8cc859d170c1d3753c6747f153ffbe942265a16d64dfe37635f7b95"
 metafile = true
 
 [[files]]
