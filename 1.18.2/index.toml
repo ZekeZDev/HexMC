@@ -5,6 +5,34 @@ file = "config/campanion.json"
 hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "03dd850c1bb2ac72dac4039831f9e92ee0ae677d230e3d7852d3a3761b8ddce9"
+
+[[files]]
+file = "config/customsplashscreen/HexMC.png"
+hash = "1067701209c439e82ddf4e2bd413f7198aacb3cb3016e924ada41550914a5745"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "5af72969e37d96c1de139091fa34e2cf4610a1b72d316e772970b504cd6d7b4a"
+
+[[files]]
+file = "config/customsplashscreen/logo.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
 file = "config/yosbr/config/MiniMOTD/icons/HexMC64.png"
 hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
 
