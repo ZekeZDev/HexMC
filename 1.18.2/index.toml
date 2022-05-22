@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "d7c25ecee61323b1f7efea5955440a78c9daa7015b155ba73a653ca9790f9ecd"
-
-[[files]]
 file = "config/arcanus.json5"
 hash = "0ca72244069750b2b7dbf6ce19439db81a83b6210e86dbff3ef68ac03c4b5f2d"
 
@@ -580,10 +576,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
-
-[[files]]
-file = "world/.DS_Store"
-hash = "52dcc002e27f7b1ddb21e2bdfdd72120e0c2ac0e02ae5b1d94b513a0e4dd7022"
 
 [[files]]
 file = "world/datapacks/player-head-drops.zip"
