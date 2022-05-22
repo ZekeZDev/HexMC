@@ -1,13 +1,13 @@
 name = "Additional Additions"
-filename = "AdditionalAdditions-4.0.1.jar"
+filename = "AdditionalAdditions-4.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.1/AdditionalAdditions-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.2/AdditionalAdditions-4.0.2.jar"
 hash-format = "sha1"
-hash = "99ed4ca5f021d9eab0a2520590f6a6e94b38c257"
+hash = "c64967fef98cb8995e49e15867913e3c8d39a4b9"
 
 [update]
 [update.modrinth]
 mod-id = "R4TvILfj"
-version = "evYSC2qe"
+version = "qZuVzHFp"

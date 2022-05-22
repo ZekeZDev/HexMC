@@ -106,12 +106,12 @@ hash = "acbff3e5c672c3725194a0536c809e4d5814467bb6eec18bf2ec9feef428ae36"
 
 [[files]]
 file = "mods/addadd.toml"
-hash = "2cfda06c01dabbbf520977a0d16226ade6c13fb7b226cbfb4510ab03195024b8"
+hash = "36bc2592d980be680410975a189779226e1a631b0e7a8f5672e9ef7433d26e51"
 metafile = true
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "15fcca6a823bd7a980eee0a57ecc48396b4b083e8165387700e62615af391c57"
+hash = "d2ecfefe5edc7d4f2667bdf76706ebf7693ebff3d98b6b653663fd3f0004bae7"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
+hash = "05f054965d0aab61ddf3569fad49fd3ffb8d922c82fb0ec5d4f5cfb72679309f"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.toml"
-hash = "2e31d494d9d4cf10d4f8a7cfd506d1797d9ee3937258902b145cf2532cedab77"
+hash = "c69cafa2a1579de40fa2b7c4dc278bd59ab26f3e2ea79a6e1ee26d7dcd4b2b78"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
