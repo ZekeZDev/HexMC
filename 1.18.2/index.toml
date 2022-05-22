@@ -199,6 +199,11 @@ hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.toml"
 hash = "15fcca6a823bd7a980eee0a57ecc48396b4b083e8165387700e62615af391c57"
 metafile = true
@@ -551,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.toml"
 hash = "47c2cbbd078ba86f70ea4e79b9519936aa29694ffb91d24661d9e9e88dba696f"
-metafile = true
-
-[[files]]
-file = "mods/vanity.toml"
-hash = "ef139a336d085b5748f37caf5192b502252a3058f0950fe0b19b9ba029db6031"
 metafile = true
 
 [[files]]
