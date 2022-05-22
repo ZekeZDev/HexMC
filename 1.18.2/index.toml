@@ -576,3 +576,7 @@ metafile = true
 [[files]]
 file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
+
+[[files]]
+file = "world/datapacks/player-head-drops.zip"
+hash = "cb6da6153d47cbdf2607dcd07fbcdf84381287405e07e863057911a536a77da2"
