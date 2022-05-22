@@ -1,0 +1,13 @@
+name = "Shards!"
+filename = "shards-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TWPLl9TB/versions/1/shards-1.0.jar"
+hash-format = "sha1"
+hash = "4aa60b054e2c2795a3fee0eb4f572f3a491b6398"
+
+[update]
+[update.modrinth]
+mod-id = "TWPLl9TB"
+version = "iQnl7g6x"

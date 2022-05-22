@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/arcanus.json5"
+hash = "0ca72244069750b2b7dbf6ce19439db81a83b6210e86dbff3ef68ac03c4b5f2d"
+
+[[files]]
 file = "config/campanion.json"
 hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
@@ -340,6 +344,16 @@ hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.toml"
+hash = "7599eeb73b329e1a2de390b04068132339633beed1eeaf7cce6b22451f7c00a6"
+metafile = true
+
+[[files]]
+file = "mods/horseinboat.toml"
+hash = "cab55b9d6a2888c9de60ffe4e425c2f0fe0333e2b7806f0f3bbc8e05e9068d4b"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.toml"
 hash = "d77d0fe2df4d0c37048b0cf0dbaf9ff2a5a3d1d15a3d48c61bee8e8c9e797d9e"
 metafile = true
@@ -500,6 +514,11 @@ hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
 
 [[files]]
+file = "mods/shards.toml"
+hash = "6d284a273a0e837276f5af1fe2e81439f956220f89efb61a4e57c9a8bac2d831"
+metafile = true
+
+[[files]]
 file = "mods/snowpig-fabric.toml"
 hash = "75ec3aa60f0ae0fa192a41dbc532c52ce7e345694040881a149cae3ef06fde5b"
 metafile = true
@@ -520,11 +539,6 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
-file = "mods/the-box-trot.toml"
-hash = "e2e34636719e8bbc49fceb369e481a4f65d81613296d99f075b44888006d9ad8"
-metafile = true
-
-[[files]]
 file = "mods/things.toml"
 hash = "d322ac48506d6865bee1369c47b0220b26356d97049305ba515999d7db415e48"
 metafile = true
@@ -532,11 +546,6 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.toml"
 hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
-metafile = true
-
-[[files]]
-file = "mods/transparent-cosmetics.toml"
-hash = "af9698c6f2f6937a34519110b98a0f083701bd81288b9044aafaf84c785fbc47"
 metafile = true
 
 [[files]]
