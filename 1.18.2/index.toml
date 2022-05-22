@@ -576,3 +576,7 @@ metafile = true
 [[files]]
 file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
+
+[[files]]
+file = "world/datapacks/multiplayer sleep v2.6.2.zip"
+hash = "68170786126a43fc7ab5e23c6d234ae0fca3b2f8a3181acd647cb00e8142cb0f"
