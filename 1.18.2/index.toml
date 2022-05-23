@@ -330,6 +330,11 @@ hash = "dd86dde9b75daf2f1c9f0e87186f5c8e728ca84dafd0986225afc25bad4aa880"
 metafile = true
 
 [[files]]
+file = "mods/goml-reserved.toml"
+hash = "d15760f67ce06f4f75c8c14f20cb188ea2a3601df5c1cb10e64f2c014028cc30"
+metafile = true
+
+[[files]]
 file = "mods/guarding.toml"
 hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
 metafile = true
