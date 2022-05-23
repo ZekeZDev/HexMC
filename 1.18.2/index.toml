@@ -135,8 +135,9 @@ hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
 
 [[files]]
-file = "mods/architectury-4.4.60.jar"
-hash = "b34da3320ea68ee79c0be95f677aef6a600611c5a07138406d21c646063dc402"
+file = "mods/architectury-api.toml"
+hash = "4c0f03fcb6c8d6b1627985c8a602d8c77852d690be3185acdec5c09ebb48d29f"
+metafile = true
 
 [[files]]
 file = "mods/badpackets.toml"
