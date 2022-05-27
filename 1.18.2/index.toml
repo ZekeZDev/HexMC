@@ -135,6 +135,11 @@ hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
 
 [[files]]
+file = "mods/aphid_additions.pw.toml"
+hash = "f020eeecf13374d31f606707aad8e11a746081cdcb6e4baa1e9f7d9b968d5298"
+metafile = true
+
+[[files]]
 file = "mods/arcanus.toml"
 hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
@@ -375,8 +380,8 @@ hash = "473efcd8f932c19de373116114f8ce9f84bacb987991989d7e841642d253daae"
 metafile = true
 
 [[files]]
-file = "mods/illager-expansion.toml"
-hash = "6c303c80feeb2917babcf76a6d06dfed64530e4c1d584d32d7248810e7c58ade"
+file = "mods/illager-expansion-forked.pw.toml"
+hash = "0d375fd5db6f819b2203cf130e1c70f097e618e6f3abf9e9412acde281455357"
 metafile = true
 
 [[files]]
@@ -562,11 +567,6 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.toml"
 hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers-structure-add-on.pw.toml"
-hash = "bdc458c65ea6a00c97f697a477397dc9a01b4bafffac4d3ed52cc49c057857e2"
 metafile = true
 
 [[files]]
