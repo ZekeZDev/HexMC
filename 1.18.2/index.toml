@@ -106,7 +106,7 @@ hash = "acbff3e5c672c3725194a0536c809e4d5814467bb6eec18bf2ec9feef428ae36"
 
 [[files]]
 file = "mods/addadd.toml"
-hash = "36bc2592d980be680410975a189779226e1a631b0e7a8f5672e9ef7433d26e51"
+hash = "21045286366a40ebfe18316a4361ef4e2360f7f06fb0dda95876f71ed4d19a1e"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "4c0f03fcb6c8d6b1627985c8a602d8c77852d690be3185acdec5c09ebb48d29f"
+hash = "a0a03975e12de7562d53d27d49015404df6c279c027f85943acc580b878ed5b5"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "d2ecfefe5edc7d4f2667bdf76706ebf7693ebff3d98b6b653663fd3f0004bae7"
+hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.toml"
-hash = "0838d9426d8bba711b822968b0c9b2a41d064d6c0b071c7f44a096b620d49b94"
+hash = "4319357e42e227de4a456c77953609e2e32cc2cd6558777a441b586c0cfe4839"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "05f054965d0aab61ddf3569fad49fd3ffb8d922c82fb0ec5d4f5cfb72679309f"
+hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.toml"
-hash = "7599eeb73b329e1a2de390b04068132339633beed1eeaf7cce6b22451f7c00a6"
+hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/promenade.toml"
-hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
+hash = "31d5b8fa0b81aa6355abb753cca9a60cac11694bf4a87f4d818e8244bc2f2601"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "6f435a935fe35a67cf0aaec3c76027efe74c51add5ae35243d7455b9619ef32a"
+hash = "64fa5ecce5d8f39948eb63786489be3de10154a62d53fff05aaf861cee80095f"
 metafile = true
 
 [[files]]
@@ -532,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2140367d53fc14e3223ffed3802bd3a0c6548208458e0dd4aecd040d8b04cf4e"
 metafile = true
 
 [[files]]
