@@ -260,6 +260,11 @@ hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "282f0da3fba7fb5b7d53e06dcfe2b7200f118f29a48392ce497a03ecc7e8e2cb"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.toml"
 hash = "8f100e5959aaeb745edb9f27e5a4d6d858e530480c79c1befe3c1ff49ebe05e2"
 metafile = true
