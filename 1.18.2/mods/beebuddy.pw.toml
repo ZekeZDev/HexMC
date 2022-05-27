@@ -1,0 +1,14 @@
+name = "Bee Buddies"
+filename = "beebuddy-1.1.4+1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LrD18LI/versions/v1.1.4+1.18.2/beebuddy-1.1.4%2B1.18.jar"
+hash-format = "sha1"
+hash = "9ce422e9e14e26435b3775e3523c47ed1bab47cb"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "9LrD18LI"
+version = "kOHgpCcw"

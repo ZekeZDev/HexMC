@@ -160,6 +160,11 @@ hash = "8979c102241e3de5365b478762d1600ca6fb5249775e6c9fa3519e0b2045830d"
 metafile = true
 
 [[files]]
+file = "mods/beebuddy.pw.toml"
+hash = "78eb1ea1b060a0456045f71489c2fd310350d9524e3594d0d33c09f06129df04"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -307,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "ad97511f5bd0b95146a47beb412ea482ed4941d6b3411842a166da8709ba6e16"
 metafile = true
 
 [[files]]
