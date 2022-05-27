@@ -1,0 +1,14 @@
+name = "Towns and Tower - Structure Add-on"
+filename = "Towns-and-Towers-1.18.2-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/1.6.0/Towns-and-Towers-1.18.2-1.6.0.jar"
+hash-format = "sha1"
+hash = "20a416e69e59c0199c53fcb14500cb400c02e58f"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "DjLobEOy"
+version = "HCI7zdCJ"
