@@ -11,3 +11,6 @@ hash = "1764b586d7fc41e949123d0d0b62f1fc11cc016e"
 [update.modrinth]
 mod-id = "TvL1V8O5"
 version = "anSpGZkl"
+
+[option]
+optional=true
