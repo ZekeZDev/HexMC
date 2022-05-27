@@ -175,6 +175,11 @@ hash = "8abe66f024c57efabee15007de7b70510283223dc9c4e6d0f3ef02c8d462e6b7"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
+metafile = true
+
+[[files]]
 file = "mods/campanion.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true
@@ -267,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
-metafile = true
-
-[[files]]
-file = "mods/extraalchemy.toml"
-hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
 metafile = true
 
 [[files]]
@@ -477,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.toml"
 hash = "cb8b77a8abe8fce770d8628a886e8d1bd3a2a7b93bd406025e521a61696a8547"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.toml"
-hash = "42f2e5c741eb458efcf1cd71ba22eb67f3ecd312e57970770514264d88eb8d13"
 metafile = true
 
 [[files]]
