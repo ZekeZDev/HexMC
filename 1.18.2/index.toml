@@ -37,6 +37,10 @@ file = "config/customsplashscreen/progressbar_background.png"
 hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
+file = "config/desiredServers/desiredservers.json"
+hash = "b7e5135078b275853d8a6284f6afad0baf3fd035f107b67d228c4cc32fa7ba13"
+
+[[files]]
 file = "config/yosbr/config/MiniMOTD/icons/HexMC64.png"
 hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
 
