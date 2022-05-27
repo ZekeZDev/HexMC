@@ -125,6 +125,11 @@ hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "068ec29e5c2383192c89411a3c47909a06f3aa1015c73cfdba1d265283196510"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
@@ -172,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.toml"
 hash = "8abe66f024c57efabee15007de7b70510283223dc9c4e6d0f3ef02c8d462e6b7"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
 metafile = true
 
 [[files]]
@@ -425,6 +425,11 @@ hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "362fef2dc27b20cc0c0de98d86d03f9405d3c83af4e7343fc227f151ed9020a4"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.toml"
 hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
 metafile = true
@@ -432,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/minimotd.toml"
 hash = "fe86d01993ca7aa4c868fa3ccaaae882753f868909711f4ddabb44a0036aa8c0"
+metafile = true
+
+[[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "c01b295b693d08643fb6ac38a667b64dd350a28e8cb191208e55a5e2db9226f6"
 metafile = true
 
 [[files]]
