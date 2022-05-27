@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/promenade.toml"
-hash = "31d5b8fa0b81aa6355abb753cca9a60cac11694bf4a87f4d818e8244bc2f2601"
+hash = "aa63b6bd117897eb7d2fdcdae81e4bf7e426e9dd723ea06cd87cd79a39e34bda"
 metafile = true
 
 [[files]]
