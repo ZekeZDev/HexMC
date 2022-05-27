@@ -275,6 +275,11 @@ hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
+file = "mods/expanded-caves.pw.toml"
+hash = "d218f8b9ae54fa5b5305c7e1afe323c96b532b93fa8c9e3edae7aad10f8830d2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
@@ -437,11 +442,6 @@ metafile = true
 [[files]]
 file = "mods/minimotd.toml"
 hash = "fe86d01993ca7aa4c868fa3ccaaae882753f868909711f4ddabb44a0036aa8c0"
-metafile = true
-
-[[files]]
-file = "mods/missing-wilds.pw.toml"
-hash = "c01b295b693d08643fb6ac38a667b64dd350a28e8cb191208e55a5e2db9226f6"
 metafile = true
 
 [[files]]
