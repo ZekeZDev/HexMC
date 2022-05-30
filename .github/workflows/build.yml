@@ -12,26 +12,56 @@ jobs:
         with:
           submodules: 'true'
 
+      - name: Download Dependencys
+        run: |
+          sudo apt install git p7zip make
+
       - name: Set up Go 1.18
         uses: actions/setup-go@v3
         with:
           go-version: '1.18'
-
-      - name: Download Dependencys
-        run: |
-          sudo apt install git p7zip make
 
       - name: Setup packwiz
         run: |
           go install github.com/packwiz/packwiz@latest
           export PATH=${PATH}:`go env GOPATH`/bin
 
-      - name: Create modrinth
+      - name: Make Modrinth
         run: |
           make modrinth
 
-      - name: Upload Packwiz Auto Update Modpack
+      - name: Make Curseforge
+        run: |
+          make curseforge
+
+      - name: Make PolyMC (Auto Update)
+        run: |
+          make polymc
+
+      - name: Make Technic
+        run: |
+          make technic
+
+      - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Modrinth.zip
           path: modpack-modrinth.zip
+
+      - name: Upload Curseforge
+        uses: actions/upload-artifact@v3
+        with:
+          name: HexMC-Curseforge.zip
+          path: modpack-curseforge.zip
+
+      - name: Upload PolyMC (Auto Update)
+        uses: actions/upload-artifact@v3
+        with:
+          name: HexMC-PolyMC-Auto.zip
+          path: modpack-polymc.zip
+
+      - name: Upload Technic
+        uses: actions/upload-artifact@v3
+        with:
+          name: HexMC-Technic.zip
+          path: modpack-technic.zip

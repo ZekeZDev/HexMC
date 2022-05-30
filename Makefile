@@ -25,13 +25,13 @@ modrinth:
 	packwiz modrinth export --pack-file .minecraft/pack.toml -o ./modpack-modrinth.zip
 	7z d ./modpack-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
-multimc:
-	@echo "Making MultiMC pack"
-	7z d ./modpack-multimc.zip ./* -r
-	7z d ./modpack-multimc.zip ./.minecraft -r
-	7z a ./modpack-multimc.zip ./* -r
-	7z a ./modpack-multimc.zip ./.minecraft -r
-	7z d ./modpack-multimc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
+polymc:
+	@echo "Making PolyMC pack"
+	7z d ./modpack-polymc.zip ./* -r
+	7z d ./modpack-polymc.zip ./.minecraft -r
+	7z a ./modpack-polymc.zip ./* -r
+	7z a ./modpack-polymc.zip ./.minecraft -r
+	7z d ./modpack-polymc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
 
 technic:
 	@echo "Making Technic pack"
