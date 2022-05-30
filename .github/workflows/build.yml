@@ -29,6 +29,8 @@ jobs:
       - name: Make Modrinth
         run: |
           make modrinth
+          mkdir .modrinth && cd .modrinth
+          unzip ../modpack-modrinth.zip
 
       - name: Make PolyMC (Auto Update)
         run: |
@@ -42,7 +44,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Modrinth
-          path: modpack-modrinth.zip
+          path: .modrinth
           
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
