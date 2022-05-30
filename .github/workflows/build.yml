@@ -35,6 +35,8 @@ jobs:
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
+          mkdir .polymc && cd .polymc
+          unzip ../modpack-polymc.zip
 
       - name: Make Technic
         run: |
@@ -50,7 +52,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-PolyMC-Auto
-          path: modpack-polymc.zip
+          path: .polymc
 
       - name: Upload Technic
         uses: actions/upload-artifact@v3

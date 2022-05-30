@@ -39,7 +39,7 @@ technic:
 	cd .technic && java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/ZekeSmith/HexMC/main/.minecraft/pack.toml && cd ..
 	-rm -rf .technic/packwiz*
 	-rm -rf .technic/mods/*.toml
-
+	
 clean:
 	-rm -rf .technic
 	-git gc --aggressive --prune
