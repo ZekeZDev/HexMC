@@ -1,18 +1,21 @@
 name: Build Modpack
 on: [push]
 jobs:
+
   build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
+
       - name: Download Dependencys
         run: |
           sudo apt install git p7zip make
 
       - name: Setup packwiz
         uses: actions/checkout@v3
-        - uses: actions/setup-go@v3
-          with:
-            go-version: '^1.13.1' # The Go version to download (if necessary) and use.
+        uses: actions/setup-go@v3
+        with:
+          go-version: '^1.13.1' # The Go version to download (if necessary) and use.
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Create modrinth
