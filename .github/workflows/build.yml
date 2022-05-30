@@ -23,7 +23,7 @@ jobs:
           sudo apt install git p7zip make
 
       - name: Setup packwiz
-        run: go install github.com/packwiz/packwiz@latest
+        run: sudo go install github.com/packwiz/packwiz@latest
 
       - name: Create modrinth
         run: |
