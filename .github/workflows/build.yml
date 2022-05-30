@@ -1,7 +1,7 @@
 name: Build Modpack
 on: [push]
 jobs:
-  check-bats-version:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Download Dependencys
