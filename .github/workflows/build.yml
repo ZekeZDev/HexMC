@@ -15,7 +15,7 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Create modrinth
-          run: sudo apt install git p7zip make
+        run: sudo apt install git p7zip make
 
       - name: Upload Packwiz Auto Update Modpack
         uses: actions/upload-artifact@v3
