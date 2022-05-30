@@ -1,5 +1,5 @@
 name: Build Modpack
-on: [push]
+on: [push, pull_request]
 jobs:
 
   build:
@@ -30,10 +30,6 @@ jobs:
         run: |
           make modrinth
 
-      - name: Make Curseforge
-        run: |
-          make curseforge
-
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
@@ -47,12 +43,6 @@ jobs:
         with:
           name: HexMC-Modrinth.zip
           path: modpack-modrinth.zip
-
-      - name: Upload Curseforge
-        uses: actions/upload-artifact@v3
-        with:
-          name: HexMC-Curseforge.zip
-          path: modpack-curseforge.zip
 
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
