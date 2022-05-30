@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bin/version.json"
+hash = "517d3dcd1f6c9c51268f208356c3443a4941cb03827b80db8754ee067484852a"
+
+[[files]]
 file = "config/arcanus.json5"
 hash = "0ca72244069750b2b7dbf6ce19439db81a83b6210e86dbff3ef68ac03c4b5f2d"
 
@@ -99,6 +103,10 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "34a2111b33b0c63e7d48e874c6e9c7536d57c050d6c8302e941e1a58c6db1fca"
+
+[[files]]
+file = "hexmc.icon.png"
+hash = "a2a1d615dd1e2483e00468dac4072ff2dbd0db692a3db519c6b4ebbbda3d3a21"
 
 [[files]]
 file = "mods/RoughlyEnoughItems-8.1.457.jar"
@@ -621,3 +629,7 @@ metafile = true
 [[files]]
 file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
