@@ -45,7 +45,7 @@ jobs:
         with:
           name: HexMC-Modrinth
           path: .modrinth
-          
+
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
         with:

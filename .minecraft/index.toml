@@ -109,6 +109,10 @@ file = "hexmc.icon.png"
 hash = "a2a1d615dd1e2483e00468dac4072ff2dbd0db692a3db519c6b4ebbbda3d3a21"
 
 [[files]]
+file = "modpack.icon.png"
+hash = "a2a1d615dd1e2483e00468dac4072ff2dbd0db692a3db519c6b4ebbbda3d3a21"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-8.1.457.jar"
 hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
 
