@@ -27,7 +27,7 @@ jobs:
 
       - name: Create modrinth
         run: |
-          sudo apt install git p7zip make
+          make modrinth
 
       - name: Upload Packwiz Auto Update Modpack
         uses: actions/upload-artifact@v3
