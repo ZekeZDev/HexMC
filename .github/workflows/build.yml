@@ -38,6 +38,10 @@ jobs:
         run: |
           make polymc
 
+      - name: Make Technic
+        run: |
+          make technic
+
       - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
@@ -55,3 +59,9 @@ jobs:
         with:
           name: HexMC-PolyMC-Auto.zip
           path: modpack-polymc.zip
+
+      - name: Upload Technic
+        uses: actions/upload-artifact@v3
+        with:
+          name: HexMC-Technic.zip
+          path: modpack-technic.zip
