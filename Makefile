@@ -18,11 +18,11 @@ default:
 curseforge:
 	@echo "Making Curseforge pack"
 	packwiz curseforge export --pack-file .minecraft/pack.toml -o ./modpack-curseforge.zip
-	7z d ./modpack-curseforge.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	7z d ./modpack-curseforge.mr overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 modrinth:
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file .minecraft/pack.toml -o ./modpack-modrinth.zip
+	packwiz modrinth export --pack-file .minecraft/pack.toml -o ./modpack-modrinth.mr
 	7z d ./modpack-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 polymc:
