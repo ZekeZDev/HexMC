@@ -41,17 +41,17 @@ jobs:
       - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
-          name: HexMC-Modrinth.zip
+          name: HexMC-Modrinth
           path: modpack-modrinth.zip
 
       - name: Upload Curseforge
         uses: actions/upload-artifact@v3
         with:
-          name: HexMC-Curseforge.zip
+          name: HexMC-Curseforge
           path: modpack-curseforge.zip
 
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
         with:
-          name: HexMC-PolyMC-Auto.zip
+          name: HexMC-PolyMC-Auto
           path: modpack-polymc.zip
