@@ -42,7 +42,7 @@ hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
 file = "config/desiredServers/desiredservers.json"
-hash = "b7e5135078b275853d8a6284f6afad0baf3fd035f107b67d228c4cc32fa7ba13"
+hash = "08329c92e6096df70462cfd23aa746067051669ccc37b1b0ef76363266e1e314"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/icons/HexMC64.png"
