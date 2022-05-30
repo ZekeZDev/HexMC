@@ -40,8 +40,7 @@ technic:
 	mv .technic/modpack.icon.png .technic/icon.png
 	cd .technic && java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/ZekeSmith/HexMC/main/.minecraft/pack.toml && cd ..
 	-rm -rf .technic/packwiz*
-	7z d ./modpack-technic.zip ./* -r
-	7z a ./modpack-technic.zip ./.technic/* -r
+	-rm -rf .technic/mods/*.toml
 
 clean:
 	-rm -rf .technic

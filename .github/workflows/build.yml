@@ -1,5 +1,5 @@
 name: Build Modpack
-on: [push]
+on: [push, pull_request]
 jobs:
 
   build:
@@ -30,28 +30,28 @@ jobs:
         run: |
           make modrinth
 
-      - name: Make Curseforge
-        run: |
-          make curseforge
-
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
+
+      - name: Make Technic
+        run: |
+          make technic
 
       - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Modrinth
           path: modpack-modrinth.zip
-
-      - name: Upload Curseforge
-        uses: actions/upload-artifact@v3
-        with:
-          name: HexMC-Curseforge
-          path: modpack-curseforge.zip
-
+          
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-PolyMC-Auto
           path: modpack-polymc.zip
+
+      - name: Upload Technic
+        uses: actions/upload-artifact@v3
+        with:
+          name: HexMC-Technic
+          path: .technic
