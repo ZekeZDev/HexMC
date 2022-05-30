@@ -34,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Modrinth.zip
-          path: modrinth-modpack.zip
+          path: modpack-modrinth.zip
