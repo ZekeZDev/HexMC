@@ -33,8 +33,8 @@ modrinth:
 polymc:
 	@echo "Making PolyMC pack"
 	7z d ./build/modpack-polymc.zip ./pack/* -r
-	7z d ./build/modpack-polymc.zip .minecraft -r
-	7z a ./build/modpack-polymc.zip ./launcher/* -r
+	7z d ./build/modpack-polymc.zip ./pack/.minecraft -r
+	7z a ./build/modpack-polymc.zip ./pack/* -r
 	7z a ./build/modpack-polymc.zip ./pack/.minecraft -r
 	7z d ./build/modpack-polymc.zip ./pack/.minecraft/mods ./pack/.minecraft/pack.toml ./pack/.minecraft/index.toml -r
 
