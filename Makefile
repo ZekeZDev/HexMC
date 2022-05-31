@@ -40,7 +40,7 @@ technic:
 	-rm -rf ./build/.technic
 	-cp -r ./src/.minecraft ./build/.technic
 	-cp ./src/icon.png ./build/.technic/
-	cd ./build/.technic && java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/ZekeSmith/HexMC/main/.minecraft/pack.toml -g && cd ..
+	cd ./build/.technic && java -jar packwiz-installer-bootstrap.jar https://zekesmith.github.io/HexMC/src/.minecraft/pack.toml -g && cd ..
 	-rm -rf ./build/.technic/packwiz*
 	7z d ./build/modpack-technic.zip ./* -r
 	7z a ./build/modpack-technic.zip ./build/.technic/* -r
