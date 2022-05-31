@@ -1,7 +1,7 @@
 server/
+build/
 packwiz
 .DS_Store
-
 
 ## Prevent Vanillia Minecraft folders from being tracked
 .minecraft/coremods

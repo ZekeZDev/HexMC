@@ -17,33 +17,36 @@ default:
 	
 curseforge:
 	@echo "Making Curseforge pack"
-	packwiz curseforge export --pack-file .minecraft/pack.toml -o ./modpack-curseforge.zip
-	7z d ./modpack-curseforge.mr overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	mkdir -p build
+	packwiz curseforge export --pack-file .minecraft/pack.toml -o ./build/modpack-curseforge.zip
+	7z d ./build/modpack-curseforge.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 modrinth:
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file .minecraft/pack.toml -o ./modpack-modrinth.mrpack
-	7z d ./modpack-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	mkdir -p build
+	packwiz modrinth export --pack-file .minecraft/pack.toml -o ./build/modpack-modrinth.mrpack
+	7z d ./build/modpack-modrinth.mrpack overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 polymc:
 	@echo "Making PolyMC pack"
-	7z d ./modpack-polymc.zip ./* -r
-	7z d ./modpack-polymc.zip ./.minecraft -r
-	7z a ./modpack-polymc.zip ./* -r
-	7z a ./modpack-polymc.zip ./.minecraft -r
-	7z d ./modpack-polymc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
+	7z d ./build/modpack-polymc.zip ./polymc-packwiz/* -r
+	7z d ./build/modpack-polymc.zip ./.minecraft -r
+	7z a ./build/modpack-polymc.zip ./polymc-packwiz/* -r
+	7z a ./build/modpack-polymc.zip ./.minecraft -r
+	7z d ./build/modpack-polymc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
 
 technic:
 	@echo "Making Technic pack"
-	-rm -rf .technic
-	-cp -r .minecraft .technic
+	-rm -rf ./build/.technic
+	-cp -r .minecraft ./build/.technic
 	mv .technic/modpack.icon.png .technic/icon.png
-	cd .technic && java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/ZekeSmith/HexMC/main/.minecraft/pack.toml && cd ..
-	-rm -rf .technic/packwiz*
-	-rm -rf .technic/mods/*.toml
+	cd .technic && java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/ZekeSmith/HexMC/main/.minecraft/pack.toml -g && cd ..
+	-rm -rf ./build/.technic/packwiz*
+	7z d ./build/modpack-technic.zip ./* -r
+	7z a ./build/modpack-technic.zip ./build/.technic/* -r
 
 clean:
-	-rm -rf .technic
+	-rm -rf ./build/.technic
 	-git gc --aggressive --prune
 
-all: curseforge modrinth multimc technic clean
+all: curseforge modrinth polymc technic clean
