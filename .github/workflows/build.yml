@@ -48,10 +48,10 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-PolyMC-Auto
-          path: modpack-polymc.zip
+          path: build/modpack-polymc.zip
 
       - name: Upload Technic
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Technic
-          path: .technic
+          path: build/.technic
