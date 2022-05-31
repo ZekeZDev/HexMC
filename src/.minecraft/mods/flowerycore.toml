@@ -1,13 +1,14 @@
 name = "Flowery Core"
-filename = "flowerycore-4.jar"
+filename = "flowerycore-5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CbUFLD9r/versions/fabric4/flowerycore-4.jar"
+url = "https://cdn.modrinth.com/data/CbUFLD9r/versions/4fabric/flowerycore-5.jar"
 hash-format = "sha1"
-hash = "6a92452681325f60aa0cb4495ec5d0dd3840ebc7"
+hash = "09bd74d047c8dd864c9975ac5445380b58656be3"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "CbUFLD9r"
-version = "ZymyiX3x"
+version = "93hZYeJy"

@@ -114,7 +114,7 @@ hash = "acbff3e5c672c3725194a0536c809e4d5814467bb6eec18bf2ec9feef428ae36"
 
 [[files]]
 file = "mods/addadd.toml"
-hash = "21045286366a40ebfe18316a4361ef4e2360f7f06fb0dda95876f71ed4d19a1e"
+hash = "817d444340345cbd5eb9860d1fd2eccabfc54e5579c5f46d05e05e150573c769"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "a0a03975e12de7562d53d27d49015404df6c279c027f85943acc580b878ed5b5"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowerycore.toml"
-hash = "5b917d3036cc99e285a3a28674a853472f506ac99ba00eace7600949003fef7d"
+hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.toml"
-hash = "e8b275520835cf842cd127a12b7239ed10723dfe07919481aef1c9d870292bfb"
+hash = "d3353d8bc14ca27ecb6918f4c56de094dbc46f9b407ecc97d23a2302ad5e9a31"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "362fef2dc27b20cc0c0de98d86d03f9405d3c83af4e7343fc227f151ed9020a4"
+hash = "88cc6278f17ebfc8032951c41a681cd493262fa590a42627910cf0dcabc4b6fc"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.toml"
-hash = "cb8b77a8abe8fce770d8628a886e8d1bd3a2a7b93bd406025e521a61696a8547"
+hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "64fa5ecce5d8f39948eb63786489be3de10154a62d53fff05aaf861cee80095f"
+hash = "4a49361d671362f6561f7c38e49adef060c38a2506ef68006cc0b6bc7b11a5d7"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/things.toml"
-hash = "d322ac48506d6865bee1369c47b0220b26356d97049305ba515999d7db415e48"
+hash = "2b30f1388f00f7639796be1fe81ea3ace431785d6f0247a88671bc7e4e4afee5"
 metafile = true
 
 [[files]]
