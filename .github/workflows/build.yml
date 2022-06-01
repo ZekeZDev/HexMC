@@ -29,12 +29,12 @@ jobs:
       - name: Make Modrinth
         run: |
           make modrinth
-          7z x ./build/modpack-modrinth.mrpack -o.modrinth
+          7z x ./build/modpack-modrinth.mrpack -o./build/.modrinth
 
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
-          7z x ./build/modpack-modrinth.mrpack -o.polymc
+          7z x ./build/modpack-modrinth.mrpack -o./build/.polymc
 
       - name: Make Technic
         run: |
