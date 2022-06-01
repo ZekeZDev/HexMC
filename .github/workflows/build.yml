@@ -34,7 +34,7 @@ jobs:
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
-          7z x ./build/modpack-modrinth.mrpack -o./build/.polymc
+          7z x ./build/modpack-polymc.zip -o./build/.polymc
 
       - name: Make Technic
         run: |
