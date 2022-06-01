@@ -43,9 +43,9 @@ technic:
 	mkdir -p build
 	-cp -r ./pack/.minecraft ./build/.technic
 	-cp ./pack/icon.png ./build/.technic/
-	java -jar ./build/.technic/packwiz-installer-bootstrap.jar https://zekesmith.github.io/HexMC/pack/.minecraft/pack.toml -g
+	cd ./build/.technic && java -jar packwiz-installer-bootstrap.jar https://zekesmith.github.io/HexMC/pack/.minecraft/pack.toml -g && cd ..
 	-rm -rf ./build/.technic/packwiz*
-	7z d ./build/modpack-technic.zip ./* -r
+	7z d ./build/modpack-technic.zip ./build/* -r
 	7z a ./build/modpack-technic.zip ./build/.technic/* -r
 
 clean:

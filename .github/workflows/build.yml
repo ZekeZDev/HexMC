@@ -29,12 +29,12 @@ jobs:
       - name: Make Modrinth
         run: |
           make modrinth
-          unzip build/modpack-modrinth.mrpack
+          7z x ./build/modpack-modrinth.mrpack -o.modrinth
 
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
-          unzip build/modpack-polymc.zip
+          7z x ./build/modpack-modrinth.mrpack -o.polymc
 
       - name: Make Technic
         run: |
@@ -44,13 +44,13 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-Modrinth
-          path: build/modpack-modrinth
+          path: build/.modrinth
           
       - name: Upload PolyMC (Auto Update)
         uses: actions/upload-artifact@v3
         with:
           name: HexMC-PolyMC-Auto
-          path: build/modpack-polymc
+          path: build/.polymc
 
       - name: Upload Technic
         uses: actions/upload-artifact@v3
