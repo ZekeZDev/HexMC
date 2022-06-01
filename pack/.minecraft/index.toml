@@ -290,11 +290,6 @@ hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "912b8917b50e0afc507b2735d0cbd1b8bad4f9e86be15c3f83ccbb45baf7e68a"
-metafile = true
-
-[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
