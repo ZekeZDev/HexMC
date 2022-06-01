@@ -14,7 +14,7 @@ hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
 file = "config/charm.toml"
-hash = "7fc4f0cf4758ba3b347faa8ae97a9a706d3733bb5ced1a388a55c957af717ed3"
+hash = "ff7259f66ae1e0be43e87b6d91b0de663dcd082c8d57315fba71ebae5a71b32a"
 
 [[files]]
 file = "config/customsplashscreen.json5"
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
+hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]

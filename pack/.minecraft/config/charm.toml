@@ -83,7 +83,7 @@
 #Button to automatically tidy inventories.
 "InventoryTidying Enabled" = true
 #A functional block that speeds up cooking of clay, glass, bricks and terracotta.
-"Kilns Enabled" = true
+"Kilns Enabled" = false
 #Drop an item onto a lava bucket item to destroy it.
 "LavaBucketDestroysItems Enabled" = true
 #Use a noteblock while sneaking to lower its pitch by one semitone.
