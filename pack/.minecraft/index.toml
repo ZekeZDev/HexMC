@@ -201,11 +201,6 @@ hash = "9f6f8ef253da3c5d17050b6a5022693ed1b43f714f6f37bc5d4caf1456338f93"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "867474a18b242c6f2b3373e0fb1c90fcbcf28c4c77a29ac5b5975d83af13e606"
-metafile = true
-
-[[files]]
 file = "mods/chunky.toml"
 hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
