@@ -13,6 +13,10 @@ file = "config/campanion.json"
 hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
+file = "config/charm.toml"
+hash = "7fc4f0cf4758ba3b347faa8ae97a9a706d3733bb5ced1a388a55c957af717ed3"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "c5fc25ecbdd4262532a449163db31eddb5fc5aba5cbeea1ba49f31808fce5219"
 
