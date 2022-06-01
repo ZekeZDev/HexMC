@@ -45,18 +45,6 @@ file = "config/desiredServers/desiredservers.json"
 hash = "08329c92e6096df70462cfd23aa746067051669ccc37b1b0ef76363266e1e314"
 
 [[files]]
-file = "config/yosbr/config/MiniMOTD/icons/HexMC64.png"
-hash = "6e54be89cf100d8c8bfe6769c6f9d60ab8d9fb78c3092b7f11a04c9423d0667c"
-
-[[files]]
-file = "config/yosbr/config/MiniMOTD/main.conf"
-hash = "418b145db2cf2946af812c8119de682e6caf568ba5c389eeb2d17247bee94933"
-
-[[files]]
-file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
-hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
-
-[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
@@ -213,6 +201,11 @@ hash = "9f6f8ef253da3c5d17050b6a5022693ed1b43f714f6f37bc5d4caf1456338f93"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "867474a18b242c6f2b3373e0fb1c90fcbcf28c4c77a29ac5b5975d83af13e606"
+metafile = true
+
+[[files]]
 file = "mods/chunky.toml"
 hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
@@ -264,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
 
 [[files]]
@@ -293,6 +286,11 @@ hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "912b8917b50e0afc507b2735d0cbd1b8bad4f9e86be15c3f83ccbb45baf7e68a"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
@@ -304,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
+hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
 metafile = true
 
 [[files]]
@@ -418,6 +416,11 @@ hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "df65b2a2115e15b523a178be6adc5b7f18b2ec6ca4fb97b5ad5336fd69f9fe1f"
+metafile = true
+
+[[files]]
 file = "mods/kiln.toml"
 hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
 metafile = true
@@ -460,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.toml"
 hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
-metafile = true
-
-[[files]]
-file = "mods/minimotd.toml"
-hash = "fe86d01993ca7aa4c868fa3ccaaae882753f868909711f4ddabb44a0036aa8c0"
 metafile = true
 
 [[files]]
@@ -523,11 +521,6 @@ hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
 metafile = true
 
 [[files]]
-file = "mods/projectsavethepets.pw.toml"
-hash = "070b99c11a57885dd39c1064c1ea4a1d7654ee47c2f6b304d1d506f562033cc5"
-metafile = true
-
-[[files]]
 file = "mods/promenade.toml"
 hash = "aa63b6bd117897eb7d2fdcdae81e4bf7e426e9dd723ea06cd87cd79a39e34bda"
 metafile = true
@@ -539,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "4a49361d671362f6561f7c38e49adef060c38a2506ef68006cc0b6bc7b11a5d7"
+hash = "1b43e060001632b6827a9cbf49d03278721508cd2f960e9958f3fb24ced6ebcb"
 metafile = true
 
 [[files]]
