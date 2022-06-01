@@ -29,12 +29,12 @@ jobs:
       - name: Make Modrinth
         run: |
           make modrinth
-          unzip modpack-modrinth.zip
+          unzip build/modpack-modrinth.zip
 
       - name: Make PolyMC (Auto Update)
         run: |
           make polymc
-          unzip modpack-polymc.zip
+          unzip build/modpack-polymc.zip
 
       - name: Make Technic
         run: |
