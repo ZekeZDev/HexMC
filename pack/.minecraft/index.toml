@@ -310,6 +310,11 @@ hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
@@ -342,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/flowerycore.toml"
 hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "4d2911ace7454364aec1b496a976cbee02ee8f2d254bf83a9c1af05c5e90eda9"
 metafile = true
 
 [[files]]
@@ -515,6 +525,11 @@ hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "e82b835b83c858d78067d50274b34bb49b3a264e9bff19b82c2ab0ae9a323c63"
+metafile = true
+
+[[files]]
 file = "mods/plushie.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
 metafile = true
@@ -590,6 +605,11 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "30ad34367eb427e03f8c095987e34c788c81c18c990c4c65009ab8391fb78499"
+metafile = true
+
+[[files]]
 file = "mods/twigs.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
@@ -597,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.toml"
 hash = "47c2cbbd078ba86f70ea4e79b9519936aa29694ffb91d24661d9e9e88dba696f"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "7b6b429d4a71feeb83241e7f115158e4bc3390dd9dbb408affa4c99eb7b99a17"
 metafile = true
 
 [[files]]
