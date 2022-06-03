@@ -205,6 +205,11 @@ hash = "9f6f8ef253da3c5d17050b6a5022693ed1b43f714f6f37bc5d4caf1456338f93"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "867474a18b242c6f2b3373e0fb1c90fcbcf28c4c77a29ac5b5975d83af13e606"
 metafile = true
