@@ -53,3 +53,6 @@ clean:
 	-git gc --aggressive --prune
 
 all: curseforge modrinth polymc technic clean
+
+update-packwiz:
+	go install github.com/packwiz/packwiz@latest
