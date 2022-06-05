@@ -109,11 +109,6 @@ hash = "837d3939debd8ee786b3c62ac11b64504baad6f9fd424153a9c3953ed0e5e098"
 metafile = true
 
 [[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
 metafile = true
@@ -141,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "0ac7d0e40649ca44c7de9a05957f07c5009eb85c8da48628adca24890b8593ae"
 metafile = true
 
 [[files]]
@@ -194,11 +194,6 @@ hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
 metafile = true
 
 [[files]]
-file = "mods/peripheralium.pw.toml"
-hash = "ad6a92f20187e9d4cbc8033b63bbe775417ed0b128ade375689bee106c4b613e"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "e7b64de06dde25be29d0be87410efed550643b37298033cdf1273548e19022d7"
 metafile = true
@@ -221,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
-metafile = true
-
-[[files]]
-file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "513199a2ab56d27d59b565cad6ef6a6d0cdd2450af0b2c5f7628c03be7869e8c"
 metafile = true
 
 [[files]]
