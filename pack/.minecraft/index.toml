@@ -134,6 +134,11 @@ hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
+metafile = true
+
+[[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "d95d2c03170638de595e2c70c06b3a41dd9e0cdf1d35c0ed4e00b7a934d8767d"
 metafile = true
