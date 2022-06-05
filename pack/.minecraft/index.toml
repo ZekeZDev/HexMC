@@ -99,6 +99,11 @@ hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "837d3939debd8ee786b3c62ac11b64504baad6f9fd424153a9c3953ed0e5e098"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
 metafile = true
 
 [[files]]
@@ -129,6 +139,21 @@ hash = "d95d2c03170638de595e2c70c06b3a41dd9e0cdf1d35c0ed4e00b7a934d8767d"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "478f43341248346118765f37013fa8d595b9f66aeb3a681146afb29731b4f8f7"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
 metafile = true
@@ -136,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
 metafile = true
 
 [[files]]
@@ -159,6 +189,16 @@ hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "6c23d726c5512cc285114ee243192dab6ddf39135f273e1fa8e1aec6b0df80d3"
 metafile = true
@@ -169,8 +209,18 @@ hash = "77f83db2fae27b75a36910d16d01e4d483d2231de3fc68d2a634eb93ec2de7c5"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b99ac27df2f720034b01acc2ea7637b5f020be861a5ac691135fdbd815eb3882"
 metafile = true
 
 [[files]]
@@ -191,6 +241,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "593b7c2a291591f43c642779aa528174c453c657052c3d658f2040a0a43442d6"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
