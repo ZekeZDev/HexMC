@@ -1,0 +1,14 @@
+name = "Peripheralium"
+filename = "Peripheralium-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vV2a9qrZ/versions/0.1.1/Peripheralium-0.1.1.jar"
+hash-format = "sha1"
+hash = "84d947b731ccf16c16fab7b0dfa8438716b952d1"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vV2a9qrZ"
+version = "hKPdIGhq"

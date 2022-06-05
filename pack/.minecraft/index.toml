@@ -89,6 +89,11 @@ file = "config/yosbr/options.txt"
 hash = "34a2111b33b0c63e7d48e874c6e9c7536d57c050d6c8302e941e1a58c6db1fca"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
 metafile = true
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "837d3939debd8ee786b3c62ac11b64504baad6f9fd424153a9c3953ed0e5e098"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
 metafile = true
 
 [[files]]
@@ -126,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
 metafile = true
 
 [[files]]
@@ -179,6 +194,11 @@ hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "ad6a92f20187e9d4cbc8033b63bbe775417ed0b128ade375689bee106c4b613e"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "e7b64de06dde25be29d0be87410efed550643b37298033cdf1273548e19022d7"
 metafile = true
@@ -201,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "513199a2ab56d27d59b565cad6ef6a6d0cdd2450af0b2c5f7628c03be7869e8c"
 metafile = true
 
 [[files]]

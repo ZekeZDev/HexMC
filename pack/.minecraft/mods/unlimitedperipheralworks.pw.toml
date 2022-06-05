@@ -1,0 +1,14 @@
+name = "UnlimitedPeripheralWorks"
+filename = "peripheralworks-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/0.1.2/peripheralworks-0.1.2.jar"
+hash-format = "sha1"
+hash = "8b189a4fb3397f264256fb37cbd6070e5f555d6d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Sf7QBsRP"
+version = "wAXpKQ13"
