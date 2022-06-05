@@ -124,6 +124,11 @@ hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "cef699b8de118b5ffb298ff722c6a6a4bc8d83eac4d0b5c94e0d6a6431b93673"
+metafile = true
+
+[[files]]
 file = "mods/illager-expansion-forked.pw.toml"
 hash = "0d375fd5db6f819b2203cf130e1c70f097e618e6f3abf9e9412acde281455357"
 metafile = true
@@ -151,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "468e0c4a59295cec423096466630d304f00115d5474bdb39f8d191f3597fedd6"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c7aaa1a6c17b3a05f727ee143868595eab4fd3ac6348d2ceded5f04aa4d9fb6c"
 metafile = true
 
 [[files]]
