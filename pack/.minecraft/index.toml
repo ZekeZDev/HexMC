@@ -94,6 +94,11 @@ hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "837d3939debd8ee786b3c62ac11b64504baad6f9fd424153a9c3953ed0e5e098"
 metafile = true
