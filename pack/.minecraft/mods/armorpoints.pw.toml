@@ -1,0 +1,14 @@
+name = "Armor Points ++ / Health Stacking"
+filename = "armorpointspp-fabric-1.18.2-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xvAim1vw/versions/3.0.1/armorpointspp-fabric-1.18.2-3.0.1.jar"
+hash-format = "sha1"
+hash = "9a2566f84453278c0b9a0ec2191d754585aa4ed5"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "xvAim1vw"
+version = "PgSRzpUQ"

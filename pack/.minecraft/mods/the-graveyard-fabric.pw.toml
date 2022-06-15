@@ -1,0 +1,14 @@
+name = "The Graveyard (FABRIC)"
+filename = "The_Graveyard_1.9_(FABRIC)_for_1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QivVPB8W/versions/1.9+1.18.2/The_Graveyard_1.9_%28FABRIC%29_for_1.18.2.jar"
+hash-format = "sha1"
+hash = "0899830206c2507e1c9577c05ec1c405cc33089a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "QivVPB8W"
+version = "T2v9Zocf"

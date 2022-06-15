@@ -1,0 +1,22 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/me/Documents/modpacks/HexMC-dev'
+echo "No Default make command configured"
+echo "Please use either"
+echo "   - make curseforge"
+echo "   - make modrinth"
+echo "   - make polymc"
+echo "   - make technic"
+echo "   - make all"
+echo ""
+echo "Curseforge will make a curseforge compatible zip"
+echo ""
+echo "Modrinth will make a Modrinth compatible mrpack"
+echo ""
+echo "PolyMC will make a PolyMC zip file which contains the packwiz updater."
+echo ""
+echo "Technic will make a Technic pack zip"
+echo ""
+echo "All will make all packs it can"
+echo ""
+make: Leaving directory '/home/me/Documents/modpacks/HexMC-dev'
+ 

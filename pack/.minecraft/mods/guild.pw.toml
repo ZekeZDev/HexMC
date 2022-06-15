@@ -1,0 +1,14 @@
+name = "The Guild"
+filename = "guild-fabric-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KcQAUjoP/versions/0.4.0/guild-fabric-0.4.0.jar"
+hash-format = "sha1"
+hash = "5b8b946696370d3738b20cdbc4e57c796bcdb6a7"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "KcQAUjoP"
+version = "AgOOYVks"

@@ -1,0 +1,14 @@
+name = "WTHIT"
+filename = "wthit-fabric-4.10.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.10.4/wthit-fabric-4.10.4.jar"
+hash-format = "sha1"
+hash = "b9dbeaf123efcfeb7708ae363ef0705da95e3a58"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "dilSCuvZ"
