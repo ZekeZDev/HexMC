@@ -1,0 +1,14 @@
+name = "Creeper Spores"
+filename = "creeper-spores-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WSdgoMoj/versions/1.8.0/creeper-spores-1.8.0.jar"
+hash-format = "sha1"
+hash = "4f2e99f2769ed3036704d4b246d4116b4faa9fec"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "WSdgoMoj"
+version = "gfPvSNht"
