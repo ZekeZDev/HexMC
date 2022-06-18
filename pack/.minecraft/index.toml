@@ -202,11 +202,6 @@ hash = "ef01aaae3db24c0449b141dbab5ec6006baa5b41a66aabac6793e75118c63429"
 metafile = true
 
 [[files]]
-file = "mods/crafty-cuisine.pw.toml"
-hash = "d3f8d40e3afbc7e46e58ff766d84b29ca9210c5de3fa9c4fda650622968004e9"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "88a8c9ca3ed1277f5304a12f1e318076ae51e8873daea640e7a1e01b23d9f084"
 metafile = true
