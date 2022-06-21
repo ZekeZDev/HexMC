@@ -1,0 +1,12 @@
+{
+    "name": "Support & Reporting",
+    "icon": "minecraft:name_tag",
+    "category": "patchouli:server",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Are you having trouble or want to report someone? $(br2)To contact a staff member you can find them with a red username in game or you can use our $(l:https://discord.gg/AntgHsU6vV)discord channel"
+        }
+    ]
+}

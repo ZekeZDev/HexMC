@@ -1,0 +1,7 @@
+{
+    "name": "HexMC Handbook",
+    "landing_text": "The official Handbook for HexMC",
+    "book_texture": "patchouli:textures/gui/book_green.png",
+    "model": "patchouli:book_green",
+    "show_progress": false
+}
