@@ -86,7 +86,1075 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9df995fe701392e469484f5f8490280dd3161570f1e416bb54f84be781d4ee8e"
+hash = "cd84347ee1607bec986ba275f0cb755711e5aebf593badf399ea384f2d8b415a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/Copper Legacy Pack.zip"
+hash = "09d0a2ae46615f2ee2ee697a50c0cdd507ab75ff7b1d73eba877479654db848e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/LICENSE.txt"
+hash = "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/README.md"
+hash = "26a572dc02d50376680ec88fb6be3363de98ee0687d08554779c4552e1e89926"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/adorn/textures/gui/brewer.png"
+hash = "b568db5cf0e5e7ec9e0417944f501e70b1cec847c33a27feb5f190a8c008d3fa"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/alloy_forgery/textures/gui/forge_controller.png"
+hash = "8ca78c00eb42dac8a98a0bcd4293d2d608edb2a3beff6ef371c24b5de76c7281"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/blank.png"
+hash = "f70d5a7a5b41bdd07dbe5d6e8761b7327b09654b2ed82240f89eb832eb882b0f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/empty_back_slot.png"
+hash = "81aa2a76dd02e2343438e4078125514a50c37df177ec4228c890cf8e3e840111"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/empty_belt_slot.png"
+hash = "6482943166f0182743ebca93d43ff0372fe2417435f913ee320ba28941440ce6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_2.png"
+hash = "16110ef7283a6390aa4a0f6a93be6b44d764a826dae9986ecc35db6413f9f6e2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_3.png"
+hash = "bfdecf0c30baedd22f9151c512e08147b912a2f2319b1ae69c453052b6d17bb8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_4.png"
+hash = "5c66c93148fb1608cfa0a86fb42c458aeaa8909ad55fe69cf1339c7d7805f618"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_6.png"
+hash = "d44b95228d2c9473d72d54035633a342f6885b48b8362eb107e9ca91f57edef2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_7.png"
+hash = "8681915d2735fce9b93379838bc2da2a827dd349c3ea02cb514bf1af98969422"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/LICENSE.md"
+hash = "c084d3d0560c3731716fc2f2d7993647953810bba5d880e2aa2290d1c66d18d6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/README.md"
+hash = "c2fc9f5fd65cedf935a0cabbc985d6640dafe6bf0d1802728045bb2c1a2cc1c2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/textures/gui/cloth_config.png"
+hash = "d6c92bcc8290f8b0d051432db5a96aa4c820bc8c490244e8c2a2095b58409804"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/advancements.png"
+hash = "d96ff7747f62a11df55c48cfbbfb4a80d233bbccfeab543d4bd4f66761baea0b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/curiosities.png"
+hash = "cef50a4d75aa5d4b4d178220a5369966646ba32ff5a96949dfd5aa45d4cbe656"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/curiosities_2.png"
+hash = "a5e23b70d3abda0d8e54671ea2717d761eb86d4d4880e0ae0856262df09dca78"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/filters.png"
+hash = "c5ddd516408d633c76289bbe15312f0380947b268a7ffbaa03ac066d574725e9"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/icons.png"
+hash = "98d65928fcc4e0a78a6b279e6a395480e2716976717f84a71755f4c0ed06911e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/jei/widgets.png"
+hash = "52d6d41cf83b77a8040b8eb5fcab1095116421114e7404146c6894b321b1a031"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logistics.png"
+hash = "6b54383224a1bf0f252ff78a4faed2fa8e470ef8bd53d6bdd6ebdfd08bc5de49"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logistics_2.png"
+hash = "93713a041a9a11e6fe92ac3f2b63af78b1f0ec4f94d894db53a2efaeae72e758"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logo.png"
+hash = "81d13bee57d6a77451a0addf03ecd4a5efa150ec0c11255eb39da3b1cc8c4990"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/overlay.png"
+hash = "5a7f9f8974efbb42d3536ac23bc69bcfca8e831a9a75986299cdf873f7192f9a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/placement_indicator.png"
+hash = "3328e992077d323b4a153430fbc42d2124944e993efa3f07fd79e7fc70be59b9"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/platform_icon/curseforge.png"
+hash = "1c825aacbedabe4d1c3efb42462cc52b2e06254b07076e075d2412e5a985f99f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/platform_icon/modrinth.png"
+hash = "53df8d494ed2d136ae1a8f01169f2204c1c13140f0a859b18f3915ae12c95e5d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/player_inventory.png"
+hash = "db595d5f9ac5f462fd4fc57a2d395bb6694766223bdc5dc72f3d6ca7b73f6b97"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/projector.png"
+hash = "5b2a1bed0c596e12e041747dd6e87ce7cf81a65a6811d995f66d1eeb33c5f25b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/schematics.png"
+hash = "34d88a0d5bdee077623230112474d6aaea6dafdc43e61023526ffc4107ce0094"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/schematics_2.png"
+hash = "2ebc7880cba030412542db668b21d08a20bf45f23f6776cb55a6e6b05adc1288"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/sequencer.png"
+hash = "fc0e6f3caf4d2ad1c8718e51cb0c592153127b1fab00cd8ac4b46b16818e01cd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_0.png"
+hash = "8f7580abfed31404d7b7cb9b678151ae5913b3b5064ea0205eb6b0eb555ffb6e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_1.png"
+hash = "f8af678cc6259d625e653215d6f4689bcddb4b83c03e4eb040e2d4f4e9fc9be0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_2.png"
+hash = "7ac0a620d1c0a6600a61aff05ecd4af5b6cadcfbd37b274c271b67453f353390"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_3.png"
+hash = "f6678314b6371bf34299dafad112ac0518eba8397cfe4656ea4d5a9982e9bd78"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_4.png"
+hash = "6fcdb6a3f60f1b94f2afad0fac15bb3828a26af491a43589becc3914571a0cd3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_5.png"
+hash = "dd8ce4e18d4966ca11d04616b609fffa39e62de698f4aa894915dddb9a5517bf"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/toolbox.png"
+hash = "b20d1d8e00fe1983a1f654eda992ab68ddb7be87dafe61c2c3cbd50518b5c064"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/widgets.png"
+hash = "9c75bc67d5a552cc83f2da1fcc59a956e1f2b61cae94a8c544d6f3d92533e981"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/disenchanter/textures/gui/container/disenchanter.png"
+hash = "2bd9e9910b8552eda49286f1ee3d15468773b3020dc66d9edecf519530164088"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/LICENSE"
+hash = "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/README.md"
+hash = "4b8967b01fd360f674e1f919efcc5156e887f429cec215813f27a2f6959b1e8d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/textures/gui/creative_buttons.png"
+hash = "eeb94e35e6e2403b8477dc92ee9f3fef1c7728b8d477f166d1ac1442f968e568"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/kiln/textures/gui/container/kiln.png"
+hash = "4d33e4427c5d4eec618d75c8087aec9d317d4e936206585e5215e65384d260e5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/lovely_snails/textures/gui/container/snail.png"
+hash = "6ea5d5ad0dd53c58321e00acbb500b0b3a022c6895df5ce74548cdba785a6604"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/lovely_snails/textures/gui/snail_ender_chest_button.png"
+hash = "b575e7b5ac0600e5c822966b7912d93f7ad05dc0c1c553c540398cc58d0684e7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/af_za.json"
+hash = "3aa35a97d7ab0a93d291c862d8a6c3da83193f5714fd5eddb3240755be5cc33b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ar_sa.json"
+hash = "af532aed16a41079dbfab75b76860daea2541882fc16c3b239542aeb251d4050"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ast_es.json"
+hash = "8c928fb17aa9f7c08bf2f6700c38a2665196075aa52bcb08fcf76e8c7ecae2b4"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/az_az.json"
+hash = "ac27f0c76a4e82b441aa977f2c019ba53bf8455f3c3af9a8d01cd4dacc5e744e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ba_ru.json"
+hash = "27c15dff63c107c35b99e7a38e93f2c2894ebecf6a836dda0904da94d65ce8eb"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bar.json"
+hash = "ad83a079da7b045eadf0daeadaabc1d8506e299c86e9e6930f86afd8b30ee0a7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/be_by.json"
+hash = "aedd2ed7d0abb6c383ab819e9db8a7c867ea56072b0dca08cadf245718b1c135"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bg_bg.json"
+hash = "d5d157db3af11480fcb52d5315d23e440d6db9389d964b4b48438078ba2f1c84"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/br_fr.json"
+hash = "8f82d59a76898ed3e48531088cf4cf8c673439d7aaede917c0efa3c83dd0fde7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/brb.json"
+hash = "7e29eb5be64d19d3732260029d1eb99244bf627c7646f7e2de68bafd7aa71322"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bs_ba.json"
+hash = "09b00f3ebbf67bdb62ce618aa42d5b214b64201ff84a1394fae88ae2c9f35ff6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ca_es.json"
+hash = "c3eb4cec5f2b8ddad6aa83f26c62d82ff87e649c1f88b20c9bfa7dd2adeaecc5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/cs_cz.json"
+hash = "da20209da8418ac8ddeb3498e6261342d3655923ffa823213a4417f08e977dad"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/cy_gb.json"
+hash = "a6f1c74d811e6ee23159b0a1ae7a45f8d99b8b9ea082af8a97896ac573a88e35"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/da_dk.json"
+hash = "c042e2e17e6b977744868340b8265828f5bb5891e8e661fff31e79641947ba0f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_at.json"
+hash = "5392b6997c83d8991c47b6dbafa9de46e60ea6dbfabb30740b6f35aec685a3c8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_ch.json"
+hash = "3f128ba790ae575fd42025d38da764e423cec6ef0d8b01ba8473bc18e04f6dfd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_de.json"
+hash = "201e7f13c1f5db1b5ceacd05b12c408a32c7224b5e7fff6d920ce1b01b15fa69"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/el_gr.json"
+hash = "089ae0833567a0911a9df9e5164441d52555cff544ea94e92246bd1fc8eb4dd8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_au.json"
+hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_ca.json"
+hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_gb.json"
+hash = "17ebca9fd4f392a7fc3d48e698d31dee2e074ea2f880caa18725de647c5f8958"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_nz.json"
+hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_pt.json"
+hash = "8ce1598a6aa2a6637b975d1850bdc9f5ba95818539cccd7005a42474bb29cacb"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_ud.json"
+hash = "11b44f7d972e02131fb2be05a04caeb9d2525e1c62993f0d1f178aecf4f18e63"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_us.json"
+hash = "0a9761010dcd8f29d7556e5f8f48fe9b3624c2544a7de00684d1bf5228124363"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/enp.json"
+hash = "533a5a43c40edd5cc7235dcf6a5c95fad4cc6f8ec4911378db420e12f51dd3c5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/enws.json"
+hash = "b855a45925156153957ce684522ba459e6747693b33c38599e0308aedc00ac2b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/eo_uy.json"
+hash = "5ea7d375160fdf8a41536c8ec200db7fbcef28e728d6cd1f9a9e6dcf7e6b75f5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ar.json"
+hash = "c088b8df2d065b8bbe93af1fbdb2538e9a3a040d1923648d8f9f254d29e63b7f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_cl.json"
+hash = "8e28706fc3c564dc92a9517b4c94a926993dca81c564bfb49153305b33b6bb84"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ec.json"
+hash = "d8313b0628219c8c84f9194949f26cafc47b8a4c3268d020570457269238fa34"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_es.json"
+hash = "c21b2fa1c3fd955f47f2ff6fa5b25dd59e086a95ccb5aacdb56dab67c57524d0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_mx.json"
+hash = "77e8532489a898993e63fec8c67c55c5ec9d1a6ad7e89b6544d9a6da7d7182e9"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_uy.json"
+hash = "b78d0028018480ba4518d5f8114da117470e92d67f3748c7d05b5f15b5b91590"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ve.json"
+hash = "9009c405a4ec3f72c50070a3eca5d527775815e9083796a08cdd71d1bf4d0732"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/esan.json"
+hash = "b6b774cd2267d806c79472ee45b96b019f05a3c88f72d6d7380a838854528644"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/et_ee.json"
+hash = "908b702a8ca1b9fe7b6a529c32c9eeaebad03e6b06fe964a417c3a1bc89fac2c"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/eu_es.json"
+hash = "938f686273035ba026514479f968d338aaaf749130c77946f2fa4f2b706474d0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fa_ir.json"
+hash = "0c96d531a3a795222227ec136385d257ab2c3c2c50d58e9f59148ef5284f0b46"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fi_fi.json"
+hash = "01fd1b820bdefc2e9d0868149350acb69b45893464ea1f5756c7464a3edbe3ed"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fil_ph.json"
+hash = "b8999965915fc8517ca64eb31c70639da4e62a5cf70b7f927d93b1f17ecaf249"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fo_fo.json"
+hash = "95a9d0c218ae1c922a9cf8b2c39fe8b1780e48ed10fddfd1e0f22d085e3605f1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fr_ca.json"
+hash = "f0ab58d7ac5dae6d0de79de8d75e3c52356ec6836eb3451a20f30424429c9f82"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fr_fr.json"
+hash = "343257d8bd3c49482cb3d6d4fc4e381d92082a3fc9b47fdff1f86467729cca91"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fra_de.json"
+hash = "d52884504c72b191eaf742508325a64a87002dce722fd27b84689b16e64488cd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fur_it.json"
+hash = "883292a85225b117dd51bf00a11fb59e36348d2facb5ec367f2296375d473b24"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fy_nl.json"
+hash = "41bd0efb6ea94a7773c434106bb4359f5c206e596bfcb5a5b49d285da50ffc20"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ga_ie.json"
+hash = "f5f7da1859c6b93a92dd2b19bc23e5031b360822ee40da713975da2681882998"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/gd_gb.json"
+hash = "e276ee281c67991bdcfc2527c841613e015a4b500ef7161533a2a1ced6849337"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/gl_es.json"
+hash = "923681bfe28a92d9805a102ed7da773d661dd1024867c379971c1321d80cc5ca"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/haw_us.json"
+hash = "73614d9d029579f46d57933663fc352a9ebda448b7797314c1984d083cebc3ee"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/he_il.json"
+hash = "b52d7158f7d1895911fb4aa04c412d8cbb7de7c944028c819def5bfca84cc0fa"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hi_in.json"
+hash = "295c7ed362114706a9e043d2935731e11f9a866024380c55c3bfc478377e1f37"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hr_hr.json"
+hash = "fb3cd570bb4da9c9acf8889d00e05e29506bc4a753cdede2469a5eafd257e649"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hu_hu.json"
+hash = "bb898d127dc7d1b19b003e9b16d27da4a005230f78333bdb9c4a6b95cb621937"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hy_am.json"
+hash = "b9e9464adb1af0eef7b0a52264e339563b39f6253a75b8ea7adba950be9cfa46"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/id_id.json"
+hash = "e28c70fa96f0022c029ee423e20f1f069436fcb05181b4d0d5db87d20275739d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ig_ng.json"
+hash = "f1a24fcd9ebc39fd6a6199e61e9d8de732a5951bc88f794aa0ce439ed27f5eb0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/io_en.json"
+hash = "4c5c74c36b0e859e3debdee1b19cb4611e2d922f26da1fb4d2c82f6bada30732"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/is_is.json"
+hash = "52235c5c8ec025f3120865494bdc27f409855559482a488bd760e2e48938ac15"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/isv.json"
+hash = "b25af32543f84eba81bdc61c477def547a3514bc20a4860fa267fa54a88cb720"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/it_it.json"
+hash = "5ca4c58cc772150b59529880b2e8683a4a4a252ca09b426fb6c552105348d974"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ja_jp.json"
+hash = "82d4ffacff25ebfc58b85eaa6378c357f18230ab1f25f2129e52ff5924f51b45"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/jbo_en.json"
+hash = "37dd1d09dcc1d0616c6bec1dfbb90cdfd2502c3bbf05e875fd20116759cd479d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ka_ge.json"
+hash = "cca71942634cbc41a3d414fa176fc86f2a87c71f77371d198b4884fe336c6c23"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kk_kz.json"
+hash = "307836b92839fe58a530f54843df3fe8bcb2b96ec9b5fb6e9cdd4695d6bf866f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kn_in.json"
+hash = "75e64a7f4d5df3c662870945b9f6a990e29253212bfbb04296c98fbebf0a889f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ko_kr.json"
+hash = "1b668a2ae883a0716f5d404f8d803e15237ed48e7de77d51d3ff70e4f5d5e30a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ksh.json"
+hash = "676564a017912a30cea13cbaacb2dda8e416e0b4c748d48ce15be9b9aa2f3826"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kw_gb.json"
+hash = "1bbbaaca21965c0bda8ea2698f63f2963823013f5f29a994cda586f0744bdb5a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/la_la.json"
+hash = "70695fc4789abb47200dec485470db753ad125fbeb0d6461986e7b9c31517e30"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lb_lu.json"
+hash = "e9fd4d3305e3c8718eb0c71c8216949d2c4895c26720cd04ddde228f770376d6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/li_li.json"
+hash = "5292adec754609616a92ce2794ba714b0941c3915cadaeb57b691aab6b1b839f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lmo.json"
+hash = "2aaa72a2615896fd2ba76604cddb3a71c34b4f73f8a9ab5aa23723765770cce7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lol_us.json"
+hash = "2742ebb8c6a017853e57204b255882a98d14b9e7c943fde23ca533c049a5af57"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lt_lt.json"
+hash = "6dd862e6a55ad83d29413ca90c747357784d7fff5ba7fd6b47e4ba65dffd6196"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lv_lv.json"
+hash = "51b55d10de8e6d5fbfd003cac79de5d6b1769a029a0064c1a2dfdfcdb2dbd31b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lzh.json"
+hash = "dbabaf26dfd6f20c0d722f8c8d35b9ddc5f22d81c7cfcb232485a79bbb9d6b6f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mk_mk.json"
+hash = "75d6f9b641ffb2cb57e1f87b5a9c56aecadbb29724fa37b46f04e0b23b2e720c"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mn_mn.json"
+hash = "60ef3d0b90877f84ebf54f69f49266f27abbe4616ca1ef1bf1d2ae65eb1c108a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ms_my.json"
+hash = "1e14c844fa332fc263263672f535ea4fb86edc4929ff0606d9b4c821efdf5174"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mt_mt.json"
+hash = "e691cc5dc1d87a6c29b09cd0b263c232fae6c3d5a614274f1f164034b14028e9"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nds_de.json"
+hash = "50c1939fe48501bbecfa8185254d7b61f56ff03866b7fb51c7b28e3d097a327e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nl_be.json"
+hash = "5c0c74db376325a0bdad8937324787e4416006aee862b218a65d3cb7dd48b8f0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nl_nl.json"
+hash = "b73f35af431b49820887cbeb17136a619df8c159cd76af3ab65eacf7b082462d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nn_no.json"
+hash = "26dfc6c8c2af5cd0acf7eeb52243fae30fa78eb37cf1bac48e9a918a48ff9bdd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/no_no.json"
+hash = "bdcd8a4aaf7dbfc4e2852504fd77edce6d55cca4f507a2ea1d89233eed6e0ea9"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/oc_fr.json"
+hash = "6f6c9fd19787c07d8a829f074a2e293b04a874ee3a49389622bd9d364cec06e5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ovd.json"
+hash = "ac48c3eece47f017a0dc5826718f9e51bdc2ebbf255675ea8abd8915657dddc7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pl_pl.json"
+hash = "11afc7bbe25ac7dbf474d3f7fc5a865df08a5d52c936f4d416678aa30a5094d8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pt_br.json"
+hash = "0162f23f36a45e4b0c5f98639f96bed1611f410a01cfd8e53934ef4aa64e814a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pt_pt.json"
+hash = "5218a173825508bfeeba5b6dc41a01444d06de457c72c3571977483b098b1775"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/qya_aa.json"
+hash = "9758aee49605b92804c72b74c9ad4f810544e170c7f3410c02c71098dff355f5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ro_ro.json"
+hash = "b704452166ec6b0557f80079a6981d2f540665ada250fdf72d3d919fc05818b6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/rpr.json"
+hash = "25ca5efa52289ffb2fb940d84f09472d4ba0b451363a23a598557756c00049bf"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ru_ru.json"
+hash = "b1aed23385b49e9a78514b2c031f0b707e8e20ebf19277d6e5f55288de5d8f73"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/se_no.json"
+hash = "f1c400a856bbf03ef70aa0fafa9955f9a19a0bb0a0de8f6a08855343524c5e08"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sk_sk.json"
+hash = "bd601bdbb2b53f1ba4d3860af88224f4b83f3f80d09593537c1f4d610514ac6a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sl_si.json"
+hash = "9a58c3e2ebafe906b897c31e3d4471412e330a79b155423e23e67e44997157d1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/so_so.json"
+hash = "89eb92a45d9e8b2dfefec414f3f9099cbfe726d10519ec81c135060581bc7b50"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sq_al.json"
+hash = "07a528082eb93f699fc356519850782ea9c64436ff00a8c02d5466d877e40478"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sr_sp.json"
+hash = "02898cecd176ed29b6b6bdfe13f827a9a3d0a0fdd034014be95794ac25410d84"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sv_se.json"
+hash = "c274e1618cf2b6e6fe78cd232ef1c300d37afa9398a8f6e936ffdeb29feaaeda"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sxu.json"
+hash = "ad0d7d2f12c3d76bf89ae32b388bf07179d044d8957378ad086a25a6cf758eee"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/szl.json"
+hash = "37b17f52f914afbf8e407e7e62e1fa25e5488b75f71f373d266e98d999a07d56"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ta_in.json"
+hash = "6657684a59173f7c123448d82d056bf6fc7d8322264cced9a177bdf434fcac80"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/th_th.json"
+hash = "4fcd6c7f44b6ffa51edd49e549d794955636991d33847ab7872cfe047509def1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tl_ph.json"
+hash = "ba79f8303d4d553bb0bb455b5ab7df791ba894d846c47ef9cf605c79368ec525"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tlh_aa.json"
+hash = "c89229fe7e12dfcb65117b24e6cea71606bec14f6c21f205f3e38be36cbd4f17"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tok.json"
+hash = "d3f1397e4c267445b4c0ea2af72093bedad680ea73b4e423d402ae66837c0616"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tr_tr.json"
+hash = "98896b1e5c19ea2f2bacc3162753e84b94b068fbd6ac76285b8312501c0cc091"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tt_ru.json"
+hash = "7d1834d660da0ce0f75dc84a17064c09cf0ee68e87e807551285f645adf4aceb"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/uk_ua.json"
+hash = "e033d80fcddd77795f72c5db006b63bbb51b30f532d383df251ff4b2e4b0bec2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/val_es.json"
+hash = "57b8a8da5fa9d9f7d10028f07a79de58943ee92d312f86d5c603e91bb15aba68"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/vec_it.json"
+hash = "6c3925854b5a421052484732114eef07dc0023fecf012ee043d6f518b36beac4"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/vi_vn.json"
+hash = "02db9ce4c659f0f9c19001f684854d3e0e60eeb75d5f87258c7d1eea411b4a38"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/yi_de.json"
+hash = "bb5ce8928219dd776c00c8edbde083c861cd88d90fc25d8f1a1b9949048b3c64"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/yo_ng.json"
+hash = "19b30390545ce1051d581ce666e1cfe34f2dc4ce47643cd86ccad611a130c71a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_cn.json"
+hash = "cdb2aebe072028c71d0db8c9432ad62661a2a8a32e4b6544b75d5eb8ec74685b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_hk.json"
+hash = "aa4202dabdfa52e1e1438ba92bbd00b14e6e8b3ee84383abf83bdc25b6ef5f86"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_tw.json"
+hash = "887033e5abc754f73959ac9fe93934c077ba735b51c2063446a91c706294f7a8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zlm_arab.json"
+hash = "c58c2e142f5f0ed8294fa0408e9ef8238fbe4944a8e8824609fa031ecdc27221"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/optifine/color.properties"
+hash = "93bd0671bb267d1829a5df98eae2346fcff65a9fca2fb0030bcd4957fee3d2af"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/accessibility.png"
+hash = "8f10bd8d7a5e283ed0d94ff1af8c95696cf1f1cd4b5764e1aeac2d40cab7c1a1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "68c8bf1c38056bbb5768520a2d3e253eadf9d91c9312d42c25d9011302120197"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "41287fd5ff35c81f49efc2b455c7a3a19ffa98b13f4bb6f084bf0ee4e09e0bec"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/window.png"
+hash = "676c9cbd38058e4b8790f6aa8d1c66e3df6ec3f9b793f5821bca87a0ebed978b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/book.png"
+hash = "d3861c04a1fdd40c8de52b4ad8016b917723425b27030e6b4a2224428e7cac2a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/checkbox.png"
+hash = "155082ada62f4945f4fa9b4e6d1389bf9c1d4948462ce57b9439f0832dc14018"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/anvil.png"
+hash = "4a0b9a804c71fdf3692fe214a3f15b232825e872560be7f09926c2995c26dfbc"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/beacon.png"
+hash = "b100d8303a32b8220cfd34b7f9efbf9b1fa4261768bf06b1610101e803effa39"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "e6c2062cf67eebf221b8c2471195ccbea0cac027c56a2e0c099672249e1cfa8d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "ce3e92b4cfbdc6542e7323036686d5886e46f55fe892a0dda33caa2663902e84"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/bundle.png"
+hash = "835184b190021979c85ff854071cfb74fd17e27d5da0e9bbb0f2ee682605150a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "6bf5eb47b7c6ad0b4f5fe8d35170029ab2fe0d1510b8b9f26aa62ba6dbdd818b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "5115fb40d5835d6c6b4ab42fa05264f776f3cf5fc136e2908d06bec90b7ceebc"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "23277b8251f59d2de8e9309dc9f8aa0f6b12ebf286b55f28b997a2eed94839a2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "a45de69c153d09a16b33fc60935c8acd2f09e1ce343b14786ee6352b93751693"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "271b05f93573227643bb90449db45ebbdcf7ed6e589e3525500c5c7bc5aa373b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "3e3cd04a17559861c1439b7999e154c31af7a1c68719425c37d02fc92e7291f7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "c88650353d13ea59f9b7eb4ec72eaf502d282f4b32142b512529010e6ea38948"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "cd55443f66d0d51b6df842d87d138aa78d3c36dab896af58d64beb41fb373d44"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/furnace.png"
+hash = "a5a8af88926c85cd6ea4ea05fa377f35160217f5cd612ed7d4da0252d1cfe03e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "1225bbae05a30f31a4afad12632854cb72532c5b7d66eccbfb6d92fe7c08cc1f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "a3102bea5e62939fe51b5d3b73d3b2a347a9d952acca68a9bb2adbbaa2787b07"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "21934466ab922e7a933ed53fa191b1a135d71ab1b21184ab18fed90afd8a515b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/hopper.png"
+hash = "be036f9a85d12ce8d42f558af353cf9246d448e6107693d16c42e05bd9ff4e94"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/horse.png"
+hash = "c344c5e3815b557eccf524d094a2c09eec1f2abf7f0fd04bcbee22ad6e0f833f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/inventory.png"
+hash = "d651b6fda2087c79c903daf363a7fdc526566e4728b905128959eb00f79ab796"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/loom.png"
+hash = "29c50335af5fd711fd0624a15c4e07667428d55e9b2731bd2de32284dcbde686"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "831a36190c8398569e933ff15bad17a6278ee51fd0bf498bf81f23419f1e8c14"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/smithing.png"
+hash = "1dac3735dfd1f3a6a9ced945aba796b41d6393484107a5d8e9b3ca5caedd3a02"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/smoker.png"
+hash = "1cc80cdbf9f2f88e0d26c69f43631a4c51a04f61a53c3e95b3978b145eceddaa"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "cffd0e9107f1844b2c0ccb6a69c56b57d2f16c0c85496342bf8978b1b4c6d20e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "7beb4f3ad704f4bc6530f47234bc3a728c6163c86f8caf09868ce5e47492d96d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/villager2.png"
+hash = "80d2b36325a2d1003c11fa6c90c71622302b9cf4c466490b2dda4128430707bd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/demo_background.png"
+hash = "7d0b4e698d56ee389ac14e7422a307a173ffe94858958137e2a2091c5075ecdb"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/recipe_book.png"
+hash = "3eed0e10a07a662ca78475b1c99277e30d20b0792d8551a8df8afabca00d014a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/recipe_button.png"
+hash = "047b1ff15bb1e090e754633e3d1eaafb2d84f3db27be6d3f696a99be21482337"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/resource_packs.png"
+hash = "94bd26ba00cfacf37e5e2b3a6740cd5b78b07ddf059abba0dd984b60bf98ee88"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/server_selection.png"
+hash = "2add652d96861d76efcaa88df0625fe417ca136f0e4957b946077403320e142f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/social_interactions.png"
+hash = "21af36feca66ab0830ebc5011f9d85184995f967f4b2fa0bd89ecb271995e323"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "d8f9864a2dc2d01312d21b1ecfd68f268646dcc0856c00f52f0fe5cea56f64f0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/toasts.png"
+hash = "119738ae062ccfbfdfd664c6bbfbda39ece8202afc95e952aff310cc1669c9fa"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/widgets.png"
+hash = "573996042d00adb9fcb2f07824bdce1de4af66e95729db313b9eb7d011252f7a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/world_selection.png"
+hash = "93f62f51842dd988551c041570e1679e5da4749c149e14e2a98ea917d36b4848"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+hash = "ce9bb39ad1410aac94c68ea6ed21ddf80b9bf08e6ef92d12426d165aa6188bca"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
+hash = "70f5a467863e34f5313c7d7e2717e96a46d9196bfe4f64b21317e37e531c567e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+hash = "8a18b49493dec8b283b15c95f090f86605a716ed64e95064cb13011b77dceef4"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
+hash = "c8c2c6f83a2ab10c853a1c34205673b631b12ae5130f5ed0de124707997893df"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_shield.png"
+hash = "c3e66435214ff0b494bce4cdd3d45fbe8697fd8b2252f43e8aa06c337e25bf6e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/polymorph/textures/gui/widgets.png"
+hash = "29cc75b2f3ee3d45a1d33da32a04a4cbcac6345bdba3b76424d4601cb64c771c"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/LICENSE.md"
+hash = "c84698448f131d708e0c5603564b28925446eecf21553c196bfe7240373621d0"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/README.md"
+hash = "8ab9214ff9e86868f68d47664cb53ec3c055fba706effa859992a9ead61e1dc2"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/blank_back.png"
+hash = "e6b8bd358a8914a1001611ee2de2c5623fd87d96213cc67fed80a631e26c0453"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/more_slots.png"
+hash = "4898746832d399770109772ca022ccf3f3ed6e1b7bd651b5d58e7741050c2d8a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/aglet.png"
+hash = "a196e9463fccf82e6656586430e7c6d48a5ad29c2b579a1a063394727b8221f8"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/back.png"
+hash = "9232f25319ad7896b999bf431b7795169bd8db4d1edf2dc2de89b9b18ba79089"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/belt.png"
+hash = "ea430c0acc7b51ee7322e8e4f1f341a3616c6e631fd6bc00818cbed00e65ba27"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/cape.png"
+hash = "7b94e1ebbed92d6a666fc5ec1cb155b09e90baa0f79785359089b38ee6d39c83"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/charm.png"
+hash = "916540f82b5dfab73f35174929e43e142e13b2cc389ddb293b9e5750ad7d7eb5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/empty.png"
+hash = "086e3b13641a660cc83ed28dd8dd2585f45f40c68dfbc77dacd76eb23b8698ce"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/face.png"
+hash = "5b63011caf4293bd16ce3f5e8ecb807ea37b534487d7adb87fd3fa57986cab13"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/glove.png"
+hash = "6c079b5cba7ee164931afedab25c2f8d2c577842d19de03e145b7ee3ea8bfa9b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+hash = "706b0706bd5947cc56cb64eda5b2d2d45365b12cdfdf8bc4b71193369dfc56ec"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/hat.png"
+hash = "03144c00711ceb448342ccbe7bfc8799f1731d7b22993d7ac3e43ea897d6502e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/necklace.png"
+hash = "cf989521823b2bfafcd1240362095320367e7d060a3acf52bb4d1f4387ec947a"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/ring.png"
+hash = "9adefa9c602e00d83875573bf87d396d79f31a54932fcd156a2d7355f0c3bc69"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/shoes.png"
+hash = "c800fd252d3dc8fb5fea26da8f70efcd7d141aa055d8bac0146c422ca0e0d600"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/abyss.png"
+hash = "8da3411921427cb794a20a7c04b15b0c40dc0fd9eff678a60929be5cda2fb329"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/pocket_wormhole.png"
+hash = "8da3411921427cb794a20a7c04b15b0c40dc0fd9eff678a60929be5cda2fb329"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/waystone.png"
+hash = "b70bfe58165ace18ec394ff014839b7955d4a24e631496d7196612be7d298dfa"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/waystone_config.png"
+hash = "2535a281834d73d498fae9323d3b560a11be0b9eda69615ee5e00ee824d7b05c"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/grave_view.png"
+hash = "8fa765fb2ec45f645c0a0690629c9aa97d79265491ad22a83a7de3232791f3f5"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/select_elements.png"
+hash = "4598b1b96863c0b66b3169db513c7786eac83f0f4b44e07d82e30290f6a69fbd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/select_menu.png"
+hash = "ea944b3e878459bb84bd1cb697424a40ea936ac7c1299a1d73085d3ee3f4a62c"
+
+[[files]]
+file = "config/yosbr/resourcepacks/DarkMix/pack.mcmeta"
+hash = "595c3634b496248334429323e09a8d8c17f5ccd2deb615afc7f6354a8915e331"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
+hash = "5e9ec882be7fe56e8519d483a666fc78744c93a4fcd602115ed0edba640d6b6d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page2-settings.png"
+hash = "93a981d98db90aa4177ab89280c1d22497ffb684daeb886b674c83dc0483f1e1"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png"
+hash = "d554857bb23fe14da7c8d71fe61fde1dfe053e21f49038f7a8e4680f971f8384"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png~"
+hash = "633f04c4b8090285bf635f6e7f9657c5c58704454f405f62fec12128a29f25fd"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/waystones/waystone_menu.png"
+hash = "1a20b4fca6edbabecfaaf5a260f8adaf64a9573c7e1cfab74a58af70688a4f0e"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/waystones/waystone_settings.png"
+hash = "75df42b22bc99f8ae2e0be98b5c0d64e4fea3731cc1bf0d0a4c931c26e2c8b1d"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "6cb31032b62509fa9c50190c05b8d1ca9388dc11cf2861d1f961f537ba6624e6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "0e6364c2671982102c9ed250b98e5a1d7c1aed012a8986c73b6bcd2b3da6b851"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "1c470f1a933c69ce2f641458f10eebbaf639be1c9aeec8948966fa707798acda"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "729737e9daa7073645f034343f47ee71cb4967f3583b89e7d2871d44dc6042a3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "de473e5852adbfc85fb85126f76378648e47309ab3b67b3028714e532abad539"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "213521b653e87c9b6f795f85a0e7533b6f52adbf71a836244a2279fe4b5ec0e7"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "3bcea5853f8ad3ebe84ef6c027fc6220e77667e5a4ebc257a30e8f8697070690"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png~"
+hash = "afb8266853c40b5f9201ff03e0698208eca3466924ebb4346a2b302f39f1f92f"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "e5491ed43fa0a2dc854496c6d9f9087aa7b7c8a351131738b224e4b7daf16e61"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png~"
+hash = "e2ca489a4442295887a84b3c7d07a5164cb21c7aae987d666aa130f4521cde50"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/pack.mcmeta"
+hash = "7f4163b34df7a121f650ec3d34e1738dc3bd7cdc5112fb26e7d170c48037cf7b"
+
+[[files]]
+file = "config/yosbr/resourcepacks/HexMC Resources/pack.png"
+hash = "6bbbf97665c9675edd2c8c156b779d08568b1ad09cff354c4bc3f70431ff8706"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -416,11 +1484,6 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "270997abd62d8d209d00e8a12069a105b928bedf3e56d18f759ccf24cb0ffb40"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "040aa6a361bf5fba71fa9765a246d4ee0039ab1d803e7e2a76ceb80a314864c2"
 metafile = true
 
 [[files]]
