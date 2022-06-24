@@ -1,0 +1,13 @@
+name = "Croptopia"
+filename = "Croptopia-1.18.2-FABRIC-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9db22bb039a564069d2f5325e32257c53b92c7a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820867
+project-id = 415438

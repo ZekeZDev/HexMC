@@ -5,9 +5,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
- 
 
-# Make data base, printed on Tue Jun 21 19:17:18 2022
+# Make data base, printed on Fri Jun 24 22:12:34 2022
 
 # Variables
 
@@ -22,7 +21,7 @@ PNPM_HOME = /home/me/.local/share/pnpm
 # environment
 GJS_DEBUG_OUTPUT = stderr
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-e57cea8e-0da2-4fd3-b182-40e674fc41a9.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-74fee10a-4acc-438e-a34f-461b6f2bade1.sock
 # environment
 VSCODE_CWD = /home/me
 # environment
@@ -104,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 66824
+VSCODE_PID = 6869
 # environment
 SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS = 0
 # environment
@@ -112,11 +111,10 @@ XDG_SESSION_TYPE = x11
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/1954,unix/unix:/tmp/.ICE-unix/1954
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/1975,unix/unix:/tmp/.ICE-unix/1975
 # automatic
 *F = $(notdir $*)
 # environment
- 
 CHROME_DESKTOP = code-url-handler.desktop
 # environment
 DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1001/bus
@@ -141,13 +139,13 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = /home/me/.local/share/pnpm:/home/me/.local/bin:/home/me/bin:/usr/lib64/ccache:/home/me/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin
+PATH = /home/me/.local/share/pnpm:/home/me/.local/share/pnpm:/home/me/.local/bin:/home/me/bin:/usr/lib64/ccache:/home/me/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/home/me/go/bin
 # default
 MAKEFILES := 
 # automatic
 ^F = $(notdir $^)
 # environment
-INVOCATION_ID = f318209346f440d2a660145688b14ea0
+INVOCATION_ID = efd51d0f0e804df682e7b92ac5c08bca
 # environment
 VSCODE_LOG_NATIVE = false
 # environment
@@ -173,7 +171,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := default
 # environment
-SYSTEMD_EXEC_PID = 67530
+SYSTEMD_EXEC_PID = 2026
 # environment
 HISTCONTROL = ignoredups
 # environment
@@ -185,22 +183,21 @@ USER = me
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 1761
+MANAGERPID = 1778
 # environment
 which_declare = declare -f
 # environment
 DEBUGINFOD_URLS = https://debuginfod.fedoraproject.org/ 
- 
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 74974
+GIO_LAUNCHED_DESKTOP_FILE_PID = 6869
 # environment
-SSH_AGENT_PID = 1913
+SSH_AGENT_PID = 1934
 # environment
 _ = /usr/bin/make
 # environment
 XDG_RUNTIME_DIR = /run/user/1001
 # environment
-JOURNAL_STREAM = 8:930021
+JOURNAL_STREAM = 8:24570
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -234,7 +231,7 @@ GDMSESSION = gnome-xorg
 
 # Directories
 
-# . (device 39, inode 1390865): 13 files, no impossibilities.
+# . (device 38, inode 1390865): 13 files, no impossibilities.
 
 # 13 files, no impossibilities in 1 directories.
 
@@ -286,7 +283,6 @@ polymc:
 	7z d ./build/modpack-polymc.zip ./pack/.minecraft -r
 	7z a ./build/modpack-polymc.zip ./pack/* -r
 	7z a ./build/modpack-polymc.zip ./pack/.minecraft -r
- 
 	7z d ./build/modpack-polymc.zip ./pack/.minecraft/mods ./pack/.minecraft/pack.toml ./pack/.minecraft/index.toml -r
 
 modrinth:
@@ -307,6 +303,7 @@ clean:
 	-rm -rf ./build/.technic
 	-git gc --aggressive --prune
 
+ 
 curseforge:
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: ''
@@ -360,7 +357,6 @@ technic:
 all: curseforge modrinth polymc technic clean
 #  Command line target.
 #  Implicit rule search has been done.
- 
 #  File does not exist.
 #  File has been updated.
 #  Needs to be updated (-q is set).
@@ -387,6 +383,6 @@ all: curseforge modrinth polymc technic clean
 # strcache performance: lookups = 42 / hit rate = 42%
 # hash-table stats:
 # Load=24/8192=0%, Rehash=0, Collisions=0/42=0%
-# Finished Make data base on Tue Jun 21 19:17:18 2022
+# Finished Make data base on Fri Jun 24 22:12:34 2022
 
  
