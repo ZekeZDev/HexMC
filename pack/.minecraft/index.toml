@@ -65,10 +65,6 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
-file = "config/yosbr/config/inventoryprofiles.json"
-hash = "c5f2fc01b0963ab5d7cd999696856c388962611ec0060a8fde6d3a01f5dc7585"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
