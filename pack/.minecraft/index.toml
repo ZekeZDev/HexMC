@@ -93,10 +93,6 @@ file = "config/yosbr/options.txt"
 hash = "8d5888ede9955f794de29f4456ec0b4d22ae9a20d4470b6913c3ae16ffcd0e56"
 
 [[files]]
-file = "config/yosbr/resourcepacks/Copper Legacy Pack.zip"
-hash = "09d0a2ae46615f2ee2ee697a50c0cdd507ab75ff7b1d73eba877479654db848e"
-
-[[files]]
 file = "config/yosbr/resourcepacks/DarkMix/LICENSE.txt"
 hash = "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
 
@@ -1161,6 +1157,14 @@ file = "config/yosbr/resourcepacks/HexMC Resources/pack.png"
 hash = "6bbbf97665c9675edd2c8c156b779d08568b1ad09cff354c4bc3f70431ff8706"
 
 [[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "4e09d9d556726ffaea7a2f845458b80f72c7948134fff323ae6b09b8df044c8a"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "d3fae1407bc561e80a68a34d78d57f8c3054387a63081381e75063a344cd4d54"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "175093f4eeff366844fa0aaf4dcb96ddd02a4d332b2ae5c7b72ac5bfd8dafeeb"
 metafile = true
@@ -1663,6 +1667,326 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/book.json"
+hash = "7f7227040cfb3541f7b2a6827348cd6a257307d2cd39789dfbac204f5eec8d6f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/alloy_forging.json"
+hash = "18fc781b107c8d5de0e9d380e114e73b2e72163fc65b05695d8821a2d79ced4e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/boss_fights.json"
+hash = "c46582ad0e4f3b0c5722eb059eff9f7ec9326e1d055bc6ba419dd5d6c3f4fb18"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/create.json"
+hash = "7a9117e47570f81f4858ae77f70b2508af12a3d2dba5064bb67f2c73a52d90db"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/decorating.json"
+hash = "d64fc928064c77d9a41c4b67320054a492a799b0b208a154f511e8224b8667f0"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/lexicon_botania.json"
+hash = "5134ee8e73b5fa796d355edd77563d1a69ff73cc791e680a829ef3d2cca5edd1"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things.json"
+hash = "647ff964bbf7ccfe6daad024051e1108161dce99b39a44ba809ad6f9f932633c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/blocks.json"
+hash = "2597dbaf2dbf73d9c599202be43c6f0e9054febba3cb0088cb40e9415763d3b1"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/items.json"
+hash = "39c024422734dc455ea4adf95b51fcc1902693ea20a07b800710a4a45d64eb06"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/trinkets.json"
+hash = "fcd16009b4e9e8e07c088f5de713501c0f624dac0d1ae61afac695f489c56976"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/waystones.json"
+hash = "082c55988540533135e78b26363d20789b160320e88373c4260a70219e4f3737"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloy_forge.json"
+hash = "6557d724d3413e6f03df5f09bf4fbbc022867dd9f336583e9ad39d9c7dfbd345"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloys.json"
+hash = "8123741d8f158b0eb93c9461923bc080d27c951617388eb51eaf8feb7b1fb573"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/forge_controller.json"
+hash = "8c040c68019c9c26d09b1e2ca9ee2a3952bc8dc121288a839566775f326ca2dc"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
+hash = "a7f67f3e9bed2ae882c35b562cac334ee6c08ddaee671723598e4da4f3765047"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/ice.json"
+hash = "cba1994c2237a5748fcaf2371f143e3a037ca7191c76ddcf3a6b8eddfe86ae49"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mansion.json"
+hash = "e9f1f5f7d361cab1573ed49f9ec3db6ae2fcb64b6c6e2f208a6e5920b4ed4ad0"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mystery.json"
+hash = "b7bdd1c7636ab579821d6ecfdf33c56edada17cf083467a371eb69bd7349bb81"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/nether.json"
+hash = "3f83725b679031bc0f341615e950bed42b8bf91214d5886e81b979a427a39fe9"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/resummoning.json"
+hash = "5ed88a1ef7bb78db38607a607fca55418587c9eb1adb2ca3ca820c1bd3f6489a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/underground.json"
+hash = "9c7c280d752af8fd1aa445b90e1f83c1518c41559f1ab0052434d9fd28adbf7e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/create/introduction.json"
+hash = "2e98d49a0ad6a0bed412a503ea2f8b3f220e68a8142be3ad82aa56ca0f3b6a92"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/brewers.json"
+hash = "5a5384bfed208f841cbd4d32babc17a5b161215c6c6bfbb117522eed47302242"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chairs.json"
+hash = "9e53dc95e18c7e2a487dfc3a29c7246d6dbeeeb54ddbb18a249f8eaf60c4b2f2"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chimenys.json"
+hash = "568ec915fe10f42da568698e72a651092fc0f61c608b331de5d825f4dae2e510"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/drawers.json"
+hash = "71ede0f2fac4783ae47ffd4b278b280acde1ef00a074795c998cf3935246ea52"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_blocks.json"
+hash = "e307c2e8aa3ff02cac16f0defaf0f4b348b385a6994f7dfea601cc41ac441175"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_sinks.json"
+hash = "0c1c41376b309425e75750b0bb23d238376b3dbe087e9503b9131c9dfb0b80e4"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/platforms.json"
+hash = "844cbc3a58bf7d25564545182f41e6f7ac3fcc4ba99d68b73cbf49dc9e36062f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/posts.json"
+hash = "5b728509806baa86ac7be660743c6d6f9b393a0c5891cbe751829699e005a6ee"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/prismarine_chimneys.json"
+hash = "5ce61b2dc455897b68623839c91d20bc204c9e4e3698300f3df66c17c88bfd5a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/shelves.json"
+hash = "78b861be87eaad7673fb24df53044b711cc74b74ebd7b695828d1307a5a41938"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/sofas.json"
+hash = "3d125072ee9f8970d854ef4a845b527fa114bd3824bc39274fc6e4a2d44ed9cd"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/steps.json"
+hash = "f7f976d9be694e57e57541351f44d6c525a011364ce3a823546b56e64d14a47f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/tables.json"
+hash = "54e45b148041f00047274d84f98989355d67c15dd4dfca8e5218e3f49ffcc5a4"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/crafting.json"
+hash = "f5caee5bb3de80d530419d7d8e5b1401a7c2d470ba6aa3908e1bcb6e9cdd6615"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/upgrading.json"
+hash = "9fb278879b819bc69987b3f5c8a5ed1693cfd79b10f352a008d3dd87fdeeabd8"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/diamond_pressure_plate.json"
+hash = "49be3da9b972f79f1a94cf186ac63c213e9f9ead1c1b65676c8ffd6edb931cef"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/gleaming_ore.json"
+hash = "005de36d91cb31545cc42d5f7f0fc6f0894c56f2ae7201c93d6fd7d50aefbd68"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/glowstone_fixtures.json"
+hash = "d7cca29e8faaafa423daa38d1a7004a72b4f19606b0679bdc63e256aea72e2e3"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/apples.json"
+hash = "ae9640ac997d6df762da33283507218c6f760bd06f1ae954a1840e88056f5268"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/bater_wucket.json"
+hash = "de9451661322a8e97bf01388d40e8909688aabaa8f9400721de432c91459f766"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/container_key.json"
+hash = "1f8f6ea186d7eea4f6f7b371fe6147be636b0e878112caaebc1b7b2780e62435"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/displacement_tome.json"
+hash = "5b4da79df7edd0d4bb7efd79a0ec8e22360c5f01baa98e8ea500af51c9e52353"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/gleaming_materials.json"
+hash = "5e7a5dd51fed79d1b7955a5298bb914d9c1c8f2dc703a6ad680724c21e97c563"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/hardening_catalyst.json"
+hash = "8c748ca4d5c7d0b5e80175c06794b7247efdbed4434435b31c520f467256cb0e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/infernal_scepter.json"
+hash = "5d28151fc3c3ca16427b3466252115832b49be61acf06ed6c14e402b281ec98a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/item_magnet.json"
+hash = "d7237b1ec88ee4f7199507722c406d7cd2142a064610e460b1dcfc6a35080125"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/recall_potion.json"
+hash = "f8518ff1f4990ddf82af5e0517120935537062f79b869aaed919ca845557b400"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/retribution.json"
+hash = "d9d6417de7fc06b0e4bdc3d539d3f66c1b95e1b12537d8f99bbf7e4f84ae2b8a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/arm_extender.json"
+hash = "5c2f15f41a765af0a51281048ac389c06eb6382626136c96e21af5f7117df52a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/broken_watch.json"
+hash = "86cb244d6272949bf10fb7b242bce8e5ffce5daaccf3103bf8f9f760b4fbb944"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/ender_pouch.json"
+hash = "099b7110936442fd24c664ed8bc8fc1323f5b3621f7230edec6da1e4a94e62f7"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/hades_crystal.json"
+hash = "ecf96ceb3367a797dec01b0913d7068575021fc6100bd8d72594ece88fb01609"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/luck_of_the_irish.json"
+hash = "2582e83638a194f5b839f4267a020d87693e9097223a7f41ec9db2f2f23fd4c6"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mining_glove.json"
+hash = "455f9f7cfa984b2c278718392f66fc343bba02a0ca57de13498338696d67e71f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/monocle.json"
+hash = "2ff50214535f7a54c385a0fb9bed325076695ca7e48b4b41e6d23451f71b810e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mossy_necklace.json"
+hash = "d5dd4a7079bd7137554f844dde5529c5d04a96ee19e3c61d5b92ec6f364e00b2"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/placebo.json"
+hash = "320a7033299ac248f0b81456ec71ee0696bfbdcd1fbfb28aa150d9df70476cb4"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/rabbit_foot_charm.json"
+hash = "b195abbae53f24ba149fcf4704b4c278db3961dee5659cb17c4b77d017923d57"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/riot_gauntlet.json"
+hash = "d34cd4185f454867e6751954e69a05e518f977112af232719727207be2cdb436"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/shock_absorber.json"
+hash = "52243d356a296a6a7621fb9190abf3d38ba3737113c000bb921237b471876446"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/socks.json"
+hash = "fc22cecf15ba7158a34141760d38a7674a45861b2dc3a20e88f31b03c1d52c37"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/wax_gland.json"
+hash = "49cb8d7bd50e12bfa412f8db2e4178be55d7f0ef695c825e5e1b59f28b74423c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/abyss_watcher.json"
+hash = "d819ebedd09373ad8f9cf268105d97eeb6a5edd7fb2dd0832c2e71e1d4015725"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/empty_waystone_scroll.json"
+hash = "64191ce26d3042d08bb15ab0aac542c758a05f4a8d421d9debab45adf43a5304"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/local_void.json"
+hash = "b6e7a33cee538674556212d3d7c27990a986346d473d5b121743b00b03793f27"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/pocket_wormhole.json"
+hash = "3d366a121c5e8df6b0648db439564fad2fd8830f8989ac0f669eef33b94537a1"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/void_totem.json"
+hash = "ce68783c3c2b64325c1f46acc4f3fca5bdeeef7e6f668f594276dde0e184116d"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
+hash = "29b9403dcb37aa490bc5ff282230c38c2b6ff6f41b81fa17ff2653a3aa637164"
+
+[[files]]
+file = "patchouli_books/hexmc_server/book.json"
+hash = "f04734b4247f04d5503c657f5dd9cc336b3131bf77cf548123951fe9272de745"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/categories/server.json"
+hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/approved_modifications.json"
+hash = "d6bb5e16a65aa3b08c35bd9dfd79d849c9afa5b5b4204ba31c8dc47c5b52b4d1"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
+hash = "f71a124394da0b7824170a4672e3d72cff801a56045a044376fe0645f286315d"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
+hash = "8155e3358cd5da831751ac63bc21422020e8937071291984b8eef732f1f88354"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
+hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
+hash = "2107490183bcecc8d24dc836c05918f5daad744e520eb71aebe4038c67d1764b"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/support.json"
+hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
+hash = "643350785cb958d19054c56a2f5b9f800f0755596191b08d47e23fe698f284c7"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/waystones.json"
+hash = "120ac765587004bf0af4d42140e105c97a480af18309ab96a98db871b51d8871"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
