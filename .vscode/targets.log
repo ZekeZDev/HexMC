@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jun 24 22:12:34 2022
+# Make data base, printed on Sun Jun 26 15:34:56 2022
 
 # Variables
 
@@ -21,7 +21,7 @@ PNPM_HOME = /home/me/.local/share/pnpm
 # environment
 GJS_DEBUG_OUTPUT = stderr
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-74fee10a-4acc-438e-a34f-461b6f2bade1.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-fee513ca-78b4-48b6-8628-be43c287af8b.sock
 # environment
 VSCODE_CWD = /home/me
 # environment
@@ -103,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 6869
+VSCODE_PID = 3548
 # environment
 SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS = 0
 # environment
@@ -111,7 +111,7 @@ XDG_SESSION_TYPE = x11
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/1975,unix/unix:/tmp/.ICE-unix/1975
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/2005,unix/unix:/tmp/.ICE-unix/2005
 # automatic
 *F = $(notdir $*)
 # environment
@@ -145,7 +145,7 @@ MAKEFILES :=
 # automatic
 ^F = $(notdir $^)
 # environment
-INVOCATION_ID = efd51d0f0e804df682e7b92ac5c08bca
+INVOCATION_ID = af55d0c2caaa4ccd8b3cd5fbd90fd4f2
 # environment
 VSCODE_LOG_NATIVE = false
 # environment
@@ -171,7 +171,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := default
 # environment
-SYSTEMD_EXEC_PID = 2026
+SYSTEMD_EXEC_PID = 2056
 # environment
 HISTCONTROL = ignoredups
 # environment
@@ -183,21 +183,21 @@ USER = me
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 1778
+MANAGERPID = 1795
 # environment
 which_declare = declare -f
 # environment
 DEBUGINFOD_URLS = https://debuginfod.fedoraproject.org/ 
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 6869
+GIO_LAUNCHED_DESKTOP_FILE_PID = 3548
 # environment
-SSH_AGENT_PID = 1934
+SSH_AGENT_PID = 1963
 # environment
 _ = /usr/bin/make
 # environment
 XDG_RUNTIME_DIR = /run/user/1001
 # environment
-JOURNAL_STREAM = 8:24570
+JOURNAL_STREAM = 8:41122
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -303,8 +303,8 @@ clean:
 	-rm -rf ./build/.technic
 	-git gc --aggressive --prune
 
- 
 curseforge:
+ 
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: ''
 #  File does not exist.
@@ -383,6 +383,6 @@ all: curseforge modrinth polymc technic clean
 # strcache performance: lookups = 42 / hit rate = 42%
 # hash-table stats:
 # Load=24/8192=0%, Rehash=0, Collisions=0/42=0%
-# Finished Make data base on Fri Jun 24 22:12:34 2022
+# Finished Make data base on Sun Jun 26 15:34:56 2022
 
  

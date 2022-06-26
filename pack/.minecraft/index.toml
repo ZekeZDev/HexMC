@@ -5,12 +5,12 @@ file = "bin/version.json"
 hash = "517d3dcd1f6c9c51268f208356c3443a4941cb03827b80db8754ee067484852a"
 
 [[files]]
-file = "config/byg/biomepedia.json5"
-hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+file = "config/additional-additions-config.json"
+hash = "59f3c6facc622fa9acf6dc0675d4e2eb6d3ee84143c42e08da05e391712f381b"
 
 [[files]]
-file = "config/campanion.json"
-hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
+file = "config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
 [[files]]
 file = "config/customsplashscreen.json5"
@@ -29,12 +29,20 @@ file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
+file = "config/extraalchemy.json"
+hash = "a884b241b9d5a57727356980248f6caad4f54b9f4ab5a5a8f32ea0974b155e08"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
 hash = "9703e82a8eed619d48bbe1f08da2548c22544f2f788d94d466b3dea48ad41b86"
+
+[[files]]
+file = "config/things.json5"
+hash = "b99687914fe97072bb659312d10775958def9c5bee10eb0eb86d5e11c727baad"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -57,10 +65,6 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
-file = "config/yosbr/config/expandedstorage.json"
-hash = "90b54d645a35a91d3b5f97dcad2aca26015ae684ef0eb029b615b79bc327640e"
-
-[[files]]
 file = "config/yosbr/config/inventoryprofiles.json"
 hash = "c5f2fc01b0963ab5d7cd999696856c388962611ec0060a8fde6d3a01f5dc7585"
 
@@ -70,7 +74,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+hash = "18c500a4c01dcd846c8dca192a77f9c0326b89204c99983401a6cded9e98ef9c"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -78,7 +82,7 @@ hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "3323d4a58366f63f1c8becc48282e1ac55b35043040a2ff9a0f01a134a4532c7"
+hash = "372402613fb32a482a6590f3a6da1346d5d8ff97774f4c69eb4ec34fa7be1fa5"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -86,7 +90,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cd84347ee1607bec986ba275f0cb755711e5aebf593badf399ea384f2d8b415a"
+hash = "8d5888ede9955f794de29f4456ec0b4d22ae9a20d4470b6913c3ae16ffcd0e56"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Copper Legacy Pack.zip"
@@ -1233,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "5e7d81822935658460f48ba606a0071367c6b034be460ccd8b3f6b63df8188e6"
+hash = "41bb864ca1d015214b29c6e445009f59fb170bed9293a7d219d92706e00d29d1"
 metafile = true
 
 [[files]]
@@ -1282,11 +1286,6 @@ hash = "887fa2fc8b7df31b2cb297bcf653aad484c2feb8d26753f07f2199648d6c53f0"
 metafile = true
 
 [[files]]
-file = "mods/croptopia.pw.toml"
-hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
 metafile = true
@@ -1322,11 +1321,6 @@ hash = "499e04f46de698eae3bf79d52014099f7f5afb30dac7dea4631a9ca4e750c85d"
 metafile = true
 
 [[files]]
-file = "mods/ellemes-container-library.pw.toml"
-hash = "b925e02a338a6d806d35003c57bf6c3125acb331058654bc98441ad5c4855ac2"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "1f432d99bd9cdab8245bc26bf25e24cda14167cb8292cfd9cb1fd647c2cace1b"
 metafile = true
@@ -1334,11 +1328,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
-metafile = true
-
-[[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "b54695dbe4fd89c9491c5c658bdb1d5865f2bb41074eb3a1908cc974ba880bf0"
 metafile = true
 
 [[files]]
@@ -1383,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "b612849445e6403d4c60173e5f0d59f0ca8f69824b281ea260e97e7549d07a01"
+hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
 metafile = true
 
 [[files]]
@@ -1394,11 +1383,6 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "d4b5e52049dc3ef42e8b8eafa0c4e4be0d693cc8346fb506e3fa772b429b70fc"
-metafile = true
-
-[[files]]
-file = "mods/harvest-scythes.pw.toml"
-hash = "d94e2c1f37b1f440d67a98ec7af8e3d30d67bd5621ff4c0ead7a0ad2076a6b93"
 metafile = true
 
 [[files]]
@@ -1424,11 +1408,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "dd62536d072d1ba186f7b7df71b0903143433e3881a40e93f4852ecb5ea89294"
-metafile = true
-
-[[files]]
-file = "mods/inmis.pw.toml"
-hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
 metafile = true
 
 [[files]]
@@ -1484,6 +1463,16 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "270997abd62d8d209d00e8a12069a105b928bedf3e56d18f759ccf24cb0ffb40"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7c5ddb1d34d6b46a821398895ef8650b58b70af35c41befac3109120fc275a32"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "7d059440095174c2a66f47b86edcb45f64378e5d57a66c4b8cb255ad27fcdf30"
 metafile = true
 
 [[files]]
@@ -1563,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "3efeee5800eb609d02837d650d3d7724c681053cdb886a8cabe5988d563e034f"
+hash = "30d9d862941ba9ab814539bbbd500f1654a4d8fd00ff70a3dfae2775f62af0f2"
 metafile = true
 
 [[files]]
@@ -1594,6 +1583,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "248a870f42a898efe9c659735f555e803c9c8e1cebd00cb420ae51d9a07adeb3"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "eb45dfb9e6cbfa02639fc89237853d1b3c57a7ee8e4af22aac6fddb5f8560f3d"
 metafile = true
 
 [[files]]
@@ -1629,6 +1628,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "7a1300eb98aef97135125d2b608136f2f5b1f2c3cd33377417c069c95135e403"
+metafile = true
+
+[[files]]
+file = "mods/valleycraft.pw.toml"
+hash = "b3bdf602575e58c3f7c65b87209a33e0d583ffda31da9839bde9ca7f67106461"
 metafile = true
 
 [[files]]
