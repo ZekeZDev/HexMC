@@ -1,0 +1,17 @@
+{
+  "name": "Resummoning",
+  "icon": "bosses_of_mass_destruction:brimstone_nectar",
+  "category": "patchouli:boss_fights",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(item)Brimstone Nectar$() Is a consumable that can be used to resummon 4 of the new bosses. $(br2)$(#ff0000)does not work on the Mansion Boss, Wither and Ender Dragon."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bosses_of_mass_destruction:brimstone_nectar",
+      "text": "Usage: $(br2)Resummon bosses by right-clicking the $(item)brimstone nectar$() at a boss spawn location"
+    }
+  ]
+}

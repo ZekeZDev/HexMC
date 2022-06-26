@@ -1,0 +1,12 @@
+{
+  "name": "Mansion",
+  "icon": "illagerexp:primal_essence",
+  "category": "patchouli:boss_fights",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Mansion Boss$() is very self explanitory, it can be found in any mansion. $(br2)Mansions are a lot harder in HexMC this boss is no exception. $(br2)Tip: Bring a friend"
+    }
+  ]
+}

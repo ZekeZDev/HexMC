@@ -1,0 +1,15 @@
+{
+    "name": "Void Totem",
+    "icon": "waystones:void_totem",
+    "category": "patchouli:waystones",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "Just like the Local Void, the Void Totem can be bound to a Waystone. If you die with a bound one equipped, it will teleport you to the bound Waystone. Should it be unbound, it will choose a random one you have discovered. Otherwise, it simply acts like a normal Totem of Undying."
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "waystones:void_totem"
+      }
+    ]
+  }

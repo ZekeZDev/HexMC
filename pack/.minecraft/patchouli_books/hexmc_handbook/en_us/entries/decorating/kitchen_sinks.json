@@ -1,0 +1,11 @@
+{
+  "name": "Kitchen sinks",
+  "icon": "adorn:oak_kitchen_sink",
+  "category": "patchouli:decorating",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "You can store water and other fluids in kitchen sinks. They are infinite sources of water, and the water can be cleared out using a sponge."
+    }
+  ]
+}

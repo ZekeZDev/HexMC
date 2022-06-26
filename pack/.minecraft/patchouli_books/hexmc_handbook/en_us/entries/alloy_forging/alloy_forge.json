@@ -1,0 +1,128 @@
+{
+  "name": "Alloy Forge",
+  "icon": "minecraft:lava_bucket",
+  "category": "patchouli:alloy_forging",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Alloy Forges are a multiblock smelting structure.$(br2)The $(l:forge_controller)Forge Controller$() is the center of an alloy forge. $(br2)There is 3 tiers of alloy forges each able to smelt more then the last"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Alloy Forge",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:deepslate_bricks",
+            "C": "alloy_forgery:deepslate_bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Forge Tiers",
+      "text": "There is 3 tiers of alloy forges starting with the brick smelter and finishing with the endstone forge"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 1: Bricks",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:bricks",
+            "C": "alloy_forgery:bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 1: Stone Bricks",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:stone_bricks",
+            "C": "alloy_forgery:stone_bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 2: Prismarine bricks",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:prismarine_bricks",
+            "C": "alloy_forgery:prismarine_bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 2: Deepslate bricks",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:deepslate_bricks",
+            "C": "alloy_forgery:deepslate_bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 2: Polished Blackstone",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:polished_blackstone",
+            "C": "alloy_forgery:polished_blackstone_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Tier 3: End Stone Bricks",
+      "multiblock": {
+        "pattern": [
+            [ " B ", "B B", " B " ],
+            [ " B ", "B0B", " C " ],
+            [ "BBB", "BBB", "BBB" ]
+        ],
+        "mapping": {
+            "B": "minecraft:end_stone_bricks",
+            "C": "alloy_forgery:end_stone_bricks_forge_controller[facing=east]"
+        },
+        "symmetrical": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Brewers",
+  "icon": "adorn:brewer",
+  "category": "patchouli:decorating",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Brewers cook various beverages for you to enjoy."
+    }
+  ]
+}

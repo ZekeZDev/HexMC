@@ -1,0 +1,11 @@
+{
+  "name": "Posts",
+  "icon": "adorn:oak_post",
+  "category": "patchouli:decorating",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Posts are like fence posts. They don't connect to other posts."
+    }
+  ]
+}

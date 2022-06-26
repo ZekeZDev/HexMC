@@ -1,0 +1,17 @@
+{
+  "name": "Introduction",
+  "icon": "create:wrench",
+  "category": "patchouli:create",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "To start creating contraptions open your main menu and head to the goggles icon, from there you can acess the ponder index. $(br2)Alternatively:$(br)$(c:/create ponder)Click here to ponder"
+    },
+    {
+      "type": "patchouli:link",
+      "url": "https://create.fandom.com/wiki/Create_Mod_Wiki",
+      "text": "Stuck and not sure how this works? $(br2)The Create wiki has great informations regarding the ins and outs of engineering.",
+      "link_text": "Create Wiki"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Abyss Watcher",
+    "icon": "waystones:abyss_watcher",
+    "category": "patchouli:waystones",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "Used for crafting the waystones, as well as teleporting to other waystones by right clicking it, consuming the item upon use."
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "waystones:abyss_watcher"
+      }
+    ]
+  }

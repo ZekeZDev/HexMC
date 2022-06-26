@@ -1,0 +1,17 @@
+{
+  "name": "End",
+  "icon": "bosses_of_mass_destruction:obsidian_heart",
+  "category": "patchouli:boss_fights",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The End Boss$() can be found after defeating the ender dragon in the end islands. $(br2)Tip: Bring a pickaxe"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:ender_eye",
+      "text": "an $(item)Eye of Ender$() is required to spawn this boss."
+    }
+  ]
+}

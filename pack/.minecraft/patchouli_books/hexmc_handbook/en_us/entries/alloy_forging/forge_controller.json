@@ -1,0 +1,16 @@
+{
+  "name": "Forge Controller",
+  "icon": "alloy_forgery:polished_blackstone_forge_controller",
+  "category": "patchouli:alloy_forging",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Alloy Forges are a multiblock smelting structure. $(br2)There is 3 tiers of alloy forges each able to smelt more then the last"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "harvest_scythes:machetes/iron_machete",
+      "text": "Example crafting for a machete, most materials can be used"
+    }
+  ]
+}

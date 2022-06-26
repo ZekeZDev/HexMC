@@ -1,0 +1,11 @@
+{
+    "name": "Alloys",
+    "icon": "mythicmetals:hallowed_ingot",
+    "category": "patchouli:alloy_forging",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "Alloys are metals made from multiple other metals. $(br2)Alloys can be made using the $(l:alloy_forging/alloy_forge)alloy forge$(/l) or a $(o)Mixer"
+      }
+    ]
+  }

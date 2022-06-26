@@ -1,0 +1,17 @@
+{
+  "name": "Ice",
+  "icon": "bosses_of_mass_destruction:soul_star",
+  "category": "patchouli:boss_fights",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Ice Boss$() lives in a large tower and can be found by using a $(item)Soul star$()"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "bosses_of_mass_destruction:soul_star",
+      "text": "$(item)Soul star's$() can be obtained through killing mobs"
+    }
+  ]
+}

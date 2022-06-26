@@ -1,0 +1,15 @@
+{
+  "name": "Upgrading",
+  "icon": "botania:textures/item/lexicon_elven.png",
+  "category": "patchouli:lexicon_botania",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The base lexicon does not have all the knowledge it may take to be adversed in magic. It is rumored you can transfer items through a portal to the elven realms. It might be possible to send your book to that realm and learn new knowledge"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "You should read more of your $(item)Lexicon Botania$() it is likely to have information your looking for."
+    }
+  ]
+}

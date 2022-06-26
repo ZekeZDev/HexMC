@@ -1,0 +1,15 @@
+{
+  "name": "Crafting",
+  "icon": "botania:lexicon",
+  "category": "patchouli:lexicon_botania",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Rather simple but lacks the knowledge of a more advanced book."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania:lexicon"
+    }
+  ]
+}

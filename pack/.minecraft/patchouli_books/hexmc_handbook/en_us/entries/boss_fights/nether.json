@@ -1,0 +1,12 @@
+{
+  "name": "Nether",
+  "icon": "bosses_of_mass_destruction:blazing_eye",
+  "category": "patchouli:boss_fights",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Nether Boss$() can be randomly found in a large blackstone arena in the nether."
+    }
+  ]
+}

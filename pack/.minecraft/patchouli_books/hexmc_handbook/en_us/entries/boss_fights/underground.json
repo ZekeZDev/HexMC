@@ -1,0 +1,17 @@
+{
+  "name": "Underground",
+  "icon": "bosses_of_mass_destruction:void_lily",
+  "category": "patchouli:boss_fights",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Underground Boss$() can be found randomly in deep areas of the world or summoned using a $(item)Void Lily$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bosses_of_mass_destruction:void_lily",
+      "text": "Usage: $(br2)$(item)Void Lily's$() are able to point to the direction of $(thing)The Underground Bosses$() arena"
+    }
+  ]
+}

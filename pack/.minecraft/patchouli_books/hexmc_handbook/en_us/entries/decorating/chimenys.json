@@ -1,0 +1,11 @@
+{
+  "name": "Chimneys",
+  "icon": "adorn:brick_chimney",
+  "category": "patchouli:decorating",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Chimneys make little smoke clouds. They can also be stacked on top of each other to make them higher."
+    }
+  ]
+}

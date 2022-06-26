@@ -1,0 +1,15 @@
+{
+    "name": "Empty Waystone Scroll",
+    "icon": "waystones:waystone_scroll",
+    "category": "patchouli:waystones",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "Used for storing all your discovered waystones in it. Using the filled waystone scroll will discover all the stored waystones to the player using it. There is also the Scroll of Infinite Knowledge, which is creative-only under normal circumstances and makes you discover all Waystones in a world when used."
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "waystones:waystone"
+      }
+    ]
+  }

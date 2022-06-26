@@ -1,0 +1,11 @@
+{
+  "name": "Shelves",
+  "icon": "adorn:oak_shelf",
+  "category": "patchouli:decorating",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Shelves can be used to show your fancy items to guests."
+    }
+  ]
+}

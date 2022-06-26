@@ -1,0 +1,15 @@
+{
+    "name": "Local Void",
+    "icon": "waystones:local_void",
+    "category": "patchouli:waystones",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "Right clicking on a waystone will bind it to that waystone. Right clicking anywhere else will teleport the player to the bound location, as long as it exists, free of charge (configurable), with the item disappearing on use (configurable). The item can be reset by shift-right clicking."
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "waystones:local_void"
+      }
+    ]
+  }

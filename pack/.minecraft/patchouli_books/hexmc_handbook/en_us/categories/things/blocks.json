@@ -1,0 +1,6 @@
+{
+  "name": "Blocks",
+  "description": "Documentation for all Blocks",
+  "icon": "things:quartz_glowstone_fixture",
+  "parent": "patchouli:things"
+}
