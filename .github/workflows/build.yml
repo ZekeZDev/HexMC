@@ -36,10 +36,6 @@ jobs:
           make polymc
           7z x ./build/modpack-polymc.zip -o./build/.polymc
 
-      - name: Make Technic
-        run: |
-          make technic
-
       - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
@@ -51,9 +47,3 @@ jobs:
         with:
           name: HexMC MultiMC-PolyMC Auto Update
           path: build/.polymc
-
-      - name: Upload Technic
-        uses: actions/upload-artifact@v3
-        with:
-          name: HexMC Technic
-          path: build/.technic
