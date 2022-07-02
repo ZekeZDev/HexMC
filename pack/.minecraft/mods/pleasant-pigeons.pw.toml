@@ -1,0 +1,13 @@
+name = "Pleasant Pigeons"
+filename = "pigeons-1.3.0-1.18.2-x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/edKwsxB7/versions/1.3.0-1.18.2/pigeons-1.3.0-1.18.2-x.jar"
+hash-format = "sha1"
+hash = "45144970853f2b0766abc468a5ba12f815533f76"
+
+[update]
+[update.modrinth]
+mod-id = "edKwsxB7"
+version = "PGBgCbEe"

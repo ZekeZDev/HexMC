@@ -1,0 +1,15 @@
+{
+  "name": "Pouches",
+  "icon": "scout:pouch",
+  "category": "patchouli:satchels",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Rather simple but lacks the knowledge of a more advanced book."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "scout:pouch"
+    }
+  ]
+}

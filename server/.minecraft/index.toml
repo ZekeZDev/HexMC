@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7c5ddb1d34d6b46a821398895ef8650b58b70af35c41befac3109120fc275a32"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "7c10e2599f25e36dab5f53cabbe3213082c853495b3dfc101a36b9dd7b9758b3"
+metafile = true

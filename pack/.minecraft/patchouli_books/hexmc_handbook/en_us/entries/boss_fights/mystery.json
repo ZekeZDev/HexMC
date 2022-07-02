@@ -6,12 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)The End Boss$() can be found after defeating the ender dragon in the end islands. $(br2)Tip: Bring a pickaxe"
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:ender_eye",
-      "text": "an $(item)Eye of Ender$() is required to spawn this boss."
+      "text": "$(k)0000000000000000000$()$(br2)The information has been lost to time. Perhaps the $(thing)Lexica Botania$() has information regarding this ritual.$(br2)$(k)0000000000000000000$()"
     }
   ]
 }

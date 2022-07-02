@@ -2,19 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "bin/version.json"
-hash = "517d3dcd1f6c9c51268f208356c3443a4941cb03827b80db8754ee067484852a"
+hash = "b903c59747458b317c0ded99575d6db854d0ff09c8c680cb20f1328de9b47670"
 
 [[files]]
 file = "config/additional-additions-config.json"
-hash = "59f3c6facc622fa9acf6dc0675d4e2eb6d3ee84143c42e08da05e391712f381b"
-
-[[files]]
-file = "config/byg/biomepedia.json5"
-hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+hash = "1ca6aa5cc4e6f186046c627cd886ce05fab1d0bd3d1ade42de300629fd84138d"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "c5fc25ecbdd4262532a449163db31eddb5fc5aba5cbeea1ba49f31808fce5219"
+hash = "e51f487a355deb3a443d68e6cfa2de59ee401c15791351129940f7fff89a22d6"
 
 [[files]]
 file = "config/customsplashscreen/background.jpg"
@@ -30,7 +26,7 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/extraalchemy.json"
-hash = "a884b241b9d5a57727356980248f6caad4f54b9f4ab5a5a8f32ea0974b155e08"
+hash = "cacaa44c0431745d0af409b742d1caa4b26fd2e9e8b3956f157b72adc1a55dbd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -38,11 +34,11 @@ hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
-hash = "9703e82a8eed619d48bbe1f08da2548c22544f2f788d94d466b3dea48ad41b86"
+hash = "06aefca88debd562925219ef133ca15a831825c283198ab2e683f065ac05e7b2"
 
 [[files]]
 file = "config/things.json5"
-hash = "b99687914fe97072bb659312d10775958def9c5bee10eb0eb86d5e11c727baad"
+hash = "1038869327d77f107c527999c48acabf86cd2588b415e5e45bc30701f9f03d75"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -86,1573 +82,504 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8d5888ede9955f794de29f4456ec0b4d22ae9a20d4470b6913c3ae16ffcd0e56"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/LICENSE.txt"
-hash = "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/README.md"
-hash = "26a572dc02d50376680ec88fb6be3363de98ee0687d08554779c4552e1e89926"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/adorn/textures/gui/brewer.png"
-hash = "b568db5cf0e5e7ec9e0417944f501e70b1cec847c33a27feb5f190a8c008d3fa"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/alloy_forgery/textures/gui/forge_controller.png"
-hash = "8ca78c00eb42dac8a98a0bcd4293d2d608edb2a3beff6ef371c24b5de76c7281"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/blank.png"
-hash = "f70d5a7a5b41bdd07dbe5d6e8761b7327b09654b2ed82240f89eb832eb882b0f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/empty_back_slot.png"
-hash = "81aa2a76dd02e2343438e4078125514a50c37df177ec4228c890cf8e3e840111"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/backslot/textures/gui/empty_belt_slot.png"
-hash = "6482943166f0182743ebca93d43ff0372fe2417435f913ee320ba28941440ce6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_2.png"
-hash = "16110ef7283a6390aa4a0f6a93be6b44d764a826dae9986ecc35db6413f9f6e2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_3.png"
-hash = "bfdecf0c30baedd22f9151c512e08147b912a2f2319b1ae69c453052b6d17bb8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_4.png"
-hash = "5c66c93148fb1608cfa0a86fb42c458aeaa8909ad55fe69cf1339c7d7805f618"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_6.png"
-hash = "d44b95228d2c9473d72d54035633a342f6885b48b8362eb107e9ca91f57edef2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/camerautils/textures/gui/generic_7.png"
-hash = "8681915d2735fce9b93379838bc2da2a827dd349c3ea02cb514bf1af98969422"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/LICENSE.md"
-hash = "c084d3d0560c3731716fc2f2d7993647953810bba5d880e2aa2290d1c66d18d6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/README.md"
-hash = "c2fc9f5fd65cedf935a0cabbc985d6640dafe6bf0d1802728045bb2c1a2cc1c2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/cloth-config2/textures/gui/cloth_config.png"
-hash = "d6c92bcc8290f8b0d051432db5a96aa4c820bc8c490244e8c2a2095b58409804"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/advancements.png"
-hash = "d96ff7747f62a11df55c48cfbbfb4a80d233bbccfeab543d4bd4f66761baea0b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/curiosities.png"
-hash = "cef50a4d75aa5d4b4d178220a5369966646ba32ff5a96949dfd5aa45d4cbe656"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/curiosities_2.png"
-hash = "a5e23b70d3abda0d8e54671ea2717d761eb86d4d4880e0ae0856262df09dca78"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/filters.png"
-hash = "c5ddd516408d633c76289bbe15312f0380947b268a7ffbaa03ac066d574725e9"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/icons.png"
-hash = "98d65928fcc4e0a78a6b279e6a395480e2716976717f84a71755f4c0ed06911e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/jei/widgets.png"
-hash = "52d6d41cf83b77a8040b8eb5fcab1095116421114e7404146c6894b321b1a031"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logistics.png"
-hash = "6b54383224a1bf0f252ff78a4faed2fa8e470ef8bd53d6bdd6ebdfd08bc5de49"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logistics_2.png"
-hash = "93713a041a9a11e6fe92ac3f2b63af78b1f0ec4f94d894db53a2efaeae72e758"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/logo.png"
-hash = "81d13bee57d6a77451a0addf03ecd4a5efa150ec0c11255eb39da3b1cc8c4990"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/overlay.png"
-hash = "5a7f9f8974efbb42d3536ac23bc69bcfca8e831a9a75986299cdf873f7192f9a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/placement_indicator.png"
-hash = "3328e992077d323b4a153430fbc42d2124944e993efa3f07fd79e7fc70be59b9"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/platform_icon/curseforge.png"
-hash = "1c825aacbedabe4d1c3efb42462cc52b2e06254b07076e075d2412e5a985f99f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/platform_icon/modrinth.png"
-hash = "53df8d494ed2d136ae1a8f01169f2204c1c13140f0a859b18f3915ae12c95e5d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/player_inventory.png"
-hash = "db595d5f9ac5f462fd4fc57a2d395bb6694766223bdc5dc72f3d6ca7b73f6b97"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/projector.png"
-hash = "5b2a1bed0c596e12e041747dd6e87ce7cf81a65a6811d995f66d1eeb33c5f25b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/schematics.png"
-hash = "34d88a0d5bdee077623230112474d6aaea6dafdc43e61023526ffc4107ce0094"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/schematics_2.png"
-hash = "2ebc7880cba030412542db668b21d08a20bf45f23f6776cb55a6e6b05adc1288"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/sequencer.png"
-hash = "fc0e6f3caf4d2ad1c8718e51cb0c592153127b1fab00cd8ac4b46b16818e01cd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_0.png"
-hash = "8f7580abfed31404d7b7cb9b678151ae5913b3b5064ea0205eb6b0eb555ffb6e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_1.png"
-hash = "f8af678cc6259d625e653215d6f4689bcddb4b83c03e4eb040e2d4f4e9fc9be0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_2.png"
-hash = "7ac0a620d1c0a6600a61aff05ecd4af5b6cadcfbd37b274c271b67453f353390"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_3.png"
-hash = "f6678314b6371bf34299dafad112ac0518eba8397cfe4656ea4d5a9982e9bd78"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_4.png"
-hash = "6fcdb6a3f60f1b94f2afad0fac15bb3828a26af491a43589becc3914571a0cd3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/title/background/panorama_5.png"
-hash = "dd8ce4e18d4966ca11d04616b609fffa39e62de698f4aa894915dddb9a5517bf"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/toolbox.png"
-hash = "b20d1d8e00fe1983a1f654eda992ab68ddb7be87dafe61c2c3cbd50518b5c064"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/create/textures/gui/widgets.png"
-hash = "9c75bc67d5a552cc83f2da1fcc59a956e1f2b61cae94a8c544d6f3d92533e981"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/disenchanter/textures/gui/container/disenchanter.png"
-hash = "2bd9e9910b8552eda49286f1ee3d15468773b3020dc66d9edecf519530164088"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/LICENSE"
-hash = "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/README.md"
-hash = "4b8967b01fd360f674e1f919efcc5156e887f429cec215813f27a2f6959b1e8d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/fabric/textures/gui/creative_buttons.png"
-hash = "eeb94e35e6e2403b8477dc92ee9f3fef1c7728b8d477f166d1ac1442f968e568"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/kiln/textures/gui/container/kiln.png"
-hash = "4d33e4427c5d4eec618d75c8087aec9d317d4e936206585e5215e65384d260e5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/lovely_snails/textures/gui/container/snail.png"
-hash = "6ea5d5ad0dd53c58321e00acbb500b0b3a022c6895df5ce74548cdba785a6604"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/lovely_snails/textures/gui/snail_ender_chest_button.png"
-hash = "b575e7b5ac0600e5c822966b7912d93f7ad05dc0c1c553c540398cc58d0684e7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/af_za.json"
-hash = "3aa35a97d7ab0a93d291c862d8a6c3da83193f5714fd5eddb3240755be5cc33b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ar_sa.json"
-hash = "af532aed16a41079dbfab75b76860daea2541882fc16c3b239542aeb251d4050"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ast_es.json"
-hash = "8c928fb17aa9f7c08bf2f6700c38a2665196075aa52bcb08fcf76e8c7ecae2b4"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/az_az.json"
-hash = "ac27f0c76a4e82b441aa977f2c019ba53bf8455f3c3af9a8d01cd4dacc5e744e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ba_ru.json"
-hash = "27c15dff63c107c35b99e7a38e93f2c2894ebecf6a836dda0904da94d65ce8eb"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bar.json"
-hash = "ad83a079da7b045eadf0daeadaabc1d8506e299c86e9e6930f86afd8b30ee0a7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/be_by.json"
-hash = "aedd2ed7d0abb6c383ab819e9db8a7c867ea56072b0dca08cadf245718b1c135"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bg_bg.json"
-hash = "d5d157db3af11480fcb52d5315d23e440d6db9389d964b4b48438078ba2f1c84"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/br_fr.json"
-hash = "8f82d59a76898ed3e48531088cf4cf8c673439d7aaede917c0efa3c83dd0fde7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/brb.json"
-hash = "7e29eb5be64d19d3732260029d1eb99244bf627c7646f7e2de68bafd7aa71322"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/bs_ba.json"
-hash = "09b00f3ebbf67bdb62ce618aa42d5b214b64201ff84a1394fae88ae2c9f35ff6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ca_es.json"
-hash = "c3eb4cec5f2b8ddad6aa83f26c62d82ff87e649c1f88b20c9bfa7dd2adeaecc5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/cs_cz.json"
-hash = "da20209da8418ac8ddeb3498e6261342d3655923ffa823213a4417f08e977dad"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/cy_gb.json"
-hash = "a6f1c74d811e6ee23159b0a1ae7a45f8d99b8b9ea082af8a97896ac573a88e35"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/da_dk.json"
-hash = "c042e2e17e6b977744868340b8265828f5bb5891e8e661fff31e79641947ba0f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_at.json"
-hash = "5392b6997c83d8991c47b6dbafa9de46e60ea6dbfabb30740b6f35aec685a3c8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_ch.json"
-hash = "3f128ba790ae575fd42025d38da764e423cec6ef0d8b01ba8473bc18e04f6dfd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/de_de.json"
-hash = "201e7f13c1f5db1b5ceacd05b12c408a32c7224b5e7fff6d920ce1b01b15fa69"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/el_gr.json"
-hash = "089ae0833567a0911a9df9e5164441d52555cff544ea94e92246bd1fc8eb4dd8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_au.json"
-hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_ca.json"
-hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_gb.json"
-hash = "17ebca9fd4f392a7fc3d48e698d31dee2e074ea2f880caa18725de647c5f8958"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_nz.json"
-hash = "bf33ef398b26f6c4b97a65d2892ca25991dbad50f59036ec46638b85ed47e8b3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_pt.json"
-hash = "8ce1598a6aa2a6637b975d1850bdc9f5ba95818539cccd7005a42474bb29cacb"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_ud.json"
-hash = "11b44f7d972e02131fb2be05a04caeb9d2525e1c62993f0d1f178aecf4f18e63"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/en_us.json"
-hash = "0a9761010dcd8f29d7556e5f8f48fe9b3624c2544a7de00684d1bf5228124363"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/enp.json"
-hash = "533a5a43c40edd5cc7235dcf6a5c95fad4cc6f8ec4911378db420e12f51dd3c5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/enws.json"
-hash = "b855a45925156153957ce684522ba459e6747693b33c38599e0308aedc00ac2b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/eo_uy.json"
-hash = "5ea7d375160fdf8a41536c8ec200db7fbcef28e728d6cd1f9a9e6dcf7e6b75f5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ar.json"
-hash = "c088b8df2d065b8bbe93af1fbdb2538e9a3a040d1923648d8f9f254d29e63b7f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_cl.json"
-hash = "8e28706fc3c564dc92a9517b4c94a926993dca81c564bfb49153305b33b6bb84"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ec.json"
-hash = "d8313b0628219c8c84f9194949f26cafc47b8a4c3268d020570457269238fa34"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_es.json"
-hash = "c21b2fa1c3fd955f47f2ff6fa5b25dd59e086a95ccb5aacdb56dab67c57524d0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_mx.json"
-hash = "77e8532489a898993e63fec8c67c55c5ec9d1a6ad7e89b6544d9a6da7d7182e9"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_uy.json"
-hash = "b78d0028018480ba4518d5f8114da117470e92d67f3748c7d05b5f15b5b91590"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/es_ve.json"
-hash = "9009c405a4ec3f72c50070a3eca5d527775815e9083796a08cdd71d1bf4d0732"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/esan.json"
-hash = "b6b774cd2267d806c79472ee45b96b019f05a3c88f72d6d7380a838854528644"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/et_ee.json"
-hash = "908b702a8ca1b9fe7b6a529c32c9eeaebad03e6b06fe964a417c3a1bc89fac2c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/eu_es.json"
-hash = "938f686273035ba026514479f968d338aaaf749130c77946f2fa4f2b706474d0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fa_ir.json"
-hash = "0c96d531a3a795222227ec136385d257ab2c3c2c50d58e9f59148ef5284f0b46"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fi_fi.json"
-hash = "01fd1b820bdefc2e9d0868149350acb69b45893464ea1f5756c7464a3edbe3ed"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fil_ph.json"
-hash = "b8999965915fc8517ca64eb31c70639da4e62a5cf70b7f927d93b1f17ecaf249"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fo_fo.json"
-hash = "95a9d0c218ae1c922a9cf8b2c39fe8b1780e48ed10fddfd1e0f22d085e3605f1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fr_ca.json"
-hash = "f0ab58d7ac5dae6d0de79de8d75e3c52356ec6836eb3451a20f30424429c9f82"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fr_fr.json"
-hash = "343257d8bd3c49482cb3d6d4fc4e381d92082a3fc9b47fdff1f86467729cca91"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fra_de.json"
-hash = "d52884504c72b191eaf742508325a64a87002dce722fd27b84689b16e64488cd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fur_it.json"
-hash = "883292a85225b117dd51bf00a11fb59e36348d2facb5ec367f2296375d473b24"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/fy_nl.json"
-hash = "41bd0efb6ea94a7773c434106bb4359f5c206e596bfcb5a5b49d285da50ffc20"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ga_ie.json"
-hash = "f5f7da1859c6b93a92dd2b19bc23e5031b360822ee40da713975da2681882998"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/gd_gb.json"
-hash = "e276ee281c67991bdcfc2527c841613e015a4b500ef7161533a2a1ced6849337"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/gl_es.json"
-hash = "923681bfe28a92d9805a102ed7da773d661dd1024867c379971c1321d80cc5ca"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/haw_us.json"
-hash = "73614d9d029579f46d57933663fc352a9ebda448b7797314c1984d083cebc3ee"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/he_il.json"
-hash = "b52d7158f7d1895911fb4aa04c412d8cbb7de7c944028c819def5bfca84cc0fa"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hi_in.json"
-hash = "295c7ed362114706a9e043d2935731e11f9a866024380c55c3bfc478377e1f37"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hr_hr.json"
-hash = "fb3cd570bb4da9c9acf8889d00e05e29506bc4a753cdede2469a5eafd257e649"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hu_hu.json"
-hash = "bb898d127dc7d1b19b003e9b16d27da4a005230f78333bdb9c4a6b95cb621937"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/hy_am.json"
-hash = "b9e9464adb1af0eef7b0a52264e339563b39f6253a75b8ea7adba950be9cfa46"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/id_id.json"
-hash = "e28c70fa96f0022c029ee423e20f1f069436fcb05181b4d0d5db87d20275739d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ig_ng.json"
-hash = "f1a24fcd9ebc39fd6a6199e61e9d8de732a5951bc88f794aa0ce439ed27f5eb0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/io_en.json"
-hash = "4c5c74c36b0e859e3debdee1b19cb4611e2d922f26da1fb4d2c82f6bada30732"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/is_is.json"
-hash = "52235c5c8ec025f3120865494bdc27f409855559482a488bd760e2e48938ac15"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/isv.json"
-hash = "b25af32543f84eba81bdc61c477def547a3514bc20a4860fa267fa54a88cb720"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/it_it.json"
-hash = "5ca4c58cc772150b59529880b2e8683a4a4a252ca09b426fb6c552105348d974"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ja_jp.json"
-hash = "82d4ffacff25ebfc58b85eaa6378c357f18230ab1f25f2129e52ff5924f51b45"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/jbo_en.json"
-hash = "37dd1d09dcc1d0616c6bec1dfbb90cdfd2502c3bbf05e875fd20116759cd479d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ka_ge.json"
-hash = "cca71942634cbc41a3d414fa176fc86f2a87c71f77371d198b4884fe336c6c23"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kk_kz.json"
-hash = "307836b92839fe58a530f54843df3fe8bcb2b96ec9b5fb6e9cdd4695d6bf866f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kn_in.json"
-hash = "75e64a7f4d5df3c662870945b9f6a990e29253212bfbb04296c98fbebf0a889f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ko_kr.json"
-hash = "1b668a2ae883a0716f5d404f8d803e15237ed48e7de77d51d3ff70e4f5d5e30a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ksh.json"
-hash = "676564a017912a30cea13cbaacb2dda8e416e0b4c748d48ce15be9b9aa2f3826"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/kw_gb.json"
-hash = "1bbbaaca21965c0bda8ea2698f63f2963823013f5f29a994cda586f0744bdb5a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/la_la.json"
-hash = "70695fc4789abb47200dec485470db753ad125fbeb0d6461986e7b9c31517e30"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lb_lu.json"
-hash = "e9fd4d3305e3c8718eb0c71c8216949d2c4895c26720cd04ddde228f770376d6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/li_li.json"
-hash = "5292adec754609616a92ce2794ba714b0941c3915cadaeb57b691aab6b1b839f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lmo.json"
-hash = "2aaa72a2615896fd2ba76604cddb3a71c34b4f73f8a9ab5aa23723765770cce7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lol_us.json"
-hash = "2742ebb8c6a017853e57204b255882a98d14b9e7c943fde23ca533c049a5af57"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lt_lt.json"
-hash = "6dd862e6a55ad83d29413ca90c747357784d7fff5ba7fd6b47e4ba65dffd6196"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lv_lv.json"
-hash = "51b55d10de8e6d5fbfd003cac79de5d6b1769a029a0064c1a2dfdfcdb2dbd31b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/lzh.json"
-hash = "dbabaf26dfd6f20c0d722f8c8d35b9ddc5f22d81c7cfcb232485a79bbb9d6b6f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mk_mk.json"
-hash = "75d6f9b641ffb2cb57e1f87b5a9c56aecadbb29724fa37b46f04e0b23b2e720c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mn_mn.json"
-hash = "60ef3d0b90877f84ebf54f69f49266f27abbe4616ca1ef1bf1d2ae65eb1c108a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ms_my.json"
-hash = "1e14c844fa332fc263263672f535ea4fb86edc4929ff0606d9b4c821efdf5174"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/mt_mt.json"
-hash = "e691cc5dc1d87a6c29b09cd0b263c232fae6c3d5a614274f1f164034b14028e9"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nds_de.json"
-hash = "50c1939fe48501bbecfa8185254d7b61f56ff03866b7fb51c7b28e3d097a327e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nl_be.json"
-hash = "5c0c74db376325a0bdad8937324787e4416006aee862b218a65d3cb7dd48b8f0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nl_nl.json"
-hash = "b73f35af431b49820887cbeb17136a619df8c159cd76af3ab65eacf7b082462d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/nn_no.json"
-hash = "26dfc6c8c2af5cd0acf7eeb52243fae30fa78eb37cf1bac48e9a918a48ff9bdd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/no_no.json"
-hash = "bdcd8a4aaf7dbfc4e2852504fd77edce6d55cca4f507a2ea1d89233eed6e0ea9"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/oc_fr.json"
-hash = "6f6c9fd19787c07d8a829f074a2e293b04a874ee3a49389622bd9d364cec06e5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ovd.json"
-hash = "ac48c3eece47f017a0dc5826718f9e51bdc2ebbf255675ea8abd8915657dddc7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pl_pl.json"
-hash = "11afc7bbe25ac7dbf474d3f7fc5a865df08a5d52c936f4d416678aa30a5094d8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pt_br.json"
-hash = "0162f23f36a45e4b0c5f98639f96bed1611f410a01cfd8e53934ef4aa64e814a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/pt_pt.json"
-hash = "5218a173825508bfeeba5b6dc41a01444d06de457c72c3571977483b098b1775"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/qya_aa.json"
-hash = "9758aee49605b92804c72b74c9ad4f810544e170c7f3410c02c71098dff355f5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ro_ro.json"
-hash = "b704452166ec6b0557f80079a6981d2f540665ada250fdf72d3d919fc05818b6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/rpr.json"
-hash = "25ca5efa52289ffb2fb940d84f09472d4ba0b451363a23a598557756c00049bf"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ru_ru.json"
-hash = "b1aed23385b49e9a78514b2c031f0b707e8e20ebf19277d6e5f55288de5d8f73"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/se_no.json"
-hash = "f1c400a856bbf03ef70aa0fafa9955f9a19a0bb0a0de8f6a08855343524c5e08"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sk_sk.json"
-hash = "bd601bdbb2b53f1ba4d3860af88224f4b83f3f80d09593537c1f4d610514ac6a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sl_si.json"
-hash = "9a58c3e2ebafe906b897c31e3d4471412e330a79b155423e23e67e44997157d1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/so_so.json"
-hash = "89eb92a45d9e8b2dfefec414f3f9099cbfe726d10519ec81c135060581bc7b50"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sq_al.json"
-hash = "07a528082eb93f699fc356519850782ea9c64436ff00a8c02d5466d877e40478"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sr_sp.json"
-hash = "02898cecd176ed29b6b6bdfe13f827a9a3d0a0fdd034014be95794ac25410d84"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sv_se.json"
-hash = "c274e1618cf2b6e6fe78cd232ef1c300d37afa9398a8f6e936ffdeb29feaaeda"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/sxu.json"
-hash = "ad0d7d2f12c3d76bf89ae32b388bf07179d044d8957378ad086a25a6cf758eee"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/szl.json"
-hash = "37b17f52f914afbf8e407e7e62e1fa25e5488b75f71f373d266e98d999a07d56"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/ta_in.json"
-hash = "6657684a59173f7c123448d82d056bf6fc7d8322264cced9a177bdf434fcac80"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/th_th.json"
-hash = "4fcd6c7f44b6ffa51edd49e549d794955636991d33847ab7872cfe047509def1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tl_ph.json"
-hash = "ba79f8303d4d553bb0bb455b5ab7df791ba894d846c47ef9cf605c79368ec525"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tlh_aa.json"
-hash = "c89229fe7e12dfcb65117b24e6cea71606bec14f6c21f205f3e38be36cbd4f17"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tok.json"
-hash = "d3f1397e4c267445b4c0ea2af72093bedad680ea73b4e423d402ae66837c0616"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tr_tr.json"
-hash = "98896b1e5c19ea2f2bacc3162753e84b94b068fbd6ac76285b8312501c0cc091"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/tt_ru.json"
-hash = "7d1834d660da0ce0f75dc84a17064c09cf0ee68e87e807551285f645adf4aceb"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/uk_ua.json"
-hash = "e033d80fcddd77795f72c5db006b63bbb51b30f532d383df251ff4b2e4b0bec2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/val_es.json"
-hash = "57b8a8da5fa9d9f7d10028f07a79de58943ee92d312f86d5c603e91bb15aba68"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/vec_it.json"
-hash = "6c3925854b5a421052484732114eef07dc0023fecf012ee043d6f518b36beac4"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/vi_vn.json"
-hash = "02db9ce4c659f0f9c19001f684854d3e0e60eeb75d5f87258c7d1eea411b4a38"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/yi_de.json"
-hash = "bb5ce8928219dd776c00c8edbde083c861cd88d90fc25d8f1a1b9949048b3c64"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/yo_ng.json"
-hash = "19b30390545ce1051d581ce666e1cfe34f2dc4ce47643cd86ccad611a130c71a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_cn.json"
-hash = "cdb2aebe072028c71d0db8c9432ad62661a2a8a32e4b6544b75d5eb8ec74685b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_hk.json"
-hash = "aa4202dabdfa52e1e1438ba92bbd00b14e6e8b3ee84383abf83bdc25b6ef5f86"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zh_tw.json"
-hash = "887033e5abc754f73959ac9fe93934c077ba735b51c2063446a91c706294f7a8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/lang/zlm_arab.json"
-hash = "c58c2e142f5f0ed8294fa0408e9ef8238fbe4944a8e8824609fa031ecdc27221"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/optifine/color.properties"
-hash = "93bd0671bb267d1829a5df98eae2346fcff65a9fca2fb0030bcd4957fee3d2af"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/accessibility.png"
-hash = "8f10bd8d7a5e283ed0d94ff1af8c95696cf1f1cd4b5764e1aeac2d40cab7c1a1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/tabs.png"
-hash = "68c8bf1c38056bbb5768520a2d3e253eadf9d91c9312d42c25d9011302120197"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/widgets.png"
-hash = "41287fd5ff35c81f49efc2b455c7a3a19ffa98b13f4bb6f084bf0ee4e09e0bec"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/advancements/window.png"
-hash = "676c9cbd38058e4b8790f6aa8d1c66e3df6ec3f9b793f5821bca87a0ebed978b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/book.png"
-hash = "d3861c04a1fdd40c8de52b4ad8016b917723425b27030e6b4a2224428e7cac2a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/checkbox.png"
-hash = "155082ada62f4945f4fa9b4e6d1389bf9c1d4948462ce57b9439f0832dc14018"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/anvil.png"
-hash = "4a0b9a804c71fdf3692fe214a3f15b232825e872560be7f09926c2995c26dfbc"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/beacon.png"
-hash = "b100d8303a32b8220cfd34b7f9efbf9b1fa4261768bf06b1610101e803effa39"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/blast_furnace.png"
-hash = "e6c2062cf67eebf221b8c2471195ccbea0cac027c56a2e0c099672249e1cfa8d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/brewing_stand.png"
-hash = "ce3e92b4cfbdc6542e7323036686d5886e46f55fe892a0dda33caa2663902e84"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/bundle.png"
-hash = "835184b190021979c85ff854071cfb74fd17e27d5da0e9bbb0f2ee682605150a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/cartography_table.png"
-hash = "6bf5eb47b7c6ad0b4f5fe8d35170029ab2fe0d1510b8b9f26aa62ba6dbdd818b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/crafting_table.png"
-hash = "5115fb40d5835d6c6b4ab42fa05264f776f3cf5fc136e2908d06bec90b7ceebc"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-hash = "23277b8251f59d2de8e9309dc9f8aa0f6b12ebf286b55f28b997a2eed94839a2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-hash = "a45de69c153d09a16b33fc60935c8acd2f09e1ce343b14786ee6352b93751693"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-hash = "271b05f93573227643bb90449db45ebbdcf7ed6e589e3525500c5c7bc5aa373b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
-hash = "3e3cd04a17559861c1439b7999e154c31af7a1c68719425c37d02fc92e7291f7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/dispenser.png"
-hash = "c88650353d13ea59f9b7eb4ec72eaf502d282f4b32142b512529010e6ea38948"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/enchanting_table.png"
-hash = "cd55443f66d0d51b6df842d87d138aa78d3c36dab896af58d64beb41fb373d44"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/furnace.png"
-hash = "a5a8af88926c85cd6ea4ea05fa377f35160217f5cd612ed7d4da0252d1cfe03e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/gamemode_switcher.png"
-hash = "1225bbae05a30f31a4afad12632854cb72532c5b7d66eccbfb6d92fe7c08cc1f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/generic_54.png"
-hash = "a3102bea5e62939fe51b5d3b73d3b2a347a9d952acca68a9bb2adbbaa2787b07"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/grindstone.png"
-hash = "21934466ab922e7a933ed53fa191b1a135d71ab1b21184ab18fed90afd8a515b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/hopper.png"
-hash = "be036f9a85d12ce8d42f558af353cf9246d448e6107693d16c42e05bd9ff4e94"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/horse.png"
-hash = "c344c5e3815b557eccf524d094a2c09eec1f2abf7f0fd04bcbee22ad6e0f833f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/inventory.png"
-hash = "d651b6fda2087c79c903daf363a7fdc526566e4728b905128959eb00f79ab796"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/loom.png"
-hash = "29c50335af5fd711fd0624a15c4e07667428d55e9b2731bd2de32284dcbde686"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/shulker_box.png"
-hash = "831a36190c8398569e933ff15bad17a6278ee51fd0bf498bf81f23419f1e8c14"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/smithing.png"
-hash = "1dac3735dfd1f3a6a9ced945aba796b41d6393484107a5d8e9b3ca5caedd3a02"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/smoker.png"
-hash = "1cc80cdbf9f2f88e0d26c69f43631a4c51a04f61a53c3e95b3978b145eceddaa"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/stats_icons.png"
-hash = "cffd0e9107f1844b2c0ccb6a69c56b57d2f16c0c85496342bf8978b1b4c6d20e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/stonecutter.png"
-hash = "7beb4f3ad704f4bc6530f47234bc3a728c6163c86f8caf09868ce5e47492d96d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/container/villager2.png"
-hash = "80d2b36325a2d1003c11fa6c90c71622302b9cf4c466490b2dda4128430707bd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/demo_background.png"
-hash = "7d0b4e698d56ee389ac14e7422a307a173ffe94858958137e2a2091c5075ecdb"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/recipe_book.png"
-hash = "3eed0e10a07a662ca78475b1c99277e30d20b0792d8551a8df8afabca00d014a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/recipe_button.png"
-hash = "047b1ff15bb1e090e754633e3d1eaafb2d84f3db27be6d3f696a99be21482337"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/resource_packs.png"
-hash = "94bd26ba00cfacf37e5e2b3a6740cd5b78b07ddf059abba0dd984b60bf98ee88"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/server_selection.png"
-hash = "2add652d96861d76efcaa88df0625fe417ca136f0e4957b946077403320e142f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/social_interactions.png"
-hash = "21af36feca66ab0830ebc5011f9d85184995f967f4b2fa0bd89ecb271995e323"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/spectator_widgets.png"
-hash = "d8f9864a2dc2d01312d21b1ecfd68f268646dcc0856c00f52f0fe5cea56f64f0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/toasts.png"
-hash = "119738ae062ccfbfdfd664c6bbfbda39ece8202afc95e952aff310cc1669c9fa"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/widgets.png"
-hash = "573996042d00adb9fcb2f07824bdce1de4af66e95729db313b9eb7d011252f7a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/gui/world_selection.png"
-hash = "93f62f51842dd988551c041570e1679e5da4749c149e14e2a98ea917d36b4848"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_boots.png"
-hash = "ce9bb39ad1410aac94c68ea6ed21ddf80b9bf08e6ef92d12426d165aa6188bca"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
-hash = "70f5a467863e34f5313c7d7e2717e96a46d9196bfe4f64b21317e37e531c567e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
-hash = "8a18b49493dec8b283b15c95f090f86605a716ed64e95064cb13011b77dceef4"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
-hash = "c8c2c6f83a2ab10c853a1c34205673b631b12ae5130f5ed0de124707997893df"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/minecraft/textures/item/empty_armor_slot_shield.png"
-hash = "c3e66435214ff0b494bce4cdd3d45fbe8697fd8b2252f43e8aa06c337e25bf6e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/polymorph/textures/gui/widgets.png"
-hash = "29cc75b2f3ee3d45a1d33da32a04a4cbcac6345bdba3b76424d4601cb64c771c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/LICENSE.md"
-hash = "c84698448f131d708e0c5603564b28925446eecf21553c196bfe7240373621d0"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/README.md"
-hash = "8ab9214ff9e86868f68d47664cb53ec3c055fba706effa859992a9ead61e1dc2"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/blank_back.png"
-hash = "e6b8bd358a8914a1001611ee2de2c5623fd87d96213cc67fed80a631e26c0453"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/more_slots.png"
-hash = "4898746832d399770109772ca022ccf3f3ed6e1b7bd651b5d58e7741050c2d8a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/aglet.png"
-hash = "a196e9463fccf82e6656586430e7c6d48a5ad29c2b579a1a063394727b8221f8"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/back.png"
-hash = "9232f25319ad7896b999bf431b7795169bd8db4d1edf2dc2de89b9b18ba79089"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/belt.png"
-hash = "ea430c0acc7b51ee7322e8e4f1f341a3616c6e631fd6bc00818cbed00e65ba27"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/cape.png"
-hash = "7b94e1ebbed92d6a666fc5ec1cb155b09e90baa0f79785359089b38ee6d39c83"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/charm.png"
-hash = "916540f82b5dfab73f35174929e43e142e13b2cc389ddb293b9e5750ad7d7eb5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/empty.png"
-hash = "086e3b13641a660cc83ed28dd8dd2585f45f40c68dfbc77dacd76eb23b8698ce"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/face.png"
-hash = "5b63011caf4293bd16ce3f5e8ecb807ea37b534487d7adb87fd3fa57986cab13"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/glove.png"
-hash = "6c079b5cba7ee164931afedab25c2f8d2c577842d19de03e145b7ee3ea8bfa9b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/glove_mirrored.png"
-hash = "706b0706bd5947cc56cb64eda5b2d2d45365b12cdfdf8bc4b71193369dfc56ec"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/hat.png"
-hash = "03144c00711ceb448342ccbe7bfc8799f1731d7b22993d7ac3e43ea897d6502e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/necklace.png"
-hash = "cf989521823b2bfafcd1240362095320367e7d060a3acf52bb4d1f4387ec947a"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/ring.png"
-hash = "9adefa9c602e00d83875573bf87d396d79f31a54932fcd156a2d7355f0c3bc69"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/trinkets/textures/gui/slots/shoes.png"
-hash = "c800fd252d3dc8fb5fea26da8f70efcd7d141aa055d8bac0146c422ca0e0d600"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/abyss.png"
-hash = "8da3411921427cb794a20a7c04b15b0c40dc0fd9eff678a60929be5cda2fb329"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/pocket_wormhole.png"
-hash = "8da3411921427cb794a20a7c04b15b0c40dc0fd9eff678a60929be5cda2fb329"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/waystone.png"
-hash = "b70bfe58165ace18ec394ff014839b7955d4a24e631496d7196612be7d298dfa"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/waystones/textures/gui/waystone_config.png"
-hash = "2535a281834d73d498fae9323d3b560a11be0b9eda69615ee5e00ee824d7b05c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/grave_view.png"
-hash = "8fa765fb2ec45f645c0a0690629c9aa97d79265491ad22a83a7de3232791f3f5"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/select_elements.png"
-hash = "4598b1b96863c0b66b3169db513c7786eac83f0f4b44e07d82e30290f6a69fbd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/assets/yigd/textures/gui/select_menu.png"
-hash = "ea944b3e878459bb84bd1cb697424a40ea936ac7c1299a1d73085d3ee3f4a62c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/DarkMix/pack.mcmeta"
-hash = "595c3634b496248334429323e09a8d8c17f5ccd2deb615afc7f6354a8915e331"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
-hash = "5e9ec882be7fe56e8519d483a666fc78744c93a4fcd602115ed0edba640d6b6d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page2-settings.png"
-hash = "93a981d98db90aa4177ab89280c1d22497ffb684daeb886b674c83dc0483f1e1"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png"
-hash = "d554857bb23fe14da7c8d71fe61fde1dfe053e21f49038f7a8e4680f971f8384"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png~"
-hash = "633f04c4b8090285bf635f6e7f9657c5c58704454f405f62fec12128a29f25fd"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/waystones/waystone_menu.png"
-hash = "1a20b4fca6edbabecfaaf5a260f8adaf64a9573c7e1cfab74a58af70688a4f0e"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/hexmc/patchouli/waystones/waystone_settings.png"
-hash = "75df42b22bc99f8ae2e0be98b5c0d64e4fea3731cc1bf0d0a4c931c26e2c8b1d"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "6cb31032b62509fa9c50190c05b8d1ca9388dc11cf2861d1f961f537ba6624e6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "0e6364c2671982102c9ed250b98e5a1d7c1aed012a8986c73b6bcd2b3da6b851"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "1c470f1a933c69ce2f641458f10eebbaf639be1c9aeec8948966fa707798acda"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "729737e9daa7073645f034343f47ee71cb4967f3583b89e7d2871d44dc6042a3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "de473e5852adbfc85fb85126f76378648e47309ab3b67b3028714e532abad539"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "213521b653e87c9b6f795f85a0e7533b6f52adbf71a836244a2279fe4b5ec0e7"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
-hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
-hash = "3bcea5853f8ad3ebe84ef6c027fc6220e77667e5a4ebc257a30e8f8697070690"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png~"
-hash = "afb8266853c40b5f9201ff03e0698208eca3466924ebb4346a2b302f39f1f92f"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "e5491ed43fa0a2dc854496c6d9f9087aa7b7c8a351131738b224e4b7daf16e61"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png~"
-hash = "e2ca489a4442295887a84b3c7d07a5164cb21c7aae987d666aa130f4521cde50"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/mojangstudios.png"
-hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/pack.mcmeta"
-hash = "7f4163b34df7a121f650ec3d34e1738dc3bd7cdc5112fb26e7d170c48037cf7b"
-
-[[files]]
-file = "config/yosbr/resourcepacks/HexMC Resources/pack.png"
-hash = "6bbbf97665c9675edd2c8c156b779d08568b1ad09cff354c4bc3f70431ff8706"
+hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "4e09d9d556726ffaea7a2f845458b80f72c7948134fff323ae6b09b8df044c8a"
+hash = "aea5c99f54936a520587f3d481d947f10ed9f57624047e74c1deef94c45573bd"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "d3fae1407bc561e80a68a34d78d57f8c3054387a63081381e75063a344cd4d54"
+hash = "f3401fdccd83f14b8a921dab6ed75fc038f370c909e28843254741cf1280cfb2"
 
 [[files]]
 file = "mods/addadd.pw.toml"
-hash = "175093f4eeff366844fa0aaf4dcb96ddd02a4d332b2ae5c7b72ac5bfd8dafeeb"
+hash = "67e10b060ecab08813b9a760f8d78e5a5b44e6bff43d859be2d37ccf66d0327a"
 metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
+hash = "1ca12b742546092517994fb4089c15e57d68fe6b9f0f3cbe61daf347ad66f098"
 metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "9f22e2a556a371eb5acf2f7b1e63870f7008fa6c18ed1e4d5b3236ee66828317"
+hash = "799fb74a161affb990a77127eab92170c276be67b04f83483f77c589686d9897"
 metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
+hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "ba9209ea87234ccb97a5c6394dc3be44ce183b2b0e60cb8e0004c1abed665521"
+hash = "e7ba77de1faaedba9e07746a4cb366dc527d376c74de248457fc3cb346865f4b"
 metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "a695f252982b8543008f76543fcbd03fb32f741d5eab003ead7aba5c7834c2b0"
+hash = "4dcff88a019fcadc68fc822c33668eb56f21916cf2dc062c7d727eafa3ebc49c"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8095a17de2aef32a3047f4229a0360cba6cd1f8d4cfb40d66845e062e85ab662"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
 metafile = true
 
 [[files]]
 file = "mods/armorpoints.pw.toml"
-hash = "751d5326f66f94bfdb2384afe671a87c92b40abba1a3b58a698ee4a87d555a4d"
+hash = "e496a32b3362d8fd990d7ed3cb0cbc1d74d20da6009a527588a90f969592c5b4"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
+hash = "7fa71207025c9e2c4a619a0a3bfc18972df624d7c7554ed4e450f1d28cdf2b57"
 metafile = true
 
 [[files]]
 file = "mods/basic-shields-fabric.pw.toml"
-hash = "b720d35fee93ae1301d3e7b80feb3b48176dee8efbe57cb6de99070b6ef10ce1"
+hash = "48e8f1ccb6ee1dad15ef66e14eb7bfd7dec6782636d1986856817d1a6e5d4fa2"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "113e971e1a3d588d43beedef5702d8dd40abf150d99b6d0d82f39c2bc381335d"
+hash = "e7c3bdbefab6c08ad6b6592fc5bea5ec0ccd66f367adc6922820eaeda2bd24a8"
 metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "837d3939debd8ee786b3c62ac11b64504baad6f9fd424153a9c3953ed0e5e098"
+hash = "5b249ddd31223fa2abb61d187031d8a351c63dcf49078318d6e439c7dc1562cf"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "f0c17fb8a7cd21a1be3112ccc10f9dde232b6f09beba5534cf37a6472ad1b3df"
+hash = "d123f5087fffb81765fae130cdb14be9e9866612dc2ac13f11193d8fbf860fe3"
 metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "4bd4a944ed0eb37a16c3f2722d88c0e637e92df0f24ec1a342ab5f3c26b51275"
+hash = "eb65e1d2cbc12e600830572fa297f01a7d065484af541feb563da1756f32be46"
 metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "1459cbe95a7d6bfdf54ea359e1675cb6e1aaae94935f7f91f1a948bf380c29e7"
+hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "41bb864ca1d015214b29c6e445009f59fb170bed9293a7d219d92706e00d29d1"
+hash = "37b6858e41b6e73115bee791aa6a24a5bd952593e0e59a8bf4afd21ba9f5b35c"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
+hash = "7ba3fbc597f51dbb934005ec2e67e4fe70927427b04d42a3d0fb156e3bf3bf40"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components.pw.toml"
-hash = "24350b9f0bbe89fe2d89462bfd8504b08b484f515f543c69b790d91d0fe92fd7"
+hash = "67044b84c3a228808ea5cc9d9f0f92d38ed0cbe41a32f5606a1b37bdf680d8b1"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "9eb80af553c2764d97109cfd880258d055a6b23462405987a8f451724a7fd154"
+hash = "d92ea84c2324ba0cfc60eb9af42c9b112a5e65d19da48cd0c3163130c13c3992"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
+hash = "3167ad7d404890de59f5fb2cc89a3e4cc12980fcc09ea5055327c0a4d5215554"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
+hash = "afff24b4831786fa984eefdde0b7622b2663e7df10ba403a145e3ec3a34af41f"
 metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
-hash = "ef01aaae3db24c0449b141dbab5ec6006baa5b41a66aabac6793e75118c63429"
+hash = "94d1323f289eb0cfe35fd28f5ddbdd24db00a967769052f27cde2c4df20e7d03"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "2116855a040b8766c111784b48afb4f33c2a7ab2fc7b6dc911cedb02f07617f7"
+hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
 
 [[files]]
 file = "mods/createplus.pw.toml"
-hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
+hash = "474bcdc08d295459517dd739a03006dd1a9b212a304be22de4b6200fb0431931"
 metafile = true
 
 [[files]]
 file = "mods/creeper-spores.pw.toml"
-hash = "887fa2fc8b7df31b2cb297bcf653aad484c2feb8d26753f07f2199648d6c53f0"
+hash = "880e194dbbffa44b0568e2bcfa1630400cf676ecde7b38ad186892e97b30adc3"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
+hash = "241d75b86faea9b4218e5eb3b5aba6fb1018f175ff42fc77e10a149f50fafa15"
 metafile = true
 
 [[files]]
 file = "mods/custom-splash-screen.pw.toml"
-hash = "d95d2c03170638de595e2c70c06b3a41dd9e0cdf1d35c0ed4e00b7a934d8767d"
+hash = "b6c96e62a7695d24dff0290a7453a6af7526b3ca89607575caba02abf84b0046"
 metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "484f375d32bebd88cdefe79a7789fa3b24a87edd840eca49cb3e2669a8d727ce"
+hash = "76ef6e37f97d46f5ab443b9f482745383824a4f75384b6fbae75da9db14922ee"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
+hash = "7c6ed69d56430b7c87c238d188d1f719c766e7dda09e2dfb0ef400511b795421"
 metafile = true
 
 [[files]]
 file = "mods/disenchanter.pw.toml"
-hash = "7612c9680c67edc517334e1334b31121e2b16108d6baf4c2b2a814a561b4a794"
+hash = "d257279724d0762dc5990f84ebf1aad0d1baf2fe242428aef88fd1e4c348eb18"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "09a23d22d146a039769ed8d67f52de31f25648d952aca0ccab8775aa02a4b1f2"
+hash = "0c8d491a83ad47d014b007a99d379558286229c487c67d74f03ac9e10ea88f03"
 metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "499e04f46de698eae3bf79d52014099f7f5afb30dac7dea4631a9ca4e750c85d"
+hash = "9c0e489e61f992fbd8908a38060e231de63522aaf43efa9c2b3efb8469485312"
 metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "1f432d99bd9cdab8245bc26bf25e24cda14167cb8292cfd9cb1fd647c2cace1b"
+hash = "c2ca8ac6c0ecccdb3b03d9483350ae3eb5a07e3e4137323ecf1b0562425d43b8"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
-metafile = true
-
-[[files]]
-file = "mods/extraalchemy.pw.toml"
-hash = "43386a8d6cfde4e84ba1e1f01253b4f09e5da8ef7d4ce1020082134373b67449"
+hash = "98c444d52341742858e24e8fe535dce83efac0fcf3273752aa2de7a57a54dad2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e827579af29e5db22e80d7dfc61aee87e004c23880eff6a1391fa3e265dd3f56"
+hash = "3200ff29bb6bbf40094897959bf850a07852c8267fa67bbb80a6f0494012daf4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f247d76f0b745b541b5f355e57ecf9b1da73eb13910759d630380ed54e1eef34"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
 file = "mods/fabricshieldlib.pw.toml"
-hash = "99dcc128f9122d5db6293a8c44a511d35d4969e63a55dd8fb99142ebf8477a12"
+hash = "f38fef5d905cd15120c6f0e5a310d98eb5210a83ab99513641d254c2f553e70d"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "30a8da2902fbabd5898b849496d98d0df6898481635388293716805dc162f40e"
+hash = "0b2745db789cc4090bcd6674f8d8972a97db178e5355b663d5f46ec20f5ba02c"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
+hash = "a4290de69d82b65783d765d714f7fa9500f61e20523efab532a484cc008277bc"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "863e29f4a34a9f229bf36d43c1f10ecec9c06ba8763a9e28123961da893941dc"
+hash = "b534464d9af38d689ccd16c0eac392df0caed6cd3bfb9746ef00471089fe571a"
 metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "d09a72ffe74ebbe97640cd3c2007736f8a8778497d0a099d96dd5bee0c0f9b49"
+hash = "1b8159a2e07e83419c83ce1c0f14b5d55ca02c817a8db51ba38cd732d92344a8"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
+hash = "ebee68e2fd7d8b333c56b185ce3b55ebcd10f88277a5aca28f0a8f67b6c63e01"
 metafile = true
 
 [[files]]
 file = "mods/goml-reserved.pw.toml"
-hash = "bffb80ea8993a8a11259a6a9901147318574016f67a1ef3994dc84863bc01ea2"
+hash = "b74210be5512a1f0a3c5e28a17dab17019e0a767d8b7ca14bad817d5974f17af"
 metafile = true
 
 [[files]]
 file = "mods/guarding.pw.toml"
-hash = "d4b5e52049dc3ef42e8b8eafa0c4e4be0d693cc8346fb506e3fa772b429b70fc"
+hash = "6a61f934ae1a8e48c5cc32b3d61f9ced07667fdfc13742654ca978bc5d7b8f5c"
 metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
+hash = "4d13f8d9441ddc320ce60d2d5e793f8209fb9c1d74a224a687b6765d81418a0e"
 metafile = true
 
 [[files]]
 file = "mods/horseinboat.pw.toml"
-hash = "7969168fd1ac5792dcbfcc73ae7c3ef118fe2585586357d276ab5d172280ff62"
+hash = "2639d0134e2f38a08e48471631feda277dd8a8ca16dd2d52aeff495c2e66d4c0"
 metafile = true
 
 [[files]]
 file = "mods/icy-incitement.pw.toml"
-hash = "0d6a6de992c04ce8b3dee846612c04c102fe8c14f9eb8a177040f0b03ecc3f82"
+hash = "2a6d4fe8f0d7f70560c79a1257b4983419435234c2ce0c3b211f12c2decc7c05"
 metafile = true
 
 [[files]]
 file = "mods/illager-expansion-forked.pw.toml"
-hash = "0d375fd5db6f819b2203cf130e1c70f097e618e6f3abf9e9412acde281455357"
+hash = "ee8c55c315e2e58349c413baa4f58d8dc28441922245b2068075a0aaf10d863d"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "dd62536d072d1ba186f7b7df71b0903143433e3881a40e93f4852ecb5ea89294"
+hash = "b91b89bc41f50a63224cec855c2f7f2a059aaf58baf75a7bba7a01d75e97915a"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
+hash = "39a720702271b8a3ec5bb182e590feca0db441f9526b098598b0cd2790970948"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
 metafile = true
 
 [[files]]
 file = "mods/kiln.pw.toml"
-hash = "0350b695a10fede981d73790c7cfa36c7664de36ad8d6bfd6b70444e349861d1"
+hash = "d50bb77ef47a2291620a802092de63e14a1bb97ebb4fa1309aaf936f9b6a9371"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+hash = "0874da11116ad385ee260ce4215d2ae6b1bc3fca803e57a90e0d83000fb21635"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e4e6e5bce41d07ef99fc511b929460fb90fecb5749ef9339ebef1740126baafd"
+hash = "7fcb52a9f6d64a706558a00e68b7131821e3a0d17124cce7380b25e0e6128d4e"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "263845417c9210e72f32f3e146b95c87d54a013347964e6e075cdaace0d7cc2e"
+hash = "a9912dfc26fae970ce6967c8f67f648b2e73146d2111c0da71f6310593ad3fe1"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "77f83db2fae27b75a36910d16d01e4d483d2231de3fc68d2a634eb93ec2de7c5"
+hash = "ccc84a4677b80c41989ee5cd1ce25cf941b33991b2562d8cbd827a38b8690121"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "3002fe40ab14d059ec906a3571e511be9c8f054228533244c52d58d7fadf31ea"
+hash = "ca16949c43a900df4245b4af9bbddb5f45a6dd13e002d833af7b2291d8e827cb"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+hash = "726e4eb3df640b4ca141c71ea1de953cc618d1a602d88398d0db6d1810f13b3d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+hash = "1faa1d82d7e726cee6aed78fd9c0c9487e57db056f8fb6ebb7c42782dc639032"
 metafile = true
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
-hash = "270997abd62d8d209d00e8a12069a105b928bedf3e56d18f759ccf24cb0ffb40"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "7c5ddb1d34d6b46a821398895ef8650b58b70af35c41befac3109120fc275a32"
+hash = "7be2a1884f14511f9ff25666e486e2572693598a6ccdf4d6e9f5e13211fcee85"
 metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "7d059440095174c2a66f47b86edcb45f64378e5d57a66c4b8cb255ad27fcdf30"
+hash = "a849c615a9ae95009ce4ac7d386882d8bfc33c6836444332d6a749fb5eb9b7e7"
 metafile = true
 
 [[files]]
 file = "mods/mavm.pw.toml"
-hash = "1f71127c45043f096ceb6fb6946c3ebf2c4b8c28ee443d1118b316e7f4b1c363"
+hash = "b46e3207cb25abaa14ee99b1db70c9936891daa6153eb0a22cc7d5b8b8208d1a"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "b99ac27df2f720034b01acc2ea7637b5f020be861a5ac691135fdbd815eb3882"
+hash = "5cc7d9da8a48838fcf44a1c451489b4f3ccfb2947e911c4a9e1d3cfe1c9d6f84"
 metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "773f8e897a0a3b196383e5c4552643fa88708cd02dbd18be4396d4c63557781e"
+hash = "0f76eedad0d3268d9b43564b7c086804ba305ec33c2a32e25e81b8d14044a7eb"
 metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "468e0c4a59295cec423096466630d304f00115d5474bdb39f8d191f3597fedd6"
+hash = "e592c8f26289b67b0b8adad767719a6298fc70b9db43552c5a1b95df2dc4bcb7"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "5634b2cf0510a466bf206d771efcc5e1b9ba8f3c974265794cb9291a4be6840b"
+hash = "ead8bcf661baa8c6da28431e7061ee60915de30199317c206812d4556ecb1b45"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "f6e6aad2cf1b5ad38dc5f8e1b88bb7a49cd2cd76579dbf76c4812f9308757760"
+hash = "4efe643361af50a63c61c2905ff22e7ca2238b38409fa2bfc0f8ae63b951a300"
 metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "387cea628b7eaf4068866fe11d11138b5fa4bd6461769b9c326e7f40dcff27fe"
+hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
+hash = "521f169f4087bce113d97d0be8b32092fde34579db37d100b9407933cac28bd5"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "62906785f842dc0529de573ebcd614a2908c764995db37c70ad764c7366bcb08"
+hash = "844766a3af2c383991b255c60549cf2e373f9c9f493f2904293a0d73b5f7e029"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "427fda4ecbc844bf6640b34458fcf050e2f49644fc950eb1a34381afd8060d18"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
+file = "mods/pleasant-pigeons.pw.toml"
+hash = "f2b63713fa862d60012d62fe4a37e9098379ff55b78080e7709b2435963112e7"
 metafile = true
 
 [[files]]
 file = "mods/plushie.pw.toml"
-hash = "cfa142f679d5b49175a677885a0d0b3c2c0267a17fb973f80911edb63049046e"
+hash = "972f6548f025f63ce2a20ca4a2cdb8b6d411d55dc9ad12d35386367bf4c4d34c"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
 metafile = true
 
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
-hash = "f7449d1861f82b651036360ac235845bf549fc1d7be4fe215a951e3e909b3c6a"
+hash = "5d4c637be91920c02f80de52812df663b683c2a1242a4a69cc9f152025b66340"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "26d820b7672f522d387d401a6f04a5a2498270d45fc38ebba9a80cca044e1ad1"
+hash = "b97c83863b10b397152bd5f72cbde8e23ec28dab306aa1b7961be628cbb8b557"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
+hash = "0d43e5879dc5c8505d4fc1c307ffa6713a290ea24da79ad2e069aa89c4817f32"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "8798fd736d54650a4c8740d02d691ee064b259a18ff89f43c93b5503ac683ba7"
+hash = "9f199a027d2ffa12779175471ebb49acea4dc33a957f78cdf92dcebdb2c78231"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "30d9d862941ba9ab814539bbbd500f1654a4d8fd00ff70a3dfae2775f62af0f2"
+hash = "9e07fe34dd1986b1873d4e32a224307124f08c280d1db5d2e44320e98b17049d"
 metafile = true
 
 [[files]]
 file = "mods/scout.pw.toml"
-hash = "e0a0d217dcdcaa3880c152e564ff2e7834d0be93976b5a24fe70238a3cc8bee6"
+hash = "bf9defd4479f5420dd0d4de3f8274ce700f1931445e2b6d1e0159bdd0f1de169"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "da00e0495288f4c913e909cc9d76917fca8266a5f340b044c46c8e1160c5c69a"
+hash = "0df001a091cf35976e9c991ab1a018281e08263213838bace89de6790a44b853"
 metafile = true
 
 [[files]]
 file = "mods/snowpig-fabric.pw.toml"
-hash = "a648bed485e053137cc129fea4db18d6629fa3bd14b9c79891f809836d780135"
+hash = "7409f48afeeac5585a27d80da3a55d899b38945e920fc6797ed01729ed82066e"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
+hash = "2ab9c1c18049889484729efa30a3445cb325e5c52fd7ed98f31b827a668e66c9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+hash = "887c47918167fa72a4f90028a950df98a6312893630447b5f217568a0aeca129"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "248a870f42a898efe9c659735f555e803c9c8e1cebd00cb420ae51d9a07adeb3"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "eb45dfb9e6cbfa02639fc89237853d1b3c57a7ee8e4af22aac6fddb5f8560f3d"
+hash = "27b4ce5a9a49224119ff967e52bf49cfb007a25851414cc957769fc64fe68d0c"
 metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "d6f0667f2bbfb1036d3586ad2431c440b85bb267c4f7ad60985842b940e023a2"
+hash = "d4bd4ae4ac8e89bbab10b0adf2ebaf43e3989e63c967e8131dc83d26908a3fbf"
 metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+hash = "5d22ed63e37b0aed578e8abb8cf2c29070e3edfbf731bcab27beb26235a356cc"
 metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
-hash = "597236291e209f6b2c360f23ece484015ee1a2869aa99cb00130831ecc31524c"
+hash = "e4ee7855f9206e56a1b15b1f21ff49cf3a501d796dfa32b674da45c1d55543ad"
 metafile = true
 
 [[files]]
 file = "mods/things.pw.toml"
-hash = "2b30f1388f00f7639796be1fe81ea3ace431785d6f0247a88671bc7e4e4afee5"
+hash = "2f47d898215ab6d3f0c576569f52f90f71f73ae15ba1502a01404b95f8280cb0"
 metafile = true
 
 [[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "c72827b350f1c7835dedd1ba3a3d6e2fc0dc5652881a6b10b2e08ea25f419c81"
+hash = "ee3d0685164bc49dd4d6793d0645b9993c411f69022b72c8efd3148fcf2465ee"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "4e8c0ff9e26efaed02012b22b6c75768a0ff03cc969f7050e0eddf0548948f5f"
+hash = "25833e49fa26dfa7423647007e1387d6dbc755c3250beb72003de665977eaa3b"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "7a1300eb98aef97135125d2b608136f2f5b1f2c3cd33377417c069c95135e403"
-metafile = true
-
-[[files]]
-file = "mods/valleycraft.pw.toml"
-hash = "b3bdf602575e58c3f7c65b87209a33e0d583ffda31da9839bde9ca7f67106461"
+hash = "eaeb940cff3c1cbd18cf194da134fe8d5b93fd3f916c300b639870ebe36c6f56"
 metafile = true
 
 [[files]]
 file = "mods/villager-hats.pw.toml"
-hash = "b9ebe59cdc96255f3f914750f18064d6924e2a77507d2d0d62154c7c7fc04e2c"
+hash = "cb1de242481bee574310baadce7d450cbd607fc72ffe009adda00fac1d15c8bd"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "793b24bc4f64b2c7c9f6917ee3fcad7107da0be7d5a75977fab1d9d8fe374167"
+hash = "fc03b6ff81a406380be0c9b461e309b967dcad6373011c71e8cbe28c071a4b8a"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "dd799fa4aabe1286580f0a7ea137b40716ec47459a14fab532b75e1ab854582c"
+hash = "e07791d00bd23dd6dcd39b5dbf4a0468e22772012c62b4fe2e64074d50da2a68"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "f7b06cb8ec7928fff97239728f125646d9100499fc99281a1fd73486e5fa1841"
+hash = "91a8a69c13dafa10d8b161dd0eb33838b6dc97a7ef6744a2153f3dc4a4dcb9c2"
 metafile = true
 
 [[files]]
@@ -1661,323 +588,291 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/book.json"
-hash = "7f7227040cfb3541f7b2a6827348cd6a257307d2cd39789dfbac204f5eec8d6f"
+hash = "787355976205324f083a78ab956dbf223aefda0c7dd98f7dd76f77313d382860"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/alloy_forging.json"
-hash = "18fc781b107c8d5de0e9d380e114e73b2e72163fc65b05695d8821a2d79ced4e"
+hash = "bd571a070f28fe65de7d4933e5e930e761494a3ddc88e2da7f65d960c5a05923"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/boss_fights.json"
-hash = "c46582ad0e4f3b0c5722eb059eff9f7ec9326e1d055bc6ba419dd5d6c3f4fb18"
+hash = "9655333bcb3e5c48100b80eff712969d44bdef4bffca3077713ca1866a5de7bf"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/create.json"
-hash = "7a9117e47570f81f4858ae77f70b2508af12a3d2dba5064bb67f2c73a52d90db"
+hash = "fe3bac428a76bb598b45c9580cbf7d50dadfc39b0e184cad700090d98b9bedad"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/decorating.json"
-hash = "d64fc928064c77d9a41c4b67320054a492a799b0b208a154f511e8224b8667f0"
+hash = "0ba9e1d35e2ed29c3ef7c50a9179b6215d9948f625f95b15f97bfd870fe602a2"
 
 [[files]]
-file = "patchouli_books/hexmc_handbook/en_us/categories/lexicon_botania.json"
-hash = "5134ee8e73b5fa796d355edd77563d1a69ff73cc791e680a829ef3d2cca5edd1"
+file = "patchouli_books/hexmc_handbook/en_us/categories/lexica_botania.json"
+hash = "57272fa1f24367548265bff2b718194e89837558edb34082a45a0a6e0f1ad02e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things.json"
-hash = "647ff964bbf7ccfe6daad024051e1108161dce99b39a44ba809ad6f9f932633c"
+hash = "ae41280e132e3a34abfadd5dc511f0264b816e7b297ffc389fba0be5db366274"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things/blocks.json"
-hash = "2597dbaf2dbf73d9c599202be43c6f0e9054febba3cb0088cb40e9415763d3b1"
+hash = "d805066000454e48dbb3c320ae9156ec1f0e22169480dab724bbbfeb30dd6dd4"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things/items.json"
-hash = "39c024422734dc455ea4adf95b51fcc1902693ea20a07b800710a4a45d64eb06"
+hash = "352c1bc4fe68b1e8f53a5acf26a0c37075288fa74148c2cfd72d487992a67d87"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things/trinkets.json"
-hash = "fcd16009b4e9e8e07c088f5de713501c0f624dac0d1ae61afac695f489c56976"
+hash = "1f3b50ac0c2e846b6cea1090f68a1e2c4d7fa1826e631a61410ee4f3613cfa0e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/waystones.json"
-hash = "082c55988540533135e78b26363d20789b160320e88373c4260a70219e4f3737"
+hash = "9b3fe51db9516e30b9aa7cf31534f96dbf0099dcedcfee405d4916581777de92"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloy_forge.json"
-hash = "6557d724d3413e6f03df5f09bf4fbbc022867dd9f336583e9ad39d9c7dfbd345"
+hash = "3bd3ed8e2282d7da6a4c42c3d805a5b35375fee20de99816504f6d04bee2ce5e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloys.json"
-hash = "8123741d8f158b0eb93c9461923bc080d27c951617388eb51eaf8feb7b1fb573"
+hash = "0eb3e162afd67f2ca591f915e1292c311ff43d9d2c958325c0a617c4ffd9638e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/forge_controller.json"
-hash = "8c040c68019c9c26d09b1e2ca9ee2a3952bc8dc121288a839566775f326ca2dc"
+hash = "3f68577b7a62b467879c8104718cedd736b56730afad6f45328159be834d029e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
-hash = "a7f67f3e9bed2ae882c35b562cac334ee6c08ddaee671723598e4da4f3765047"
+hash = "589bbc091e2e8acaced8ee74ca254367d15a6dbd6b130fd49ecc76d3c326c4cb"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/ice.json"
-hash = "cba1994c2237a5748fcaf2371f143e3a037ca7191c76ddcf3a6b8eddfe86ae49"
+hash = "9283b4d9e6ca5c928540a2589e0fef237931f5ea31c89ad2ef583de8dbd155ab"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mansion.json"
-hash = "e9f1f5f7d361cab1573ed49f9ec3db6ae2fcb64b6c6e2f208a6e5920b4ed4ad0"
+hash = "3d32f3c7957837802b92c57c39642b52347fa6781ee86c3bd7a788d8f2944191"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mystery.json"
-hash = "b7bdd1c7636ab579821d6ecfdf33c56edada17cf083467a371eb69bd7349bb81"
+hash = "28193d58365cbe4537b20b89f33c65766cad0049210f39e3550ae045c90e3a72"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/nether.json"
-hash = "3f83725b679031bc0f341615e950bed42b8bf91214d5886e81b979a427a39fe9"
+hash = "55db53ccc6e92893c44a7bcec4bb2e33fcececa4dec5cd4be8655b939287c503"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/resummoning.json"
-hash = "5ed88a1ef7bb78db38607a607fca55418587c9eb1adb2ca3ca820c1bd3f6489a"
+hash = "27ce08babab5397be6bbac945f6d39c3604f5ee38c4839f9d6281f7a03d28753"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/underground.json"
-hash = "9c7c280d752af8fd1aa445b90e1f83c1518c41559f1ab0052434d9fd28adbf7e"
+hash = "400d8f8e2af36a3d0e298285db1f4a9ecfe8ba798a92f3126069f5ff5b0f0af7"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/create/introduction.json"
-hash = "2e98d49a0ad6a0bed412a503ea2f8b3f220e68a8142be3ad82aa56ca0f3b6a92"
+hash = "57b94ebddf669a264b3cb2f73730fa4174d009ddf95a310d892a086cd32d9acc"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/brewers.json"
-hash = "5a5384bfed208f841cbd4d32babc17a5b161215c6c6bfbb117522eed47302242"
+hash = "f6d513865033969607d065a455dac3e861e024cc4ed2f6d044186ee44f267b8e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chairs.json"
-hash = "9e53dc95e18c7e2a487dfc3a29c7246d6dbeeeb54ddbb18a249f8eaf60c4b2f2"
+hash = "d71a5e35b0aac2e2e73c84235dbf3dd6605aea1d07678bd8d8889b5ef29c93b0"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chimenys.json"
-hash = "568ec915fe10f42da568698e72a651092fc0f61c608b331de5d825f4dae2e510"
+hash = "cdd98549bfa3c21b32ee8d8d58315dd12cd75e6b1307cf74cf7f84f094eefe55"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/drawers.json"
-hash = "71ede0f2fac4783ae47ffd4b278b280acde1ef00a074795c998cf3935246ea52"
+hash = "42bcfe1a8d6c77b500e781dd74a26ed0e2120f29725563ef8843fbcd0ad626d7"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_blocks.json"
-hash = "e307c2e8aa3ff02cac16f0defaf0f4b348b385a6994f7dfea601cc41ac441175"
+hash = "14f0a55342f6c075dd22294eacf626243a91e6e581de5356cc26e093b3986410"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_sinks.json"
-hash = "0c1c41376b309425e75750b0bb23d238376b3dbe087e9503b9131c9dfb0b80e4"
+hash = "7af56dd20f471a4a5774c57cff37e127d3e2f8a1218a066b186d027fc83e3780"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/platforms.json"
-hash = "844cbc3a58bf7d25564545182f41e6f7ac3fcc4ba99d68b73cbf49dc9e36062f"
+hash = "f4f8af6e43325d1cee3db51ceb518200b0fcf55ba5a9917b71235e7a3dbf41c9"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/posts.json"
-hash = "5b728509806baa86ac7be660743c6d6f9b393a0c5891cbe751829699e005a6ee"
+hash = "7e5b9b0247b5d0de2381787f1b3778375e74336a445d2b85c5802c55e9f6510c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/prismarine_chimneys.json"
-hash = "5ce61b2dc455897b68623839c91d20bc204c9e4e3698300f3df66c17c88bfd5a"
+hash = "32d85fcd457c87b75269e18363ec8f8481234f09788c943539148cac59be7a29"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/shelves.json"
-hash = "78b861be87eaad7673fb24df53044b711cc74b74ebd7b695828d1307a5a41938"
+hash = "de1cca744a184db6dab016b122bf3526e1476520d2ee7bc25d10d6bd825a2889"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/sofas.json"
-hash = "3d125072ee9f8970d854ef4a845b527fa114bd3824bc39274fc6e4a2d44ed9cd"
+hash = "e0b5cbdefbf04803cee91090eca5fad6fbf3d9ecde79abccab4b60d14fb7df8c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/steps.json"
-hash = "f7f976d9be694e57e57541351f44d6c525a011364ce3a823546b56e64d14a47f"
+hash = "52bf0456e93e6999f305e292dc3784ca7a29b79c01113662c6c221ee6569f4aa"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/tables.json"
-hash = "54e45b148041f00047274d84f98989355d67c15dd4dfca8e5218e3f49ffcc5a4"
+hash = "125bb3fae5c35eaff9e85923e310263b47761221da3fb102db325290aa44db7d"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/crafting.json"
-hash = "f5caee5bb3de80d530419d7d8e5b1401a7c2d470ba6aa3908e1bcb6e9cdd6615"
+hash = "22b980263ff314cf70179aa8a498198f3974516f23e82c534c1b8e7f3a99fbac"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/upgrading.json"
-hash = "9fb278879b819bc69987b3f5c8a5ed1693cfd79b10f352a008d3dd87fdeeabd8"
+hash = "497e9cb24274a1c45602b2c16ea43aa79adf15fbb4799bef48d345146947a56a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/pouch.json"
+hash = "bdde041eadd122c094cc9638bc842b1d216c86b23a23d38f90618b4639e93408"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/satchel.json"
+hash = "e0437de774671c9c1995ce16be5a3c69477d39f824076aeab40119be4f882967"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/diamond_pressure_plate.json"
-hash = "49be3da9b972f79f1a94cf186ac63c213e9f9ead1c1b65676c8ffd6edb931cef"
+hash = "ff7dfd50e39dc78c33435222475d262de68d300f5404f7f786481ff4a9b5688a"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/gleaming_ore.json"
-hash = "005de36d91cb31545cc42d5f7f0fc6f0894c56f2ae7201c93d6fd7d50aefbd68"
+hash = "2bedb72a2cffe463ef24e947087159bfd4b1b2062230feb820be188778a68a3a"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/glowstone_fixtures.json"
-hash = "d7cca29e8faaafa423daa38d1a7004a72b4f19606b0679bdc63e256aea72e2e3"
+hash = "e5b446804aeb39b02ea01ed624e3fdf34ccdb1eb6d4d9b1150fced1a322de200"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/apples.json"
-hash = "ae9640ac997d6df762da33283507218c6f760bd06f1ae954a1840e88056f5268"
+hash = "dec491a1a70a2f63eb05d8f8890e15719ef59f96adc734037cd3bdc787a09dd2"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/bater_wucket.json"
-hash = "de9451661322a8e97bf01388d40e8909688aabaa8f9400721de432c91459f766"
+hash = "db13400a285af4a61eb1731db7930e661916e977c6d4a7034db937ef5b012f5e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/container_key.json"
-hash = "1f8f6ea186d7eea4f6f7b371fe6147be636b0e878112caaebc1b7b2780e62435"
+hash = "34b0ce42ef96f3d3f559314b954fa5a8d46cb3e29253e0c1e7b2db5dcba14212"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/displacement_tome.json"
-hash = "5b4da79df7edd0d4bb7efd79a0ec8e22360c5f01baa98e8ea500af51c9e52353"
+hash = "44242f0fc351eb7e559f98feb3525e2c1879a17217571621c6e32cbb378703a5"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/gleaming_materials.json"
-hash = "5e7a5dd51fed79d1b7955a5298bb914d9c1c8f2dc703a6ad680724c21e97c563"
+hash = "7366faefd268bb235d355a68d7cf05e232feb056fbbe98be70a93d8805f2a44f"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/hardening_catalyst.json"
-hash = "8c748ca4d5c7d0b5e80175c06794b7247efdbed4434435b31c520f467256cb0e"
+hash = "cad195099733b3c5012969395bb5d70c74923397955afcad6616f06e520443fb"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/infernal_scepter.json"
-hash = "5d28151fc3c3ca16427b3466252115832b49be61acf06ed6c14e402b281ec98a"
+hash = "90ddba4a9faf27efa8dd3747bc689d3278be1da0cb0cb8c7598d3612828abfb7"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/item_magnet.json"
-hash = "d7237b1ec88ee4f7199507722c406d7cd2142a064610e460b1dcfc6a35080125"
+hash = "f5d71f2abb44e247c15b383dd643118977fd62f238d9fff738840bc39bc2c3d3"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/recall_potion.json"
-hash = "f8518ff1f4990ddf82af5e0517120935537062f79b869aaed919ca845557b400"
+hash = "8249d8e78997a5dd50157d6d01ed7a03e5c697966c83142b5cdaec9086485d8b"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/retribution.json"
-hash = "d9d6417de7fc06b0e4bdc3d539d3f66c1b95e1b12537d8f99bbf7e4f84ae2b8a"
+hash = "26018c2632d47fa5274ec05eaa4a9fb8a17a11247e63369e1a57294fc8624842"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/arm_extender.json"
-hash = "5c2f15f41a765af0a51281048ac389c06eb6382626136c96e21af5f7117df52a"
+hash = "59ba0f35afa81b84dddad15eab06d9c9bcfa9abcb45ee4a160ac8ebf4103c166"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/broken_watch.json"
-hash = "86cb244d6272949bf10fb7b242bce8e5ffce5daaccf3103bf8f9f760b4fbb944"
+hash = "502d005507247591c362bb08c590da56387f47d664015e707a1204ff10f9ae96"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/ender_pouch.json"
-hash = "099b7110936442fd24c664ed8bc8fc1323f5b3621f7230edec6da1e4a94e62f7"
+hash = "87bb7d4edd5beae70ed2e6e800309390775cc0bb210a5c09d951e3aaae0fda9c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/hades_crystal.json"
-hash = "ecf96ceb3367a797dec01b0913d7068575021fc6100bd8d72594ece88fb01609"
+hash = "099e51eff723d524ed752f8fba764f9f965d839f9fd249bd4e26082534c49f0a"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/luck_of_the_irish.json"
-hash = "2582e83638a194f5b839f4267a020d87693e9097223a7f41ec9db2f2f23fd4c6"
+hash = "4bad9d559d2fae1e63ee548294552c69fa5e2bdcc0797c91818dc12acddba7b7"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mining_glove.json"
-hash = "455f9f7cfa984b2c278718392f66fc343bba02a0ca57de13498338696d67e71f"
+hash = "85846ac467d42aa33f47a95b4a728846f42fec10f6f8930f252975d3d036e37a"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/monocle.json"
-hash = "2ff50214535f7a54c385a0fb9bed325076695ca7e48b4b41e6d23451f71b810e"
+hash = "3292ea6abbe98fe9500887751ff056d472d8df6b6741fc41aad895278080827b"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mossy_necklace.json"
-hash = "d5dd4a7079bd7137554f844dde5529c5d04a96ee19e3c61d5b92ec6f364e00b2"
+hash = "a466aae6d3d2c16b92f2baa2aef946281a4b9120392271254dfe2bfc91b6d8e3"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/placebo.json"
-hash = "320a7033299ac248f0b81456ec71ee0696bfbdcd1fbfb28aa150d9df70476cb4"
+hash = "82b598137ec3a94f457cfde04d8d7555fae631334e356dc05bdf5341d29a7756"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/rabbit_foot_charm.json"
-hash = "b195abbae53f24ba149fcf4704b4c278db3961dee5659cb17c4b77d017923d57"
+hash = "290e6c280caf687b2c39adc39cd9b384aba45fb9d62b90c97d822ae9d207785f"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/riot_gauntlet.json"
-hash = "d34cd4185f454867e6751954e69a05e518f977112af232719727207be2cdb436"
+hash = "462558f95d962b8cca5af5a4bd0e57f435cb56a05e233a3c8d01469891bc0d8c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/shock_absorber.json"
-hash = "52243d356a296a6a7621fb9190abf3d38ba3737113c000bb921237b471876446"
+hash = "e7946d81fcaec662582a3c06e5ef2df6c8a0faac98b42f35d0e78b096a532df8"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/socks.json"
-hash = "fc22cecf15ba7158a34141760d38a7674a45861b2dc3a20e88f31b03c1d52c37"
+hash = "c4b2c1ff1a38bb61572b90866c0fef25ec4e65af6fa52ea24256d911e1a7c32d"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/wax_gland.json"
-hash = "49cb8d7bd50e12bfa412f8db2e4178be55d7f0ef695c825e5e1b59f28b74423c"
+hash = "6e4a7ba495b82b15e4b6817629c2be7db0a83814c97bf93cb33f930688b6f096"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/abyss_watcher.json"
-hash = "d819ebedd09373ad8f9cf268105d97eeb6a5edd7fb2dd0832c2e71e1d4015725"
+hash = "4f6346e9c401aa9e3135a8f626e4f9663d0bf07b4713dc88d74bb66a73932984"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/empty_waystone_scroll.json"
-hash = "64191ce26d3042d08bb15ab0aac542c758a05f4a8d421d9debab45adf43a5304"
+hash = "b77b440eedcd7e12bc1aa082df630f14399a6c2549391c874ea3c3e1d3c0e986"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/local_void.json"
-hash = "b6e7a33cee538674556212d3d7c27990a986346d473d5b121743b00b03793f27"
+hash = "a2580a5c422886caae9275887bfeb17e34bb1fd48c2679c2a99461e5dce11a16"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/pocket_wormhole.json"
-hash = "3d366a121c5e8df6b0648db439564fad2fd8830f8989ac0f669eef33b94537a1"
+hash = "01f0bb56fc5b5e31d502b26dcc98d677efbc8bb4856cda29e203b54f8a4cb26a"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/void_totem.json"
-hash = "ce68783c3c2b64325c1f46acc4f3fca5bdeeef7e6f668f594276dde0e184116d"
+hash = "517a1e05d6f31ee85a3aa3bcb68006fb4b8a8118bb3737fee8364f7b853fe72d"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
-hash = "29b9403dcb37aa490bc5ff282230c38c2b6ff6f41b81fa17ff2653a3aa637164"
-
-[[files]]
-file = "patchouli_books/hexmc_server/book.json"
-hash = "f04734b4247f04d5503c657f5dd9cc336b3131bf77cf548123951fe9272de745"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/categories/server.json"
-hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/approved_modifications.json"
-hash = "d6bb5e16a65aa3b08c35bd9dfd79d849c9afa5b5b4204ba31c8dc47c5b52b4d1"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
-hash = "f71a124394da0b7824170a4672e3d72cff801a56045a044376fe0645f286315d"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
-hash = "8155e3358cd5da831751ac63bc21422020e8937071291984b8eef732f1f88354"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
-hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
-hash = "2107490183bcecc8d24dc836c05918f5daad744e520eb71aebe4038c67d1764b"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/support.json"
-hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
-hash = "643350785cb958d19054c56a2f5b9f800f0755596191b08d47e23fe698f284c7"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/waystones.json"
-hash = "120ac765587004bf0af4d42140e105c97a480af18309ab96a98db871b51d8871"
+hash = "33260f15a07d61f652dc1f8d4f28544e000543c42e7b9b34e1f0aaedfbd64761"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
@@ -1997,7 +892,7 @@ hash = "633f04c4b8090285bf635f6e7f9657c5c58704454f405f62fec12128a29f25fd"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
-hash = "7f4163b34df7a121f650ec3d34e1738dc3bd7cdc5112fb26e7d170c48037cf7b"
+hash = "0785ca184c0fe4a0030afb0ec106747e058d82673b83f3d65d33da8f87e881ed"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.png"

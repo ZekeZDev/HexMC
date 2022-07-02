@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.13+1.18/wraith-alloy-forgery-2.0.13%2B1.18.jar"
 hash-format = "sha1"
 hash = "1ced07990224e175037ce081f8b8e12b00793f66"
-mode = ""
 
 [update]
 [update.modrinth]

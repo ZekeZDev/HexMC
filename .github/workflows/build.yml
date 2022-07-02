@@ -36,6 +36,11 @@ jobs:
           make polymc
           7z x ./build/modpack-polymc.zip -o./build/.polymc
 
+      - name: Make Server (Auto Update)
+        run: |
+          make server
+          7z x ./build/modpack-server.zip -o./build/.server
+
       - name: Upload Modrinth
         uses: actions/upload-artifact@v3
         with:
@@ -47,3 +52,9 @@ jobs:
         with:
           name: HexMC MultiMC-PolyMC Auto Update
           path: build/.polymc
+
+      - name: Upload Server (Auto Update)
+        uses: actions/upload-artifact@v3
+        with:
+          name: Auto Update Server
+          path: build/.server

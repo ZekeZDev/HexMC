@@ -1,13 +1,13 @@
 {
   "version": 7,
   "FoodItems": {
-    "FriedEgg": true,
-    "BerryPie": true,
-    "HoneyedApple": true
+    "FriedEgg": false,
+    "BerryPie": false,
+    "HoneyedApple": false
   },
   "WateringCan": true,
   "RoseGold": true,
-  "Ropes": false,
+  "Ropes": true,
   "EnchantmentPrecision": true,
   "EnchantmentSpeed": true,
   "Wrench": true,
