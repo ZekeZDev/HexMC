@@ -1,6 +1,6 @@
 name = "Armor Points ++ / Health Stacking"
 filename = "armorpointspp-fabric-1.18.2-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xvAim1vw/versions/3.0.1/armorpointspp-fabric-1.18.2-3.0.1.jar"

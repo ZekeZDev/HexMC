@@ -3,12 +3,11 @@ filename = "owo-lib-0.7.2-no-cme+1.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2-no-cme+1.18/owo-lib-0.7.2-no-cme%2B1.18.jar"
 hash-format = "sha1"
 hash = "592c404a4a01608990abab9841279276267ae1fc"
+mode = "metadata:curseforge"
 
-# Disable updating due to versioning issue
-# [update]
-# [update.modrinth]
-# mod-id = "ccKDOlHs"
-# version = "uAXx21D1"
+[update]
+[update.curseforge]
+file-id = 3824297
+project-id = 532610
