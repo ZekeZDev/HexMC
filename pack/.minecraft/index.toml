@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
+hash = "a980fe97f7f32c70ae8020bb9b9d9d48f3c5fc7fc78fdb883e2f36224906099d"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
+hash = "abcaf2e795362b1fb45aa62a93982bcfc0cf8c479db296c9476c208d9b6ee666"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
+hash = "58b2a2c36d160643af4d3217324f063447929bcc06ca974b0bc3c524bc04e9b7"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+hash = "e67be7cc53b0f9856d33217c7c010986a7170351363f0fc01b303dafdf679c4e"
 metafile = true
 
 [[files]]
@@ -264,12 +264,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3200ff29bb6bbf40094897959bf850a07852c8267fa67bbb80a6f0494012daf4"
+hash = "54e7f0e7e85ef194305ee3c201eb7b1c486dffdf8937371caf462973ca805507"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "070ca52bd3946fc2474163eb2f6efd282d5f2d93f9351da3a4593add1deafc46"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.pw.toml"
-hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
+hash = "4766bfaf73deffa01a5dd2391766a9b19be64cc99c972caed64a2589f4c8ac5a"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "7fcb52a9f6d64a706558a00e68b7131821e3a0d17124cce7380b25e0e6128d4e"
+hash = "2f981205f8e7bd36dd3610ba6e78fab945a4622d0358f1876b016b0f871a0791"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+hash = "787673fa16e88c32e4b9ada118b7d01ee67f9ea4b8bd2c582cd55d9919b601a4"
 metafile = true
 
 [[files]]
@@ -434,12 +434,12 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
+hash = "53abe5a6352f5a90362965ee11f834ea4df59aaa2ca3ad6be54bfb023693c4a9"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "521f169f4087bce113d97d0be8b32092fde34579db37d100b9407933cac28bd5"
+hash = "1734980bfe322d420a7732460df98fcf6a19add8c2b73d535cddefd5a31bc894"
 metafile = true
 
 [[files]]
@@ -449,12 +449,12 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+hash = "42d2dcfe1c926dd0c757d9b34b12d385a94aae4bdf9e7d192af2544ac72c4412"
 metafile = true
 
 [[files]]
 file = "mods/pleasant-pigeons.pw.toml"
-hash = "f2b63713fa862d60012d62fe4a37e9098379ff55b78080e7709b2435963112e7"
+hash = "1ba5ca625ea29b528607d44a6374fe198fffcec4c87b5416d9b1fbc0954c3759"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
+hash = "03fe45c61ff4174cd9fe08e30b98a826aed667db0d98ddbb09618e1c7664bec8"
 metafile = true
 
 [[files]]
@@ -489,12 +489,12 @@ metafile = true
 
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
-hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
+hash = "ac40807815067e822aed363a76704930f7cc02f940868b27089d8068c89c238c"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "9e07fe34dd1986b1873d4e32a224307124f08c280d1db5d2e44320e98b17049d"
+hash = "32843a95621f47fee39d2122d5c377296685682a846c67b264221ad135f5c614"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0df001a091cf35976e9c991ab1a018281e08263213838bace89de6790a44b853"
+hash = "8bd81c8ac460d6a649d999b87eb44a757a195729ca634c4466788ce7156d274d"
 metafile = true
 
 [[files]]
@@ -889,6 +889,14 @@ hash = "d554857bb23fe14da7c8d71fe61fde1dfe053e21f49038f7a8e4680f971f8384"
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png~"
 hash = "633f04c4b8090285bf635f6e7f9657c5c58704454f405f62fec12128a29f25fd"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "3bcea5853f8ad3ebe84ef6c027fc6220e77667e5a4ebc257a30e8f8697070690"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "e5491ed43fa0a2dc854496c6d9f9087aa7b7c8a351131738b224e4b7daf16e61"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
