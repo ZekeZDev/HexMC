@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "4feaa4ce2ae7f59767eff008af133360b29a7ff154207703a88b674d8160291f"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
 
 [[files]]
