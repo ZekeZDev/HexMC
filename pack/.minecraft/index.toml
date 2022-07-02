@@ -25,10 +25,6 @@ file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
-file = "config/extraalchemy.json"
-hash = "cacaa44c0431745d0af409b742d1caa4b26fd2e9e8b3956f157b72adc1a55dbd"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
