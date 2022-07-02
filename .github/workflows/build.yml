@@ -38,7 +38,7 @@ jobs:
 
       - name: Make Server (Auto Update)
         run: |
-          make server
+          make hexserver
           7z x ./build/modpack-server.zip -o./build/.server
 
       - name: Upload Modrinth

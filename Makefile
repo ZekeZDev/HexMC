@@ -48,7 +48,7 @@ technic:
 	7z d ./build/modpack-technic.zip ./build/* -r
 	7z a ./build/modpack-technic.zip ./build/.technic/* -r
 
-server:
+hexserver:
 	@echo "Making Server pack"
 	7z d ./build/modpack-server.zip ./server/* -r
 	7z d ./build/modpack-server.zip ./server/.minecraft -r
