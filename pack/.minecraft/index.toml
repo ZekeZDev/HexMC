@@ -6,11 +6,11 @@ hash = "b903c59747458b317c0ded99575d6db854d0ff09c8c680cb20f1328de9b47670"
 
 [[files]]
 file = "config/additional-additions-config.json"
-hash = "ce2f07fc4ca09aa6a4b7bd17077782af1ab87a1b6d8352bc007ff6e98d121c1b"
+hash = "1ca6aa5cc4e6f186046c627cd886ce05fab1d0bd3d1ade42de300629fd84138d"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "c5fc25ecbdd4262532a449163db31eddb5fc5aba5cbeea1ba49f31808fce5219"
+hash = "e51f487a355deb3a443d68e6cfa2de59ee401c15791351129940f7fff89a22d6"
 
 [[files]]
 file = "config/customsplashscreen/background.jpg"
@@ -30,11 +30,11 @@ hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
-hash = "9703e82a8eed619d48bbe1f08da2548c22544f2f788d94d466b3dea48ad41b86"
+hash = "06aefca88debd562925219ef133ca15a831825c283198ab2e683f065ac05e7b2"
 
 [[files]]
 file = "config/things.json5"
-hash = "b99687914fe97072bb659312d10775958def9c5bee10eb0eb86d5e11c727baad"
+hash = "1038869327d77f107c527999c48acabf86cd2588b415e5e45bc30701f9f03d75"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
