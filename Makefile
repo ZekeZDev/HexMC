@@ -51,10 +51,7 @@ technic:
 hexserver:
 	@echo "Making Server pack"
 	7z d ./build/modpack-server.zip ./server/* -r
-	7z d ./build/modpack-server.zip ./server/.minecraft -r
 	7z a ./build/modpack-server.zip ./server/* -r
-	7z a ./build/modpack-server.zip ./server/.minecraft -r
-	7z d ./build/modpack-server.zip ./server/.minecraft/mods ./server/.minecraft/pack.toml ./server/.minecraft/index.toml -r
 
 clean:
 	-rm -rf ./build/.technic
