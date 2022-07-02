@@ -1,12 +1,12 @@
-name = "HexMC"
+name = "HexMC Server Config"
 author = "Tabzlock"
-version = "2.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8e873af0c2a3e90ad0872d56cd846da4cddce3fcd6f055ae575deeb3f3087c6b"
+hash = "d2b124d4e5f1575e8fc82aa280afdb090f7224ab770d5133396e9805167a11cb"
 
 [versions]
 fabric = "0.14.8"

@@ -1,0 +1,64 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a0c058aeb2c887ec4df4f9d82e605e5d7e6c779ae1f76ca9b7afd856d1d316ae"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "a834db103228401ab8b06ebbeab38f51df16a0d81c99d529749b29489682c31b"
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "34abb727ea4585f4a32de708f378fc4dd3e1a5d48fb9c2d1cb3dcdb2863465c5"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b9d671f1c86d9eabaef8197e3ac96d683a92e5f4aeafc8bf8abe12a8602fa212"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "84558c024a575a8f96ebb33f1a13b207510b29b2daf23abea66cc86fec803873"
+metafile = true
+
+[[files]]
+file = "patchouli_books/hexmc_server/book.json"
+hash = "ce70bdd49a03111e11630f47b28046f9d036b210b9ee5709251a9fbb2c4a2fa0"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/categories/server.json"
+hash = "2b5802972f8b40c1cc4e7f22c1b2e50ef0c2a9381ed178cbcd4d8eb7c6cab55d"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/approved_modifications.json"
+hash = "47bc38a2f80f13da5fbd6ffc3cd1f532531da4b667187b2aecd881b5b3931ee6"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
+hash = "6aaa8a859ea32232d01455d6d4ed681ba6b03ba18d466492036b151c89ff0727"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
+hash = "de8b2954d1914b513437dcc70e3a7a19e4fc513be30002e672753e9d92132cf9"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
+hash = "8e82af133a2f819202e129fcd6df1e2e6bea8a6652d15132b03fa04f78765ba4"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
+hash = "92e5bc7300f06e6a739a1b4ad246c2578b9622d907223818cf3d87f2a528bc97"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/support.json"
+hash = "498ffa4b4bd8f304ca367ca1c2386d6d485a0a11175fdaf99aee33f21b8d4648"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
+hash = "b24ad15eaf25f904e19280b4d08cefce79c45e1b74d2ffde009d40ecbed5e8e0"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/waystones.json"
+hash = "1f7094b1b75224334f4216578210b5d4526dd6eac5a7ec29948c00c4c8afd88b"

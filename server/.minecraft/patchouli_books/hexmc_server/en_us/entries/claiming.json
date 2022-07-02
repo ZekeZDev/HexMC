@@ -1,0 +1,43 @@
+{
+    "name": "Claiming",
+    "icon": "goml:withered_claim_anchor",
+    "category": "patchouli:server",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Before starting please $(l:rules)check the rules$() $(br2)Voice chat is a core part of the HexMC experience, heres a quick tutorial to get you chatting away! $(br2)Voice chat is completely optional and we disucss how to disable it $(l:)here"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Prerequisites",
+            "text": "$(li)A working microphone"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Getting started",
+            "text": "$(li)Press $(l)V$() to open the Voice chat settings $(li)Press settings $(li)Press Enable Microphone testing $(br2)if you cant hear your mic go to the troubleshooting page. $(br2)If you can hear your mic your now ready to speak to everyone! Press the $(l)Caps Lock$()(default) key to talk."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["hexmc:patchouli/hexmc_server/voice_chat/page2-settings.png"],
+            "border": true,
+            "text": "Screenshot: microphone testing"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Disabling Voice chat",
+            "text": "$(li)Press $(l)V$() to open the Voice chat settings $(li)Press the small speaker icon $(li)Done you will no longer hear voice chat! $(br2)Alternatively you can also press the $(l)N$() Key to toggle voice chat on or off"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["hexmc:patchouli/hexmc_server/voice_chat/page3-settings.png"],
+            "border": true,
+            "text": "Screenshot: Disabling voice chat"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Troubleshooting",
+            "text": "To troubleshoot we reccomend using the official $(l:https://modrepo.de/minecraft/voicechat/wiki?t=troubleshooting)Simple Voice Chat wiki."
+        }
+    ]
+}
