@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.11.0/wthit-fabric-4.11.0.jar"
 hash-format = "sha1"
 hash = "c26ef360f6246d0d13d7c19b7537548df2fa2212"
-mode = ""
 
 [update]
 [update.modrinth]

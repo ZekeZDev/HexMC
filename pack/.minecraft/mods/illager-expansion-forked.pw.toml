@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/ADOk8Swk/versions/0.1.5/illager_expansion-0.1.5.jar"
 hash-format = "sha1"
 hash = "3c2bcfe351153ef3c728530291f5e20978c221d6"
-mode = ""
 
 [update]
 [update.modrinth]

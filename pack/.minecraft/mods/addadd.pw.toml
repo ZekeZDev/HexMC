@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.5/AdditionalAdditions-4.0.5.jar"
 hash-format = "sha1"
 hash = "051373a5fb084396f71017de5dddaba06b533fec"
-mode = ""
 
 [update]
 [update.modrinth]

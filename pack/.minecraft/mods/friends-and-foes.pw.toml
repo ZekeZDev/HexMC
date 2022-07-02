@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/fabric-mc1.18.2-1.4.5/friendsandfoes-fabric-mc1.18.2-1.4.5.jar"
 hash-format = "sha1"
 hash = "5af98de4907c84a052fecd9b740b3c41097a48b5"
-mode = ""
 
 [update]
 [update.modrinth]

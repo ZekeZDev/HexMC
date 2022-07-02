@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/7SDalH12/versions/1.5.3-1.18.2/FabricShieldLib-1.5.3-1.18.jar"
 hash-format = "sha1"
 hash = "c22c399da855d37eb0020ba585bf47e019cf3e5a"
-mode = ""
 
 [update]
 [update.modrinth]

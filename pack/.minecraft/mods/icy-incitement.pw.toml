@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/Zj1ND0rS/versions/1.1.3/icy-incitement-1.18.2-fabric-1.1.3.jar"
 hash-format = "sha1"
 hash = "c3ab7482dc51c61e1da153c13454bea3e68c058f"
-mode = ""
 
 [update]
 [update.modrinth]

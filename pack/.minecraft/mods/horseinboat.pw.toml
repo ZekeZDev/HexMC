@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/jZ1T46Hr/versions/1.1.2-fabric/horseinboat-fabric-1.1.2.jar"
 hash-format = "sha1"
 hash = "f775a77ab5c17c456f793cdce8cb1515bc63fa2c"
-mode = ""
 
 [update]
 [update.modrinth]

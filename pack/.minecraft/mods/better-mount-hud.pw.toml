@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/1.1.4/bettermounthud-1.1.4.jar"
 hash-format = "sha1"
 hash = "60035cc1e9cf8bf880c42f57427719d773df5cd5"
-mode = ""
 
 [update]
 [update.modrinth]

@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/1.18.2-434-fabric/Botania-1.18.2-434-FABRIC.jar"
 hash-format = "sha1"
 hash = "3284942d3cdd43b3cd2ae5522577500ca9aecc2d"
-mode = ""
 
 [update]
 [update.modrinth]

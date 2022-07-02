@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/bXX9h73M/versions/1.0.0/midnightcontrols-1.0.0%2B1.18.jar"
 hash-format = "sha1"
 hash = "7cfd29a28566491be35857761aeaccb1d5caaf23"
-mode = ""
 
 [update]
 [update.modrinth]

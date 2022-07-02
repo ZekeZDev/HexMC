@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.4/wraith-waystones-2.5.4.jar"
 hash-format = "sha1"
 hash = "66dfb3c444db9d59317a1670859937e04c584f69"
-mode = ""
 
 [update]
 [update.modrinth]

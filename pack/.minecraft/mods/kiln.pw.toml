@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/EanpIMHb/versions/1.2.0+1.18/kiln-1.2.0%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "2074607761d9ec6197767a8cbd4775523f056f2f"
-mode = ""
 
 [update]
 [update.modrinth]

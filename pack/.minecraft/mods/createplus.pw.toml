@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/svgZx0UN/versions/1.0-beta4/createplus-1.0.0-beta4.jar"
 hash-format = "sha1"
 hash = "199a839806d471ff5b44e65b084998e10ec176ef"
-mode = ""
 
 [update]
 [update.modrinth]
