@@ -1,0 +1,13 @@
+name = "WatchDog Anti Cheat"
+filename = "WatchDog-AntiCheat-1.18.2-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "756f76b6750aa6d5e9ecfb8bf5eff4ef9272bc9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3805259
+project-id = 310343
