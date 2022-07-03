@@ -77,12 +77,16 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
+file = "config/yosbr/kubejs/server_scripts/starting_items.js"
+hash = "19dbabc9ded7963f14d45f112f19d24fc5314513f6a4754203850e0e2de8117c"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "aea5c99f54936a520587f3d481d947f10ed9f57624047e74c1deef94c45573bd"
+hash = "1623355afb58d1965da9865f14742c3c8ba23a743c1f99b7e891fb306d16b95a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -389,6 +393,11 @@ hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "5631427ed0e9792e60562d47f8b9ca574c3f7b6787c7e888f6bf203583a73936"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
@@ -521,6 +530,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "8464443ae7468ca1116996954a9132330f8984e1da7089190d6d9cbbddfd836b"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
 metafile = true
 
 [[files]]
@@ -871,6 +890,46 @@ file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
 hash = "33260f15a07d61f652dc1f8d4f28544e000543c42e7b9b34e1f0aaedfbd64761"
 
 [[files]]
+file = "patchouli_books/hexmc_server/book.json"
+hash = "f04734b4247f04d5503c657f5dd9cc336b3131bf77cf548123951fe9272de745"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/categories/server.json"
+hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/approved_modifications.json"
+hash = "d6bb5e16a65aa3b08c35bd9dfd79d849c9afa5b5b4204ba31c8dc47c5b52b4d1"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
+hash = "f71a124394da0b7824170a4672e3d72cff801a56045a044376fe0645f286315d"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
+hash = "8155e3358cd5da831751ac63bc21422020e8937071291984b8eef732f1f88354"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
+hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
+hash = "2107490183bcecc8d24dc836c05918f5daad744e520eb71aebe4038c67d1764b"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/support.json"
+hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
+hash = "643350785cb958d19054c56a2f5b9f800f0755596191b08d47e23fe698f284c7"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/waystones.json"
+hash = "120ac765587004bf0af4d42140e105c97a480af18309ab96a98db871b51d8871"
+
+[[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
 hash = "5e9ec882be7fe56e8519d483a666fc78744c93a4fcd602115ed0edba640d6b6d"
 
@@ -896,7 +955,7 @@ hash = "e5491ed43fa0a2dc854496c6d9f9087aa7b7c8a351131738b224e4b7daf16e61"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
-hash = "0785ca184c0fe4a0030afb0ec106747e058d82673b83f3d65d33da8f87e881ed"
+hash = "eedf6e36acb9beafe084ade09cbb6b24488f6f5da60d05deaf01d00a44ddda68"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.png"
