@@ -118,6 +118,11 @@ hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "09bbf0d8be8c1d9073081ce4e2659589fb37475bb71af07cf3e3d4f578adebe0"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
@@ -585,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "8c86d2e1c74be20993cdb4d82a46a16442231e30f0d9fb6a9b1e92f94628aeec"
-metafile = true
-
-[[files]]
-file = "mods/watchdog-anti-cheat.pw.toml"
-hash = "67b966c870ef7aff34127892a48ed79477c3d4760ea9e2ba2cf8a07439f26b54"
 metafile = true
 
 [[files]]
