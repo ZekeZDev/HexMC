@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components.pw.toml"
-hash = "24350b9f0bbe89fe2d89462bfd8504b08b484f515f543c69b790d91d0fe92fd7"
+hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "7fcb52a9f6d64a706558a00e68b7131821e3a0d17124cce7380b25e0e6128d4e"
+hash = "d3643e50bfaff75f0c2904a5d21e40c463cde8f4d0d6e0e6b4023084c577f40a"
 metafile = true
 
 [[files]]
@@ -585,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/villager-hats.pw.toml"
 hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "8c86d2e1c74be20993cdb4d82a46a16442231e30f0d9fb6a9b1e92f94628aeec"
 metafile = true
 
 [[files]]
