@@ -377,6 +377,11 @@ hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
 
 [[files]]
+file = "mods/inv-view.pw.toml"
+hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
 metafile = true
@@ -424,11 +429,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "91342d8e4a1663a20ca7f15a6dba12432feda250961579a4a963cdde5e1232ad"
 metafile = true
 
 [[files]]
