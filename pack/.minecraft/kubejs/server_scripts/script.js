@@ -19,9 +19,3 @@ onEvent('recipes', event => {
 	// remove recipes
 	event.remove({output: global["REMOVED"]})
 })
-
-onEvent("lootjs", (event) => {
-    event
-        .addEntityLootModifier("minecraft:sheep")
-        .removeLoot("adorn:guide_book");
-});
