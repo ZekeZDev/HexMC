@@ -4,12 +4,14 @@
   "category": "patchouli:satchels",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "Rather simple but lacks the knowledge of a more advanced book."
+      "type": "patchouli:crafting",
+      "recipe": "scout:satchel",
+      "text": "A simple Satchel that extends your inventory by 9 slots. only 1 can be equiped"
     },
     {
-      "type": "patchouli:crafting",
-      "recipe": "scout:satchel"
+      "type": "patchouli:spotlight",
+      "item": "scout:upgraded_satchel",
+      "text": "An upgraded satchel that extends your inventory by 18 slots. only 1 can be equiped and replaces standard satchel. $(br2)Crafted by using a $(item)Satchel$() with a diamond in a $(thing)smithing table"
     }
   ]
 }

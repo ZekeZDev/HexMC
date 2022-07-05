@@ -1,0 +1,15 @@
+{
+    "name": "Book Recipes",
+    "icon": "patchouli:textures/items/book_blue.png",
+    "category": "patchouli:server",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If your reading this I assume you havent lost this book. However if you have a really smart friend or someone who has lost it. $(br2)Type $(thing)/books$() or use the recipes depicted on the other page."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_ddr49hr25s94zfrzf9je1dhk8"
+        }
+    ]
+}

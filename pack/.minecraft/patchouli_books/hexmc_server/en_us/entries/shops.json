@@ -4,13 +4,19 @@
     "category": "patchouli:server",
     "pages": [
         {
-            "type": "patchouli:text",
-            "text": "Before starting please $(l:rules)check the rules$() $(br2)Voice chat is a core part of the HexMC experience, heres a quick tutorial to get you chatting away! $(br2)Voice chat is completely optional and we disucss how to disable it $(l:)here"
+            "type": "patchouli:crafting",
+            "recipe": "adorn:trading_station",
+            "text": "$(item)Trading stations$() are an item that can be placed to trade with other players."
         },
         {
             "type": "patchouli:text",
-            "title": "Prerequisites",
-            "text": "$(li)A working microphone"
+            "title": "Buying",
+            "text": "You can buy items from the trading stations by using the station with payment item."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Selling",
+            "text": "Setting up your own trading stations is very simple! Just place down a trading station and open it. On the left side you can set the product and the payment. The inventory on the right side will have the products and the payments."
         }
     ]
 }

@@ -1,0 +1,50 @@
+{
+  "makeshiftRadius": 10,
+  "reinforcedRadius": 20,
+  "glisteningRadius": 30,
+  "crystalRadius": 40,
+  "emeradicRadius": 50,
+  "witheredRadius": 100,
+  "maxClaimsPerPlayer": -1,
+  "enablePvPinClaims": false,
+  "claimProtectsFullWorldHeight": false,
+  "dimensionBlacklist": [],
+  "regionBlacklist": {},
+  "enabledAugments": {
+    "goml:lake_spirit_grace": true,
+    "goml:explosion_controller": true,
+    "goml:angelic_aura": true,
+    "goml:pvp_arena": true,
+    "goml:greeter": true,
+    "goml:force_field": true,
+    "goml:village_core": true,
+    "goml:withering_seal": true,
+    "goml:ender_binding": true,
+    "goml:heaven_wings": false,
+    "goml:chaos_zone": true
+  },
+  "allowedBlockInteraction": [
+    "waystones:waystone",
+    "waystones:desert_waystone",
+    "waystones:red_desert_waystone",
+    "waystones:stone_brick_waystone",
+    "waystones:nether_brick_waystone",
+    "waystones:red_nether_brick_waystone",
+    "waystones:end_stone_brick_waystone",
+    "waystones:deepslate_brick_waystone",
+    "waystones:blackstone_brick_waystone",
+    "commuchest:community_chest",
+    "#minecraft:wooden_buttons",
+    "#minecraft:wooden_doors",
+    "adorn:trading_station"
+  ],
+  "allowedEntityInteraction": [
+    "minecraft:villager"
+  ],
+  "messagePrefix": "<dark_gray>[<#ff0000>Claim</color>]",
+  "placeholderNoClaimInfo": "<gray><italic>Wilderness",
+  "placeholderNoClaimOwners": "<gray><italic>Nobody",
+  "placeholderNoClaimTrusted": "<gray><italic>Nobody",
+  "placeholderClaimCanBuildInfo": "${owners} <gray>(<green>${anchor}</green>)",
+  "placeholderClaimCantBuildInfo": "${owners} <gray>(<red>${anchor}</red>)"
+}

@@ -1,7 +1,7 @@
 {
   "name": "Upgrading",
   "icon": "botania:textures/item/lexicon_elven.png",
-  "category": "patchouli:lexicon_botania",
+  "category": "patchouli:lexica_botania",
   "pages": [
     {
       "type": "patchouli:text",

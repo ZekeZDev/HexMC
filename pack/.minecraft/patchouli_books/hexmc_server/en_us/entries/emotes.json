@@ -9,7 +9,20 @@
         },
         {
             "type": "patchouli:image",
-            "images": ["hexmc:patchouli/hexmc_server/emotes/dancing.png"]
+            "images": ["hexmc:patchouli/hexmc_server/emotes/wheel-settings.png"],
+            "border": true
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["hexmc:patchouli/hexmc_server/emotes/wheel-emotes.png"],
+            "border": true,
+            "text": "Wheel filled with favorited emotes"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["hexmc:patchouli/hexmc_server/emotes/dancing.png"],
+            "border": true,
+            "text": "Dancing"
         }
     ]
 }

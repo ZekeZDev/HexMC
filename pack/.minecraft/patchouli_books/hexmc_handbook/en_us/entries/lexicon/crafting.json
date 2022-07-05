@@ -1,7 +1,7 @@
 {
   "name": "Crafting",
   "icon": "botania:lexicon",
-  "category": "patchouli:lexicon_botania",
+  "category": "patchouli:lexica_botania",
   "pages": [
     {
       "type": "patchouli:text",

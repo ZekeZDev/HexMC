@@ -1,15 +1,15 @@
 {
-    "name": "Pocket Wormhole",
-    "icon": "waystones:pocket_wormhole",
-    "category": "patchouli:waystones",
-    "pages": [
-      {
-        "type": "patchouli:text",
-        "text": "Similarly to the Abyss Watcher, it allows the players to open the teleportation interface from anywhere, except the item doesn't get destroyed on teleportation."
-      },
-      {
-        "type": "patchouli:crafting",
-        "recipe": "waystones:pocket_wormhole"
-      }
-    ]
-  }
+  "name": "Pocket Wormhole",
+  "icon": "waystones:pocket_wormhole",
+  "category": "patchouli:waystones",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Similarly to the Abyss Watcher, it allows the players to open the teleportation interface from anywhere, except the item doesn't get destroyed on teleportation."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "waystones:pocket_wormhole"
+    }
+  ]
+}

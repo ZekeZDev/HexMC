@@ -5,12 +5,12 @@ file = "bin/version.json"
 hash = "b903c59747458b317c0ded99575d6db854d0ff09c8c680cb20f1328de9b47670"
 
 [[files]]
-file = "config/additional-additions-config.json"
-hash = "1ca6aa5cc4e6f186046c627cd886ce05fab1d0bd3d1ade42de300629fd84138d"
+file = "config/Adorn.json5"
+hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "e51f487a355deb3a443d68e6cfa2de59ee401c15791351129940f7fff89a22d6"
+hash = "e3cf453f02f84fe451e4d79684d20e5f3e8d9944593fbc7ebb62e9c40a70d805"
 
 [[files]]
 file = "config/customsplashscreen/background.jpg"
@@ -23,6 +23,10 @@ hash = "1067701209c439e82ddf4e2bd413f7198aacb3cb3016e924ada41550914a5745"
 [[files]]
 file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+
+[[files]]
+file = "config/getoffmylawn.json"
+hash = "1536537c2c7cd2887cce4f5d418c072ff9257d0699a0d73d6719b1de73b0063d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -77,20 +81,40 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
-file = "config/yosbr/kubejs/server_scripts/starting_items.js"
-hash = "19dbabc9ded7963f14d45f112f19d24fc5314513f6a4754203850e0e2de8117c"
+file = "config/yosbr/kubejs/server_scripts/custom.js"
+hash = "1c707d2edf2d355175b0d83ae6cc17b75bb194b939b3932b2cebe7ef250e9427"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
+hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png.mcmeta"
+hash = "d947e6371a5bb46ab733722fac72f7aae2832fc94ecc8a1ab55c3e1471cbf4f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/roly_poly.png"
+hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/roly_poly.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "b7c2b11a018ed4c5b6e45a0942663748628028ec7ddd3dcf7e3c65d861c73ef0"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "1623355afb58d1965da9865f14742c3c8ba23a743c1f99b7e891fb306d16b95a"
+hash = "f435fa5523eecd2e4fd538ca812b5814cd8148a551bc6974674cd31da5d25c25"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "f3401fdccd83f14b8a921dab6ed75fc038f370c909e28843254741cf1280cfb2"
+hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -393,6 +417,11 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "91342d8e4a1663a20ca7f15a6dba12432feda250961579a4a963cdde5e1232ad"
+metafile = true
+
+[[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
 metafile = true
@@ -480,11 +509,6 @@ metafile = true
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
 hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
 metafile = true
 
 [[files]]
@@ -626,6 +650,10 @@ file = "patchouli_books/hexmc_handbook/en_us/categories/lexica_botania.json"
 hash = "57272fa1f24367548265bff2b718194e89837558edb34082a45a0a6e0f1ad02e"
 
 [[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/satchels.json"
+hash = "897f02bfb540ae2de830b034960d4b4c5a19206d8e960d49858904f37cdc1b5c"
+
+[[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things.json"
 hash = "ae41280e132e3a34abfadd5dc511f0264b816e7b297ffc389fba0be5db366274"
 
@@ -655,7 +683,7 @@ hash = "0eb3e162afd67f2ca591f915e1292c311ff43d9d2c958325c0a617c4ffd9638e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/forge_controller.json"
-hash = "3f68577b7a62b467879c8104718cedd736b56730afad6f45328159be834d029e"
+hash = "64ab26640a7fd90d420990d825ffeb74abd076dd0151d6a4346a578f3fde3bb1"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
@@ -743,19 +771,19 @@ hash = "125bb3fae5c35eaff9e85923e310263b47761221da3fb102db325290aa44db7d"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/crafting.json"
-hash = "22b980263ff314cf70179aa8a498198f3974516f23e82c534c1b8e7f3a99fbac"
+hash = "d6f00cf5665d0973c7260b60ea6b5546f661a6483d7c07134bb87cae0a8dc2b0"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/upgrading.json"
-hash = "497e9cb24274a1c45602b2c16ea43aa79adf15fbb4799bef48d345146947a56a"
+hash = "cb889e4b44548b13f61e6e445ce03bd51b654429a35a9c6e6818847b13555ba1"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/pouch.json"
-hash = "bdde041eadd122c094cc9638bc842b1d216c86b23a23d38f90618b4639e93408"
+hash = "e7eb35c2a3872560348423cc1df1b2cd7316847bbb2f7ffcf9ae6e999d2a66b6"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/satchel.json"
-hash = "e0437de774671c9c1995ce16be5a3c69477d39f824076aeab40119be4f882967"
+hash = "700615a181fc10b8271544da2dc8f842748f517b0e50c370a5bf625c3c6d4361"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/diamond_pressure_plate.json"
@@ -867,55 +895,63 @@ hash = "6e4a7ba495b82b15e4b6817629c2be7db0a83814c97bf93cb33f930688b6f096"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/abyss_watcher.json"
-hash = "4f6346e9c401aa9e3135a8f626e4f9663d0bf07b4713dc88d74bb66a73932984"
+hash = "092b7d887e2fee8280cc3aa5ab55a513c4361ea94fd50fe105c87dbf4b888756"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/empty_waystone_scroll.json"
-hash = "b77b440eedcd7e12bc1aa082df630f14399a6c2549391c874ea3c3e1d3c0e986"
+hash = "3081224c2e60c2bfd44cd9f548ed5da0a0e4d02b0042083982f88ef1575911d5"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/local_void.json"
-hash = "a2580a5c422886caae9275887bfeb17e34bb1fd48c2679c2a99461e5dce11a16"
+hash = "7680a479ab23d6abdb5679f78aeef87999b6cd5fb16c84f477763791cb434704"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/pocket_wormhole.json"
-hash = "01f0bb56fc5b5e31d502b26dcc98d677efbc8bb4856cda29e203b54f8a4cb26a"
+hash = "abd547017b92d00a6e04e999ad30bb012d2a1703b2b40d8b5add08186ac64542"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/void_totem.json"
-hash = "517a1e05d6f31ee85a3aa3bcb68006fb4b8a8118bb3737fee8364f7b853fe72d"
+hash = "a3b04f797824f8692ce22e6f1c4d4a9779f9d5c4eb82d429e7965f8e78961906"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
-hash = "33260f15a07d61f652dc1f8d4f28544e000543c42e7b9b34e1f0aaedfbd64761"
+hash = "24627b044b7a3d69edf965f82cdcbbdec7316a2de08bda0d1cfa893c2f5c79bb"
 
 [[files]]
 file = "patchouli_books/hexmc_server/book.json"
-hash = "f04734b4247f04d5503c657f5dd9cc336b3131bf77cf548123951fe9272de745"
+hash = "96f57d26efca4e4c61ee71be40504d5040f0857b26570d8d2636a9845a591dcd"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/categories/server.json"
 hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
 
 [[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/approved_modifications.json"
-hash = "d6bb5e16a65aa3b08c35bd9dfd79d849c9afa5b5b4204ba31c8dc47c5b52b4d1"
+file = "patchouli_books/hexmc_server/en_us/entries/approved_mods.json"
+hash = "bab3e1dff70125ad9baf97083fd1ae7de4131b12ece99eca3dd5f78939faf33f"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
-hash = "f71a124394da0b7824170a4672e3d72cff801a56045a044376fe0645f286315d"
+hash = "43241e263374bad429573c16f2bbd88fe8ecdc4f1064341da166130fce468c44"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
-hash = "8155e3358cd5da831751ac63bc21422020e8937071291984b8eef732f1f88354"
+hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/global_waystones.json"
+hash = "81f5715958baae3a571203b8031e37968e6fd8409998ca27523c6175db48fb2e"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
 hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
 
 [[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/server_book.json"
+hash = "79d0294f2a012de60468e4bee1887c00abb4e804e47be1429630f0095d7c69ce"
+
+[[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
-hash = "2107490183bcecc8d24dc836c05918f5daad744e520eb71aebe4038c67d1764b"
+hash = "a58c5f1e2cf96aea24c95164b47f10ee8ba73d8b803ac0311e3a9670d0d9cb3f"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/support.json"
@@ -923,11 +959,7 @@ hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
-hash = "643350785cb958d19054c56a2f5b9f800f0755596191b08d47e23fe698f284c7"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/waystones.json"
-hash = "120ac765587004bf0af4d42140e105c97a480af18309ab96a98db871b51d8871"
+hash = "610902b0b1a37f79e98b531d13a68e39fc45623e60c0b925d1fa2416b812fe43"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"

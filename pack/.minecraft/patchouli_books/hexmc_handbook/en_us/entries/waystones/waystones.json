@@ -1,34 +1,34 @@
 {
-    "name": "Waystones",
-    "icon": "waystones:waystone",
-    "category": "patchouli:waystones",
-    "pages": [
-      {
-        "type": "patchouli:text",
-        "text": "Waystones are a better way of transport."
-      },
-      {
-        "type": "patchouli:crafting",
-        "recipe": "waystones:waystone",
-        "text": "The waystone can be crafted from many materials"
-      },
-      {
-        "type": "patchouli:text",
-        "title": "Waystone Menu",
-        "text": "The waystone menu allows for you to see all the waystones you have found, and public waystones set by other players."
-      },
-      {
-        "type": "patchouli:image",
-        "images": ["hexmc:patchouli/waystones/waystone_menu.png"]
-      },
-      {
-        "type": "patchouli:text",
-        "title": "Waystone Settings",
-        "text": "The Waystone settings allows you to rename and change your options for Waystones. $(br2)You can also set your waystone as a public waystone to show to other players on the same server."
-      },
-      {
-        "type": "patchouli:image",
-        "images": ["hexmc:patchouli/waystones/waystone_settings.png"]
-      }
-    ]
-  }
+  "name": "Waystones",
+  "icon": "waystones:waystone",
+  "category": "patchouli:waystones",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Waystones are a better way of transport."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "waystones:waystone",
+      "text": "The waystone can be crafted from many materials"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Waystone Menu",
+      "text": "The waystone menu allows for you to see all the waystones you have found, and public waystones set by other players."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["hexmc:patchouli/hexmc/waystones/waystone.png"]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Waystone Settings",
+      "text": "The Waystone settings allows you to rename and change your options for Waystones. $(br2)You can also set your waystone as a public waystone to show to other players on the same server."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["hexmc:patchouli/hexmc/waystones/waystone_rename.png"]
+    }
+  ]
+}

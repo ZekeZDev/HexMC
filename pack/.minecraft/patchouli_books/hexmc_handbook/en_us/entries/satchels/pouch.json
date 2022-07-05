@@ -4,12 +4,14 @@
   "category": "patchouli:satchels",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "Rather simple but lacks the knowledge of a more advanced book."
+      "type": "patchouli:crafting",
+      "recipe": "scout:pouch",
+      "text": "A simple pouch that extends your inventory by 3 slots. 2 can be equiped."
     },
     {
-      "type": "patchouli:crafting",
-      "recipe": "scout:pouch"
+      "type": "patchouli:spotlight",
+      "item": "scout:upgraded_pouch",
+      "text": "An upgraded pouch that extends your inventory by 3 slots. 2 can be equiped. $(br2)Crafted by using a $(item)Pouch$() with a diamond in a $(thing)smithing table."
     }
   ]
 }

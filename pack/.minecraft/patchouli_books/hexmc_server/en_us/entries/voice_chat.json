@@ -35,9 +35,11 @@
             "text": "Screenshot: Disabling voice chat"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:link",
             "title": "Troubleshooting",
-            "text": "To troubleshoot we reccomend using the official $(l:https://modrepo.de/minecraft/voicechat/wiki?t=troubleshooting)Simple Voice Chat wiki."
+            "url": "https://modrepo.de/minecraft/voicechat/wiki?t=troubleshooting",
+            "link_text": "Voice Chat Wiki",
+            "text": "To troubleshoot we reccomend using the official Simple Voice Chat wiki."
         }
     ]
 }
