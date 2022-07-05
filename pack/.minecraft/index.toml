@@ -167,6 +167,11 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "e73406fe1252ab486b90665439db7de2ec5a2bcebc1c23d48091ea7fb3e35c68"
+metafile = true
+
+[[files]]
 file = "mods/basic-shields-fabric.pw.toml"
 hash = "8979c102241e3de5365b478762d1600ca6fb5249775e6c9fa3519e0b2045830d"
 metafile = true
@@ -369,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.pw.toml"
+hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
 metafile = true
 
 [[files]]
