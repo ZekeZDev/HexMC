@@ -110,7 +110,7 @@ hash = "b7c2b11a018ed4c5b6e45a0942663748628028ec7ddd3dcf7e3c65d861c73ef0"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "f435fa5523eecd2e4fd538ca812b5814cd8148a551bc6974674cd31da5d25c25"
+hash = "4baf2c18cf30007ae2525decff32d8edad68831edf8327245f8bbfd9f0c1f5cf"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+metafile = true
+
+[[files]]
+file = "mods/community-chest.pw.toml"
+hash = "43fcf8bd32b2949802ba3c711fa9988f9bb4150e7d00b02ed332ca19ce085776"
 metafile = true
 
 [[files]]
@@ -934,6 +939,10 @@ file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
 hash = "43241e263374bad429573c16f2bbd88fe8ecdc4f1064341da166130fce468c44"
 
 [[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/community_chests.json"
+hash = "23a1667411cddd54697c2ec500c7a1d19ae09abd880ad508a8df814f61449cc5"
+
+[[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
 hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
 
@@ -962,20 +971,40 @@ file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
 hash = "610902b0b1a37f79e98b531d13a68e39fc45623e60c0b925d1fa2416b812fe43"
 
 [[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone.png"
+hash = "b09095913d7359594178a35fa1f9cef011c0151a69ce8655a5e2779e8317e05a"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone_global.png"
+hash = "70c3c55e43a042c3475acfd4848781c4f78cf64b14c65d042c030655ed66fb27"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone_rename.png"
+hash = "e4bd2cbad246c34311b01b968d044c6c83b1600f4ea888c91daf2059990cfe37"
+
+[[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
-hash = "5e9ec882be7fe56e8519d483a666fc78744c93a4fcd602115ed0edba640d6b6d"
+hash = "eeb10f74063e1dc52cadbed147440988ee90ba49e6a5e7ba3121169cc504de47"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/wheel-emotes.png"
+hash = "8d0526f8e0b20d68eb19e3057f930c6cf617544e9774435d2f4a6717b929f73e"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/wheel-settings.png"
+hash = "5cab426a926ed8aff1d89a7110466e2b07d130d75555f625460ca2ca7177f819"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page1-settings.png"
+hash = "99cc79537425cded36680d782548e56b14fc939cdaf40dcf26708a16574ec0a1"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page2-settings.png"
-hash = "93a981d98db90aa4177ab89280c1d22497ffb684daeb886b674c83dc0483f1e1"
+hash = "ee4c04309c5c467fd5226c749c58b4c71ff7e5e5e7258349b9dda7c413b5ac4f"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png"
-hash = "d554857bb23fe14da7c8d71fe61fde1dfe053e21f49038f7a8e4680f971f8384"
-
-[[files]]
-file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png~"
-hash = "633f04c4b8090285bf635f6e7f9657c5c58704454f405f62fec12128a29f25fd"
+hash = "ecd301b1feb217f1db934463972dc8fa72822bde434c12c95a870e97e32c2e82"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"

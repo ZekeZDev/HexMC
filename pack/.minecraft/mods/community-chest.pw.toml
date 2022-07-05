@@ -1,0 +1,8 @@
+name = "CommunityChest"
+filename = "community-chest-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ZekeSmith/CommunityChest/releases/download/1.0.0/community-chest-1.0.0.jar"
+hash-format = "sha1"
+hash = "ce4d595f11370bbf2843b5da8ebd3b22c72c3b63"
