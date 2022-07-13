@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "76980045cf66016b873537a9dd5d543ce9803a96472541201364e777efc08c6c"
+hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
+hash = "6c63238004c4a723805f59be898756cfb1b297a48fc4d002b2f1c8379f891032"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "9e07fe34dd1986b1873d4e32a224307124f08c280d1db5d2e44320e98b17049d"
+hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0df001a091cf35976e9c991ab1a018281e08263213838bace89de6790a44b853"
+hash = "a3d0c5c2501ee6ea63d29caae143fb215692791e4b8b21358f7cd12cfdebd16d"
 metafile = true
 
 [[files]]
