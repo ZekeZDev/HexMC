@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "If your reading this I assume you havent lost this book. However if you have a really smart friend or someone who has lost it. $(br2)Type $(thing)/books$() or use the recipes depicted on the other page."
+            "text": "If your reading this I assume you havent lost this book. However if you have a really smart friend or someone who has lost it."
         },
         {
             "type": "patchouli:crafting",
