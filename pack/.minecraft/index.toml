@@ -965,7 +965,7 @@ hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/server_book.json"
-hash = "bfc9d34aef0e1fb5a3e07ee42d0ff34eea21e48abc8dba87f33b12291973c4f1"
+hash = "a1078bc3d4d0bb98f7fb155daa4861115e8cce679b242369be09ab029c36f7d8"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/shops.json"

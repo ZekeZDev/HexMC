@@ -9,11 +9,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "kubejs:kjs_ddr49hr25s94zfrzf9je1dhk8"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "kubejs:kjs_7mb1f48vu0qggyi6q4aqgpowp"
+            "recipe": "kubejs:kjs_ddr49hr25s94zfrzf9je1dhk8",
+            "recipe2": "kubejs:kjs_7mb1f48vu0qggyi6q4aqgpowp"
         }
     ]
 }
