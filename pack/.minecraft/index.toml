@@ -49,6 +49,10 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
+file = "config/yosbr/config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "8f5c4bac35757d624f296419976aff70a4a5b95c4430aff06048013ea7dd25c4"
 
@@ -110,7 +114,7 @@ hash = "b7c2b11a018ed4c5b6e45a0942663748628028ec7ddd3dcf7e3c65d861c73ef0"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "4baf2c18cf30007ae2525decff32d8edad68831edf8327245f8bbfd9f0c1f5cf"
+hash = "f435fa5523eecd2e4fd538ca812b5814cd8148a551bc6974674cd31da5d25c25"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
