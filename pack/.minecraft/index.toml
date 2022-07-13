@@ -957,7 +957,7 @@ hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/global_waystones.json"
-hash = "81f5715958baae3a571203b8031e37968e6fd8409998ca27523c6175db48fb2e"
+hash = "7edd4a9affaf45e844df60da10a7da45e62a2f4169a9a85672f67fd4389cbcc9"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/rules.json"

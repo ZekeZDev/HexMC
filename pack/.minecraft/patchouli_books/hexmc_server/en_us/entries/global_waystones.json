@@ -9,7 +9,7 @@
         },
         {
             "type": "patchouli:image",
-            "images": ["hexmc:patchouli/hexmc_server/waystones/waystone-global.png"],
+            "images": ["hexmc:patchouli/hexmc_server/waystones/waystone_global.png"],
             "border": true,
             "text": "All waystones must have appropriate names."
         }
