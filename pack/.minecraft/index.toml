@@ -38,7 +38,7 @@ hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
-hash = "06aefca88debd562925219ef133ca15a831825c283198ab2e683f065ac05e7b2"
+hash = "c5996c3bca7821beb08ca2ff0a434d46529ed461cc9a461be3c39823ded6fd35"
 
 [[files]]
 file = "config/things.json5"
