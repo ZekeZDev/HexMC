@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components.pw.toml"
-hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
+hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
 metafile = true
 
 [[files]]
