@@ -144,6 +144,11 @@ hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
+metafile = true
+
+[[files]]
 file = "mods/armorpoints.pw.toml"
 hash = "41c60940cb3a59d557ef78d289566dda5f2bf8ce69af50f6a1cacc34e18b567b"
 metafile = true
