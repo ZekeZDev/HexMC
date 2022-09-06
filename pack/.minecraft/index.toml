@@ -319,11 +319,6 @@ hash = "6a4cff36e9fd0cf82d0e703ad2289315fcfaa0cc59cd667b8821d4b3ff9d276d"
 metafile = true
 
 [[files]]
-file = "mods/farmers-knives.pw.toml"
-hash = "3c32f14e2f6608e5acf7950063c99bc8ea32fc19ee97d8f3d8dc213e402aadd0"
-metafile = true
-
-[[files]]
 file = "mods/fastload.pw.toml"
 hash = "53beaf5a66ef80ec0d86c1467d68b7b43d3bc9a54989ab762d4297fb4ed0fc88"
 metafile = true
