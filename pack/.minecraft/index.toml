@@ -564,11 +564,6 @@ hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
 metafile = true
 
 [[files]]
-file = "mods/things.pw.toml"
-hash = "6ee2b19242cfa341ac4377d048890e4abed6b4ac5861199f1f1d78c2a082e1b7"
-metafile = true
-
-[[files]]
 file = "mods/traverse.pw.toml"
 hash = "8934acb9f90f13a18c86801df61720fec71ad60b3ed042916bbf08ba25a6b6fc"
 metafile = true
