@@ -121,6 +121,11 @@ file = "kubejs/startup_scripts/script.js"
 hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
 
 [[files]]
+file = "mods/ad-astra-fabric.pw.toml"
+hash = "e811d65502a6c345c43b362ee1ad883dabef1a860ef6101a4dd3e65f883d59b4"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -181,6 +186,11 @@ hash = "8979c102241e3de5365b478762d1600ca6fb5249775e6c9fa3519e0b2045830d"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "a019fcb7fd5f5fbd69c43c95c11c4556a1b1ae79ea60a6f2c8a220c80ae04911"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -223,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "b0beb4b1bebaf3e79ceee1c760a2e146aac1beaf810006df95eb3b45c26348a0"
 metafile = true
 
 [[files]]
@@ -296,6 +311,11 @@ hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "3c1416f98f13c6470bd14ad6c590374c39500c9cbf1a063cf73ac89ceae219de"
 metafile = true
@@ -326,8 +346,23 @@ hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "6a4cff36e9fd0cf82d0e703ad2289315fcfaa0cc59cd667b8821d4b3ff9d276d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "3c32f14e2f6608e5acf7950063c99bc8ea32fc19ee97d8f3d8dc213e402aadd0"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
@@ -373,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/illager-expansion-forked.pw.toml"
 hash = "6e874df82174870ed74174f1ff5ed7a983de2a3caf370bf2cda579798c1a10a9"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-rematch.pw.toml"
+hash = "6d9d960dc892f9718e6d596a98645ce87e3b2e138845286ad4f58e27e5445489"
 metafile = true
 
 [[files]]
@@ -491,6 +531,16 @@ hash = "ed6fbfed9b04ccac217b6b405beb812412cf13b04d4f7d1cf614c00fbad382df"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "264a56abb5615fef7f396bbc8e909d47f9ab6ce9073791eb017e18d7db122945"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
 metafile = true
@@ -503,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7abb7ec5fd49525a7a3582231085cb429799cf840296a26a2666614bf0968bd2"
 metafile = true
 
 [[files]]
@@ -596,6 +651,11 @@ hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
+file = "mods/terrestria.pw.toml"
+hash = "a4dce23b26046b0cd59801aca7711e1eb4c0c3a58352c0fa90c9167e59363e83"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
 metafile = true
@@ -608,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
 hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "8934acb9f90f13a18c86801df61720fec71ad60b3ed042916bbf08ba25a6b6fc"
 metafile = true
 
 [[files]]
@@ -626,8 +691,28 @@ hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "92bb438b809e0b9502468a8a7d3f1e13f3174dd4c4fa4c703dbfe4cb488758c6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e202dbe44c613b66d68040e6e81a60ea3c901a6365787462a05d27a58dfeaeb4"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "c2c34dacb9172bbdd85bcf31c2031d11cf1dd3528de4c7a5805389d315c52150"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Illager Expansion [Rematch]"
+filename = "illager_expansion-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BANfajzS/versions/1.18.2-0.1.5-patched/illager_expansion-0.1.5.jar"
+hash-format = "sha1"
+hash = "f69267af7cc278bafdfdb73adb36f191c591f0d5"
+
+[update]
+[update.modrinth]
+mod-id = "BANfajzS"
+version = "TpMaPARk"
