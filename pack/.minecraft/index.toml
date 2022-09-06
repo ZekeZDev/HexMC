@@ -6,7 +6,7 @@ hash = "b903c59747458b317c0ded99575d6db854d0ff09c8c680cb20f1328de9b47670"
 
 [[files]]
 file = "config/Adorn.json5"
-hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
+hash = "0efdd7df7957528cc3dd8bafbd3f20a4081f9607a3b38d2194ee4da750bb70b4"
 
 [[files]]
 file = "config/customsplashscreen.json5"
