@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "a019fcb7fd5f5fbd69c43c95c11c4556a1b1ae79ea60a6f2c8a220c80ae04911"
+hash = "0c9551aca194ec1c182e649f38b928405b0a6441f8cc0bffe63fd448c057f7d8"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fde854f99ff1fbfffd3e7bc96d55185c2577b2117e82ba4e9d97a94b7396b014"
+hash = "ca250b9cbb4e0d16908b799542ad8806d7d5118effc0987400ece337e46517d9"
 metafile = true
 
 [[files]]
@@ -361,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/illager-expansion-rematch.pw.toml"
 hash = "6d9d960dc892f9718e6d596a98645ce87e3b2e138845286ad4f58e27e5445489"
+metafile = true
+
+[[files]]
+file = "mods/improved-end.pw.toml"
+hash = "ccb314e1c5540ffafff664f8d9234290810b0393df5baa2b08927073febd840a"
 metafile = true
 
 [[files]]
@@ -525,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "00bae5120377ebdac988dcf74e39987dd92a4ed519cf77a983c16f18611a17b5"
+hash = "8cb2de63595d5b872a59c6308759933afae6bf46940add1889027cbe762cf42f"
 metafile = true
 
 [[files]]
