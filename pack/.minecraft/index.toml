@@ -179,6 +179,11 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
@@ -340,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ca250b9cbb4e0d16908b799542ad8806d7d5118effc0987400ece337e46517d9"
+hash = "726458a50d3bb6d69da4989abca9cb8d21bd69d34895ddabbda2adb64148eb75"
 metafile = true
 
 [[files]]
@@ -561,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
