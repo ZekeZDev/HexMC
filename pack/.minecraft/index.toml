@@ -194,6 +194,11 @@ hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
 
 [[files]]
@@ -491,11 +501,6 @@ metafile = true
 [[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
 metafile = true
 
 [[files]]
