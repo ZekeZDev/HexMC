@@ -384,11 +384,6 @@ hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "7c2ae545f2d7bb0c2b4de7c1132a1afd8afafbe21d8e714d458199cda1f776a7"
 metafile = true
@@ -566,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/villager-hats.pw.toml"
 hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "24c0cc93789e5168354d37f499b9a85d888fa227afbb8824944aa3b0a4d4cd9c"
 metafile = true
 
 [[files]]
