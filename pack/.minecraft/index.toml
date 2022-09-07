@@ -144,11 +144,6 @@ hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
 metafile = true
 
 [[files]]
-file = "mods/armorpoints.pw.toml"
-hash = "41c60940cb3a59d557ef78d289566dda5f2bf8ce69af50f6a1cacc34e18b567b"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -346,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
-metafile = true
-
-[[files]]
-file = "mods/happiness-is-a-warm-gun.pw.toml"
-hash = "633e89819bedf600a0db302e4621452b1baeac796d7d46dd87e6c5ac97e6e7fb"
 metafile = true
 
 [[files]]
