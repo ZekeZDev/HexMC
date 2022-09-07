@@ -114,11 +114,6 @@ hash = "e811d65502a6c345c43b362ee1ad883dabef1a860ef6101a4dd3e65f883d59b4"
 metafile = true
 
 [[files]]
-file = "mods/addadd.pw.toml"
-hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
@@ -346,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "633e89819bedf600a0db302e4621452b1baeac796d7d46dd87e6c5ac97e6e7fb"
 metafile = true
 
 [[files]]
