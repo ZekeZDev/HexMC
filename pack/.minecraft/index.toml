@@ -359,6 +359,11 @@ hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
+file = "mods/infusion-table.pw.toml"
+hash = "e2ebe79ac972472fa7476758895770a79af133e835b783d424d9860056cfebcc"
+metafile = true
+
+[[files]]
 file = "mods/inv-view.pw.toml"
 hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
 metafile = true
@@ -465,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "264a56abb5615fef7f396bbc8e909d47f9ab6ce9073791eb017e18d7db122945"
+hash = "4567adfe24f6506130ad67d8438405836b210928f393aba910ca7e8d20e59a86"
 metafile = true
 
 [[files]]
