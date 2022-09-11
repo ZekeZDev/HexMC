@@ -29,6 +29,10 @@ file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
+file = "config/desiredServers/desiredservers.json"
+hash = "cdcded920fa92391d3b92350234123cd5723143f0f0217b8437347c3b843d83e"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
@@ -87,10 +91,6 @@ hash = "1c707d2edf2d355175b0d83ae6cc17b75bb194b939b3932b2cebe7ef250e9427"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
-
-[[files]]
-file = "desiredServers/desiredservers.json"
-hash = "cdcded920fa92391d3b92350234123cd5723143f0f0217b8437347c3b843d83e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
