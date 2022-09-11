@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7bc62af50be24f86bf8923bfa40797f58b9c2d2f4550dfa102cdc0952e160e2b"
+hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "7abb7ec5fd49525a7a3582231085cb429799cf840296a26a2666614bf0968bd2"
+hash = "12d6f19ea1bb36ad4549d9b341243bb941c2865d853633254bd11d4aaeb6d64c"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8cb2de63595d5b872a59c6308759933afae6bf46940add1889027cbe762cf42f"
+hash = "9368aa154ab53f5832b2e57667a302fc83eee3d9bd203c9085ecaf2278ffaf85"
 metafile = true
 
 [[files]]
