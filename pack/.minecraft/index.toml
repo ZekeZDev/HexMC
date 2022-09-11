@@ -25,6 +25,14 @@ file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
+file = "config/emotes/amogus.json"
+hash = "0c28d6247df2656c43204ca9639b38eab2eff534e398a767fa346ebae37e188c"
+
+[[files]]
+file = "config/emotes/naruto_run.json"
+hash = "ef3a88d217512cf5cb04ffed755ee669c6150b57556ff980313c09dd8a50d548"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
@@ -126,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+metafile = true
+
+[[files]]
+file = "mods/annotated-di.pw.toml"
+hash = "45b71a873141329eae491de019fb61451defc54f9ca7b8b1221d43f5a07c1769"
 metafile = true
 
 [[files]]
@@ -239,11 +252,6 @@ hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
-file = "mods/creeper-spores.pw.toml"
-hash = "adcc315808f530d4c1ad9bdb4536677905d0beecb9cd0520e5ba4f7c8298fd8d"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
@@ -276,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "f0f8963038e5a723d8a5214b6317e2fa37e0313fab682c7b3790157bba6e79a1"
 metafile = true
 
 [[files]]
@@ -316,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/fireplace-lib.pw.toml"
+hash = "7e52b8caf55a41f591b388cf06653ca565e7d7534f1e371ad290c34a70dd669d"
 metafile = true
 
 [[files]]
@@ -554,23 +572,23 @@ hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
 metafile = true
 
 [[files]]
+file = "mods/things.pw.toml"
+hash = "6ee2b19242cfa341ac4377d048890e4abed6b4ac5861199f1f1d78c2a082e1b7"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/villager-hats.pw.toml"
-hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
+file = "mods/unforgiving-void.pw.toml"
+hash = "edb2920e9c7cdaed9ab964c4c6f3c227eeb72ef33c3edd5c806ffda42630a937"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
-metafile = true
-
-[[files]]
-file = "mods/wildbackport.pw.toml"
-hash = "0c8445814196c7d93cb5688d1311d7a99241ed635cdc964a7872cc19b7550394"
 metafile = true
 
 [[files]]
@@ -607,10 +625,6 @@ file = "patchouli_books/hexmc_handbook/book.json"
 hash = "787355976205324f083a78ab956dbf223aefda0c7dd98f7dd76f77313d382860"
 
 [[files]]
-file = "patchouli_books/hexmc_handbook/en_us/categories/alloy_forging.json"
-hash = "bd571a070f28fe65de7d4933e5e930e761494a3ddc88e2da7f65d960c5a05923"
-
-[[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/boss_fights.json"
 hash = "9655333bcb3e5c48100b80eff712969d44bdef4bffca3077713ca1866a5de7bf"
 
@@ -645,22 +659,6 @@ hash = "352c1bc4fe68b1e8f53a5acf26a0c37075288fa74148c2cfd72d487992a67d87"
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/things/trinkets.json"
 hash = "1f3b50ac0c2e846b6cea1090f68a1e2c4d7fa1826e631a61410ee4f3613cfa0e"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/categories/waystones.json"
-hash = "9b3fe51db9516e30b9aa7cf31534f96dbf0099dcedcfee405d4916581777de92"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloy_forge.json"
-hash = "3bd3ed8e2282d7da6a4c42c3d805a5b35375fee20de99816504f6d04bee2ce5e"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloys.json"
-hash = "0eb3e162afd67f2ca591f915e1292c311ff43d9d2c958325c0a617c4ffd9638e"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/forge_controller.json"
-hash = "64ab26640a7fd90d420990d825ffeb74abd076dd0151d6a4346a578f3fde3bb1"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
@@ -871,30 +869,6 @@ file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/wax_gland.j
 hash = "6e4a7ba495b82b15e4b6817629c2be7db0a83814c97bf93cb33f930688b6f096"
 
 [[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/abyss_watcher.json"
-hash = "092b7d887e2fee8280cc3aa5ab55a513c4361ea94fd50fe105c87dbf4b888756"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/empty_waystone_scroll.json"
-hash = "3081224c2e60c2bfd44cd9f548ed5da0a0e4d02b0042083982f88ef1575911d5"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/local_void.json"
-hash = "7680a479ab23d6abdb5679f78aeef87999b6cd5fb16c84f477763791cb434704"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/pocket_wormhole.json"
-hash = "abd547017b92d00a6e04e999ad30bb012d2a1703b2b40d8b5add08186ac64542"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/void_totem.json"
-hash = "a3b04f797824f8692ce22e6f1c4d4a9779f9d5c4eb82d429e7965f8e78961906"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
-hash = "24627b044b7a3d69edf965f82cdcbbdec7316a2de08bda0d1cfa893c2f5c79bb"
-
-[[files]]
 file = "patchouli_books/hexmc_server/book.json"
 hash = "96f57d26efca4e4c61ee71be40504d5040f0857b26570d8d2636a9845a591dcd"
 
@@ -904,7 +878,7 @@ hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/approved_mods.json"
-hash = "bab3e1dff70125ad9baf97083fd1ae7de4131b12ece99eca3dd5f78939faf33f"
+hash = "3ee2327dcc3f578fab7582add55f181781426967bbe2b9b2be9874c8de17044b"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
@@ -917,10 +891,6 @@ hash = "23a1667411cddd54697c2ec500c7a1d19ae09abd880ad508a8df814f61449cc5"
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
 hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/global_waystones.json"
-hash = "6e141524e5b7b11c40fe51aabb7b2325fc923e3903c42226fb380dfd5b0a9210"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/rules.json"

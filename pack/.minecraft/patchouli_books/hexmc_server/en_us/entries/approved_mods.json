@@ -1,6 +1,6 @@
 {
     "name": "Approved Mods",
-    "icon": "additionaladditions:wrench",
+    "icon": "ad_astra:wrench",
     "category": "patchouli:server",
     "pages": [
         {
