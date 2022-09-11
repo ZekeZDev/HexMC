@@ -633,7 +633,7 @@ hash = "c3092709eeb62042ae69227a413f312047c20530569aea435973406a973ff781"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/create.json"
-hash = "fe3bac428a76bb598b45c9580cbf7d50dadfc39b0e184cad700090d98b9bedad"
+hash = "07f80c1292ff0dd905d0559b77bc773cb4eb93fd8b640d517ae150c87c132b60"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/emi.json"
@@ -641,11 +641,11 @@ hash = "5eeb445a186c47249cbe48b25b2a7ce22dacce1c6ac10f63930087c3ccc0cd6e"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/farming.json"
-hash = "18d17a1284894ab3ca70069de4ee3ca4826f9d908f17bd50bc5779fae0d9f611"
+hash = "3501d9dc782b2ec56dae498417deac49b8c733c7e3e312dc89a60efbc28beab4"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/lexica_botania.json"
-hash = "57272fa1f24367548265bff2b718194e89837558edb34082a45a0a6e0f1ad02e"
+hash = "6447801cab24726d1bdb47806393e884d9067d6816ff77f17a1db7c148f6aa7c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/satchels.json"
@@ -685,19 +685,19 @@ hash = "400d8f8e2af36a3d0e298285db1f4a9ecfe8ba798a92f3126069f5ff5b0f0af7"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/combat/dual_wielding.json"
-hash = "ab3e7db27c852dc379633b22a7ad6323d3cdce4e0ff6d89becab14250a67405b"
+hash = "9b0b8e9c6d20ba1419ba2767da6928730ee260b0b22208931a22d175424af4dc"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/combat/shield_parry.json"
-hash = "ef14dd85f131b136fa9852e1ae46a36ba15c19ffd91bc7d0a13f29017b662465"
+hash = "88ded8b01615612f482c14bf37b8fcb446185ae4189d00b12602488c09ca9c6b"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/create/introduction.json"
-hash = "e51934bb68e864b8ce01585358f6f536fd5d3d3bebfe5038ec7aab010f46b68e"
+hash = "95a360e44dcf7a69462facc54d84575174844b05f5f2b9703235c77735fae21f"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/emi/getting_started.json"
-hash = "c0f1653e8a126b34588f156e5cd288aabbf874c6838f1770dd302450eb93717d"
+hash = "37109fdc94ad93d47c56d81d6fc3b096b45bf07a348946569ec12c1afa89721f"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/emi/tips_and_tricks.json"
@@ -705,7 +705,7 @@ hash = "0ebb9751ce4e67919039d8e191c8145f1f1551cefeaecf18e4b02231b19d7ebb"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/farming/introduction.json"
-hash = "e86bc6d8d6870e605a264b369f42bbd1a174817d3ec260d077f47f6f9d0c90f7"
+hash = "06c2539dad01602077ef1c7f9f44885ca586b2bd91266293580ad355f346652d"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/crafting.json"
@@ -725,7 +725,7 @@ hash = "700615a181fc10b8271544da2dc8f842748f517b0e50c370a5bf625c3c6d4361"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/space/introduction.json"
-hash = "06ab833ae49173f192c1a10db7629801eaad2e7d67540d51be6f502d9b6f704a"
+hash = "068a4311b857d71405beeea371e8d434986bef8c286d5dbd459c348126b6ef17"
 
 [[files]]
 file = "patchouli_books/hexmc_server/book.json"
@@ -741,7 +741,7 @@ hash = "3ee2327dcc3f578fab7582add55f181781426967bbe2b9b2be9874c8de17044b"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
-hash = "2bb2d8d81c9435d1c42ada1cc8b761f462d814dc6f7d3ad3b0419da7f77fcf39"
+hash = "222f5810d9300050f9c390a784e2585e72959d3b4b57115b9fb207f2959ee039"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/community_chests.json"
