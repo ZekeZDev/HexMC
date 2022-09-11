@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Claiming is a feature of HexMC used to protect your items and structures. You can access the claim menu through the normal map by pressing $(thing)M (default)$()"
+            "text": "Claiming is a feature of HexMC used to protect your items and structures. You can claim up to 9 chunks. You can access the claim menu through the normal map by pressing $(thing)M (default)$()"
         },
         {
             "type": "patchouli:text",
-            "title": "your first claim",
+            "title": "Your First Claim",
             "text": "To create your first claim follow the step from before to open the map then right click on it to select a chunk or hold right click and claim a drag to select a larger amount. From the context menu then select $(thing)Claim Selected$()"
         }
     ]

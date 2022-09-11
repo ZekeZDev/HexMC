@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Space travel is complicated, I am not a rocket scientist. Documents from another book would likely help with these ventures. $(br2)Perhaps an $(item)Astrodux$() Could have what your looking for."
+      "text": "Space travel is complicated, and I am no rocket scientist. Documents from another book will likely help with these ventures. $(br2)Perhaps an $(item)Astrodux$() could have what you're looking for."
     },
     {
       "type": "patchouli:crafting",

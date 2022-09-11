@@ -14,12 +14,12 @@
     },
     {
       "type": "patchouli:text",
-      "title": "Item view",
+      "title": "Item View",
       "text": "When viewing recipes for an item, tabs near the top of the screen will show you different methods of crafting/obtaining it. For example, Wool has a tab on how to craft it at a crafting table, a tab on how to wash or pack it with Create machinery, and a tab on how to trade for it with villagers."
     },
     {
       "type": "patchouli:text",
-      "title": "Recipe tree",
+      "title": "Recipe Tree",
       "text": "Some late game recipes can get a bit complicated. When viewing a recipe in EMI, you can press the little View Recipe Tree button to its right to see the whole chain of crafting steps and a total cost."
     }
   ]

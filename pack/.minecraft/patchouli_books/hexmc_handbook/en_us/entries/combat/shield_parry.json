@@ -5,22 +5,22 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "I have spent a lot of time mastering my weapons and defense is sometimes the greatest offense, and sometimes your defense can be your offense."
+      "text": "I have spent a lot of time mastering my weapons. Defense is sometimes the greatest offense, and sometimes your defense can even be your offense."
     },
     {
       "type": "patchouli:text",
       "title": "Parrying",
-      "text": "Mobs getting to close or you want to push an attacker off a cliff, parrying is for you. $(br2)To preform this technique you will first need to crouch and upon approach of the attacker hold your shield up. $(br2)This will knock your attacker back and stun them."
+      "text": "Mobs getting too close? Want to push an attacker off a cliff? If so, parrying is for you. $(br2)To perform this technique, you will first need to crouch, and upon approach of the attacker hold your shield up. $(br2)This will knock your attacker back and stun them."
     },
     {
       "type": "patchouli:text",
-      "title": "Offensive defense",
-      "text": "Knocking and enemy back and stunning them is great but sometimes you want to give them a good hit. $(br2)Well your in luck after much study I have found the $(thing)barbed enchantment$() which will deal damage to an enemy upon sucessful parry."
+      "title": "Offensive Defense",
+      "text": "Knocking and enemy back and stunning them is great, but sometimes you want to give them a good hit. $(br2)You're in luck: After much study, I have found the $(thing)barbed enchantment$() which will deal damage to an enemy upon a successful parry."
     },
     {
       "type": "patchouli:text",
-      "title": "A light shove",
-      "text": "Enemies are getting to close for your comfort send them flying with the $(thing)pummeling enchanment$(). $(br2)$(o)also works on annoying friends$()"
+      "title": "A Light Shove",
+      "text": "Enemies getting too close for comfort? Send them flying with the $(thing)pummeling enchanment$(). $(br2)$(o)also works on annoying friends$()"
     }
   ]
 }
