@@ -1,74 +1,16 @@
 {
     "name": "Claiming",
-    "icon": "goml:withered_claim_anchor",
+    "icon": "minecraft:iron_bars",
     "category": "patchouli:server",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Claiming is a feature of HexMC used to protect your items and structures. $(br2)There is different tiers of claim blocks that can protect more area as well as claim augments."
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Getting started",
-            "recipe": "goml:makeshift_claim_anchor",
-            "text": "This is a makeshift claim anchor, it is the starting point to protect your base. It protects a 10x10x10 radius."
+            "text": "Claiming is a feature of HexMC used to protect your items and structures. You can access the claim menu through the normal map by pressing $(thing)M (default)$()"
         },
         {
             "type": "patchouli:text",
-            "title": "Upgrading",
-            "recipe": "goml:makeshift_claim_anchor",
-            "text": "The makeshift claim can be upgraded in 2 ways either through a claim upgrade kit or using it in the upgrade recipe.$(br2)The upgrade kit is used by right clicking the existing claim block."
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Examples",
-            "recipe": "goml:reinforced_claim_anchor",
-            "recipe2": "goml:reinforced_upgrade_kit"
-        },
-        {
-            "type": "patchouli:text",
-            "title": "Claim Radiuses",
-            "text": "$(li)$(thing)Makeshift:$()$(br)10x10x10$(li)$(thing)Reinforced:$()$(br)20x20x20$(li)$(thing)Glistening:$()$(br)30x30x30$(li)$(thing)Crystal:$()$(br)40x40x40$(li)$(thing)Emeradic:$()$(br)50x50x50$(li)$(thing)Withered:$()$(br)100x100x100"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Claim Goggles",
-            "recipe": "goml:goggles",
-            "text": "$(thing)Goggles of Claim Revealing$() is an helmet that allows you to see the border of claims making it possible to know where a claim ends yours or anothers."
-        },
-        {
-            "type": "patchouli:text",
-            "title": "Augments",
-            "text": "Augments are additions to existing claims that are placed next to the core. They are used to change claim permissions and buffs."
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Augments",
-            "recipe": "goml:ender_binding",
-            "recipe2": "goml:lake_spirit_grace"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Augments",
-            "recipe": "goml:angelic_aura",
-            "recipe2": "goml:village_core"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Augments",
-            "recipe": "goml:withering_seal",
-            "recipe2": "goml:chaos_zone"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Augments",
-            "recipe": "goml:greeter",
-            "recipe2": "goml:pvp_arena"
-        },
-        {
-            "type": "patchouli:crafting",
-            "title": "Augments",
-            "recipe": "goml:explosion_controller"
+            "title": "your first claim",
+            "text": "To create your first claim follow the step from before to open the map then right click on it to select a chunk or hold right click and claim a drag to select a larger amount. From the context menu then select $(thing)Claim Selected$()"
         }
     ]
 }

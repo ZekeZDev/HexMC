@@ -1,0 +1,11 @@
+{
+  "name": "Dual Wielding",
+  "icon": "minecraft:iron_sword",
+  "category": "patchouli:combat",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "two is better then one so why should weapons be an exception. $(br2)Its rather simple just hold a weapon in both hands (they dont need to be the same) and watch your warrior insticts kick in."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tips and Tricks",
+  "icon": "minecraft:apple",
+  "category": "patchouli:emi",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Recipe hover: $(br2)Press $(thing)U (default)$() when hovering over an item to find its recipe usages$(br2)Press $(thing)R (default)$() when hovering over an item to find its recipe"
+    }
+  ]
+}

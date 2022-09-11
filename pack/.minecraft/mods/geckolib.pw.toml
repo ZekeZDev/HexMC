@@ -1,13 +1,13 @@
-name = "GeckoLib"
-filename = "geckolib-fabric-1.18-3.0.50.jar"
+name = "Geckolib"
+filename = "geckolib-fabric-1.18-3.0.60.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Xy0nEDNy/geckolib-fabric-1.18-3.0.60.jar"
 hash-format = "sha1"
-hash = "3715b8ca3641b776585ad8d94d1ab8ca38cdc2b9"
-mode = "metadata:curseforge"
+hash = "83009189f08ef51087a7a4e6abac3dca5348e71f"
 
 [update]
-[update.curseforge]
-file-id = 3847899
-project-id = 388172
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "Xy0nEDNy"

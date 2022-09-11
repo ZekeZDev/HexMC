@@ -1,13 +1,13 @@
 name = "HexMC"
 author = "Tabzlock"
-version = "2.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "67f5a41c97ddd61a37edfc7253239df1728f116c68756b823eed8121a73b13ab"
+hash = "99a4196018743166c868b757cb69cafbfd0880f585891ff7ab8474adb2de30ff"
 
 [versions]
-fabric = "0.14.8"
+fabric = "0.14.9"
 minecraft = "1.18.2"
