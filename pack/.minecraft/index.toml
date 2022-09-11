@@ -9,6 +9,10 @@ file = "config/Adorn.json5"
 hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "e3cf453f02f84fe451e4d79684d20e5f3e8d9944593fbc7ebb62e9c40a70d805"
 
@@ -769,7 +773,7 @@ hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
-hash = "610902b0b1a37f79e98b531d13a68e39fc45623e60c0b925d1fa2416b812fe43"
+hash = "0b8cca545e0bb5dda66798c0a51e8a9e42cfc4b33a69db6ef96dacd997142d63"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone.png"
