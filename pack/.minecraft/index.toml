@@ -433,11 +433,6 @@ hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "5631427ed0e9792e60562d47f8b9ca574c3f7b6787c7e888f6bf203583a73936"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
