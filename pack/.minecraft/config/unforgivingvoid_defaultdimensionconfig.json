@@ -1,0 +1,10 @@
+{
+  "isEnabled": true,
+  "triggerDistance": 32,
+  "dropObsidian": false,
+  "fireResistanceSeconds": 0,
+  "slowFallingSeconds": 5,
+  "horizontalDistanceOffset": 128,
+  "targetDimension": "overworld",
+  "transferPositionMode": "FALL_FROM_SKY"
+}
