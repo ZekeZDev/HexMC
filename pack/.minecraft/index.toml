@@ -85,6 +85,10 @@ file = "config/yosbr/options.txt"
 hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
 
 [[files]]
+file = "desiredServers/desiredservers.json"
+hash = "cdcded920fa92391d3b92350234123cd5723143f0f0217b8437347c3b843d83e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
 hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
 
