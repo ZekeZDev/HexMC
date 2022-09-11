@@ -37,10 +37,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
 
 [[files]]
-file = "config/things.json5"
-hash = "1038869327d77f107c527999c48acabf86cd2588b415e5e45bc30701f9f03d75"
-
-[[files]]
 file = "config/unforgivingvoid_defaultdimensionconfig.json"
 hash = "560a369b4c5ff782834909135549072151831eee47bd75450d998d01d10092be"
 
