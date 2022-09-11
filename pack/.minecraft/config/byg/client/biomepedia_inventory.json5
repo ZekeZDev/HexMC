@@ -8,6 +8,13 @@ JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mr
 to make editing this file much easier.
 */
 {
-	// Whether the biomepedia button is enabled or not in the player inventory for all users connected to this host.
-	"inventory_enabled": false
+	// Inventory GUI settings for the biomepedia button position.
+	"inventory_position": {
+		"height_offset": 22,
+		"width_offset": 126
+	},
+	/* Whether the biomepedia button is visible in the player inventory.
+	   Servers can disable this button from functioning regardless of this value.
+	*/
+	"visible": false
 }
