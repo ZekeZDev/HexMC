@@ -1,0 +1,13 @@
+name = "TheWildBackport"
+filename = "wildbackport-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UEBvC2bZ/versions/Pva8JM39/wildbackport-1.2.2.jar"
+hash-format = "sha1"
+hash = "532ced11d7b17d7c086ae85a1ffc65641ab7401b"
+
+[update]
+[update.modrinth]
+mod-id = "UEBvC2bZ"
+version = "Pva8JM39"
