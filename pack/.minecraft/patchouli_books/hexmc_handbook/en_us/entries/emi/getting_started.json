@@ -1,0 +1,26 @@
+{
+  "name": "Gettings started",
+  "icon": "minecraft:diamond",
+  "category": "patchouli:emi",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "EMI has a lot of features and is what you will primarily use for recipes throughout your journey. $(br2)You can search through every item in the modpack using the search bar at the bottom of your inventory screen."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Items appear at the right side of the screen and can be clicked on to view their recipes. You can also hover over an item and hit the U key on your keyboard (by default) to view items that can be crafted from it. "
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Item view",
+      "text": "When viewing recipes for an item, tabs near the top of the screen will show you different methods of crafting/obtaining it. For example, Wool has a tab on how to craft it at a crafting table, a tab on how to wash or pack it with Create machinery, and a tab on how to trade for it with villagers."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Recipe tree",
+      "text": "Some late game recipes can get a bit complicated. When viewing a recipe in EMI, you can press the little View Recipe Tree button to its right to see the whole chain of crafting steps and a total cost."
+    }
+  ]
+}

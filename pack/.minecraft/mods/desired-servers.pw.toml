@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-1.0.1 (1).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/1.0.1/desiredservers-1.0.1%20%281%29.jar"
+hash-format = "sha1"
+hash = "aa6b4da3c4880fa4958402c6646cdf67d76a465b"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "GAmRvF14"

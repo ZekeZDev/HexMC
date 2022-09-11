@@ -1,0 +1,15 @@
+{
+  "name": "Introduction",
+  "icon": "ad_astra:earth_globe",
+  "category": "patchouli:space",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Space travel is complicated, I am not a rocket scientist. Documents from another book would likely help with these ventures. $(br2)Perhaps an $(item)Astrodux$() Could have what your looking for."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:recipes/astrodux"
+    }
+  ]
+}

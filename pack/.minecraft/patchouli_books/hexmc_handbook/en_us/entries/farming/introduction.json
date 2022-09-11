@@ -1,0 +1,17 @@
+{
+  "name": "Introduction",
+  "icon": "farmersdelight:stove",
+  "category": "patchouli:farming",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "There is many different ways to cook things and to make this easier you can go to your $(thing)advancement's tab$() and look for farmers delight. $(br2)This will show you all of the delightful ways to get started making delicious meals!"
+    },
+    {
+      "type": "patchouli:link",
+      "url": "https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started",
+      "text": "Stuck and not sure how this works? $(br2)The Farmers Delight wiki has great documentation from master chefs.",
+      "link_text": "Farmers Delight wiki"
+    }
+  ]
+}
