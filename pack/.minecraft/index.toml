@@ -9,10 +9,6 @@ file = "config/Adorn.json5"
 hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
 
 [[files]]
-file = "config/byg/client/biomepedia_inventory.json5"
-hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
-
-[[files]]
 file = "config/customsplashscreen.json5"
 hash = "e3cf453f02f84fe451e4d79684d20e5f3e8d9944593fbc7ebb62e9c40a70d805"
 
