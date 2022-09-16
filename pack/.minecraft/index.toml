@@ -143,11 +143,6 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
-file = "mods/banhammer.pw.toml"
-hash = "e73406fe1252ab486b90665439db7de2ec5a2bcebc1c23d48091ea7fb3e35c68"
-metafile = true
-
-[[files]]
 file = "mods/basic-shields-fabric.pw.toml"
 hash = "8979c102241e3de5365b478762d1600ca6fb5249775e6c9fa3519e0b2045830d"
 metafile = true
@@ -408,6 +403,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/lenient-death.pw.toml"
+hash = "1f9f4a1b99a642e7bb0f50f67bb4854209e21c6680b96c30269dac5dbab09a05"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -555,11 +555,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "c2c34dacb9172bbdd85bcf31c2031d11cf1dd3528de4c7a5805389d315c52150"
 metafile = true
 
 [[files]]
