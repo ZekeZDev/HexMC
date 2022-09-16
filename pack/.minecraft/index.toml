@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
+hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "f0f8963038e5a723d8a5214b6317e2fa37e0313fab682c7b3790157bba6e79a1"
+hash = "ae560f554ce70728cf3181d8163d99db22842563e6f68ea6167f91eacee2d123"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "726458a50d3bb6d69da4989abca9cb8d21bd69d34895ddabbda2adb64148eb75"
+hash = "58b80a63029fe06201c7e16061aae0636b281d35c90d8afbf544b323c0664970"
 metafile = true
 
 [[files]]
@@ -463,23 +463,13 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "4567adfe24f6506130ad67d8438405836b210928f393aba910ca7e8d20e59a86"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "12d6f19ea1bb36ad4549d9b341243bb941c2865d853633254bd11d4aaeb6d64c"
+hash = "60dc7373b935cd025a950c5404bd9e034853b4329c3846bc449cacd5c3e7b926"
 metafile = true
 
 [[files]]
@@ -509,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9368aa154ab53f5832b2e57667a302fc83eee3d9bd203c9085ecaf2278ffaf85"
+hash = "8cb2de63595d5b872a59c6308759933afae6bf46940add1889027cbe762cf42f"
 metafile = true
 
 [[files]]
@@ -558,11 +548,6 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/unforgiving-void.pw.toml"
-hash = "edb2920e9c7cdaed9ab964c4c6f3c227eeb72ef33c3edd5c806ffda42630a937"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
@@ -570,16 +555,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "92bb438b809e0b9502468a8a7d3f1e13f3174dd4c4fa4c703dbfe4cb488758c6"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "e202dbe44c613b66d68040e6e81a60ea3c901a6365787462a05d27a58dfeaeb4"
 metafile = true
 
 [[files]]
