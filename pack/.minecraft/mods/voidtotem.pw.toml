@@ -1,0 +1,13 @@
+name = "Void Totem (Forge & Fabric)"
+filename = "voidtotem-fabric-1.18.2-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q6eiiQ07/versions/q1WzykXO/voidtotem-fabric-1.18.2-1.3.1.jar"
+hash-format = "sha1"
+hash = "88b6e6ce99bc16e783ba64b55619b529ca37a141"
+
+[update]
+[update.modrinth]
+mod-id = "q6eiiQ07"
+version = "q1WzykXO"

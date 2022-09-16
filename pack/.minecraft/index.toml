@@ -308,18 +308,13 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
-file = "mods/fireplace-lib.pw.toml"
-hash = "7e52b8caf55a41f591b388cf06653ca565e7d7534f1e371ad290c34a70dd669d"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes.pw.toml"
-hash = "62ce8fd227fa2a8d9d03dbb3d86f27c0cd65f906ab0312860c93d4195c4036c6"
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "9d5525e8515bd3007a9a5f94c21a8937722e1d582a39cdbfd5f54acdccb3a2ad"
 metafile = true
 
 [[files]]
@@ -355,11 +350,6 @@ metafile = true
 [[files]]
 file = "mods/infusion-table.pw.toml"
 hash = "e2ebe79ac972472fa7476758895770a79af133e835b783d424d9860056cfebcc"
-metafile = true
-
-[[files]]
-file = "mods/inv-view.pw.toml"
-hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
 metafile = true
 
 [[files]]
@@ -420,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "59df162547b2362dde38672729a5daecc785927b4a2612b01024caac177bbd94"
 metafile = true
 
 [[files]]
@@ -518,16 +513,6 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "8464443ae7468ca1116996954a9132330f8984e1da7089190d6d9cbbddfd836b"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
-metafile = true
-
-[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
@@ -543,8 +528,18 @@ hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "c8ae8ccb6e15fefb7d78e70dfd27e88a3767a1975148f26bfcb25d0e36b1e63e"
 metafile = true
 
 [[files]]
@@ -560,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
