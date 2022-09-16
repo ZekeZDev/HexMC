@@ -113,11 +113,6 @@ file = "kubejs/startup_scripts/script.js"
 hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
 
 [[files]]
-file = "mods/ad-astra-fabric.pw.toml"
-hash = "e811d65502a6c345c43b362ee1ad883dabef1a860ef6101a4dd3e65f883d59b4"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
@@ -135,11 +130,6 @@ metafile = true
 [[files]]
 file = "mods/annotated-di.pw.toml"
 hash = "45b71a873141329eae491de019fb61451defc54f9ca7b8b1221d43f5a07c1769"
-metafile = true
-
-[[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "09bbf0d8be8c1d9073081ce4e2659589fb37475bb71af07cf3e3d4f578adebe0"
 metafile = true
 
 [[files]]
