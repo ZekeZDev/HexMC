@@ -113,6 +113,11 @@ file = "kubejs/startup_scripts/script.js"
 hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
 
 [[files]]
+file = "mods/ad-astra-fabric.pw.toml"
+hash = "c971d85676b352cb31d853936d507baf294df62514f70ba102fe66d4939066d8"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
