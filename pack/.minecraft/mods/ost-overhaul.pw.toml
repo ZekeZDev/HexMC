@@ -1,0 +1,13 @@
+name = "OstOverhaul"
+filename = "ostOverhaul-0.2.6-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M11EPNE5/versions/0.2.6-1.18.2/ostOverhaul-0.2.6-1.18.2.jar"
+hash-format = "sha1"
+hash = "55e6d6e4bc3fc81cbb1f3fbdbcb8d59df675ef22"
+
+[update]
+[update.modrinth]
+mod-id = "M11EPNE5"
+version = "DTacqRXb"

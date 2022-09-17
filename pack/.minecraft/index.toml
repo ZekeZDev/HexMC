@@ -433,11 +433,6 @@ hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
-file = "mods/more-music-discs.pw.toml"
-hash = "6e2b25201a4c7b60171b4e6dbff39758fea32beb361b320f639713a3da2b28fb"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
 metafile = true
@@ -450,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
+metafile = true
+
+[[files]]
+file = "mods/ost-overhaul.pw.toml"
+hash = "a6fd3bdf0775ae53b82a42e98d4aa332cbb7300b597d389e9ba83fd4a016207e"
 metafile = true
 
 [[files]]
