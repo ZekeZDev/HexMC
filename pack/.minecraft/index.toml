@@ -128,11 +128,6 @@ hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
 
 [[files]]
-file = "mods/amethyst-imbuement.pw.toml"
-hash = "78c9f9d0127b04c24bae6a26fc45f69f9643de0a43119ca547043239f1f7c743"
-metafile = true
-
-[[files]]
 file = "mods/annotated-di.pw.toml"
 hash = "45b71a873141329eae491de019fb61451defc54f9ca7b8b1221d43f5a07c1769"
 metafile = true
@@ -453,6 +448,11 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+metafile = true
+
+[[files]]
 file = "mods/ost-overhaul.pw.toml"
 hash = "a6fd3bdf0775ae53b82a42e98d4aa332cbb7300b597d389e9ba83fd4a016207e"
 metafile = true
@@ -540,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/vistas.pw.toml"
+hash = "8736bf9c1d18dfdf45d2d9fb8f9fe67131792877c1d5a661d9349499b01fc64b"
 metafile = true
 
 [[files]]
