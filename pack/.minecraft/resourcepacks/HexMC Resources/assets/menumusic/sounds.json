@@ -1,0 +1,9 @@
+{
+    "music": {
+      "category": "music",
+      "sounds": [
+        "menumusic:track1",
+        "menumusic:track2"
+      ]
+    }
+  }

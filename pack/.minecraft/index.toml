@@ -766,40 +766,40 @@ file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_
 hash = "ecd301b1feb217f1db934463972dc8fa72822bde434c12c95a870e97e32c2e82"
 
 [[files]]
-file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/endureemptiness.ogg"
+file = "resourcepacks/HexMC Resources/assets/menumusic/sounds.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/track1.ogg"
 hash = "07b9a73c358f6dbd1d11db53df02e2d30e4b7fb06b59da752b0d28f884c3dbd8"
 
 [[files]]
-file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/fightforquiescence.ogg"
+file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/track2.ogg"
 hash = "648c9c01cb9562454bf8df5314b729ef9887e1026864e96a3db402dd24da9900"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "36d8b8b75984636375b636517d8b4e111b8c2ca80ce58a20ea21e563a3005f0e"
+hash = "5b20d3f3c7ddc11d12cd1db63e6e199a3b0604b46ddaa527958ea378820a5e30"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "6a8a72e07bfa42bd2de357836585a04b326995befc63635027e6541453a1ee88"
+hash = "399e010c6e3551b9e30124ca6eb14d55859f030303b7fd495cf207b194537a95"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "e51b4967579e6a36cceb91fcd318eca9795edc6269f6c898c8f2559aa6ab8268"
+hash = "7a053ce552aa3cf72be8f9fd2cd784a69737d9905fcd04381fdd362293c75d9a"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "793629e8e62c431c4332326f4865eb884a7e34759ba0d50448789de362248020"
+hash = "e8bdb432f0d7c0243fa883b1277e6f2c61ff849d4c3aaadef1e8833a57d5f2f9"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "92066ec64c1a57a6bb34327a7c790c523bc9540ba31bd001bc2ed1c79e1dabbd"
+hash = "3200307916bd09a113ff8d3503ce05949943068719f01260edd43128607a1d6f"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "e6f5a1cab97b83ff538a1cdbb4002054d21b8e1628a2d394e829fb196b5cc315"
-
-[[files]]
-file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_6.png"
-hash = "cb7486ae01d797972e17a27b267b9a3de42a8ffaf65856b5e92e1f3a44f7fca8"
+hash = "a897abfddb6d2197273d0a4afc1b43ab8f65b6bb02858aba5edb52324c31c6b5"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
