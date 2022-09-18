@@ -308,11 +308,6 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
-file = "mods/flan.pw.toml"
-hash = "12b89aa4d7266139ca1adb893cdce9a995a0bdca0851c96970e25ef22ab88b06"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
@@ -614,10 +609,6 @@ file = "patchouli_books/hexmc_handbook/en_us/categories/satchels.json"
 hash = "897f02bfb540ae2de830b034960d4b4c5a19206d8e960d49858904f37cdc1b5c"
 
 [[files]]
-file = "patchouli_books/hexmc_handbook/en_us/categories/space.json"
-hash = "e1da9d5a4bde9e45f77e8dcd21dc49d21215967e54563412159396dbf76a951b"
-
-[[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
 hash = "589bbc091e2e8acaced8ee74ca254367d15a6dbd6b130fd49ecc76d3c326c4cb"
 
@@ -686,10 +677,6 @@ file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/satchel.json"
 hash = "700615a181fc10b8271544da2dc8f842748f517b0e50c370a5bf625c3c6d4361"
 
 [[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/space/introduction.json"
-hash = "068a4311b857d71405beeea371e8d434986bef8c286d5dbd459c348126b6ef17"
-
-[[files]]
 file = "patchouli_books/hexmc_server/book.json"
 hash = "96f57d26efca4e4c61ee71be40504d5040f0857b26570d8d2636a9845a591dcd"
 
@@ -703,7 +690,7 @@ hash = "3ee2327dcc3f578fab7582add55f181781426967bbe2b9b2be9874c8de17044b"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
-hash = "222f5810d9300050f9c390a784e2585e72959d3b4b57115b9fb207f2959ee039"
+hash = "051737d11e91f7da757a564fc0d4050fdd23c165c86b6dde09300346b8d7aa6b"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/community_chests.json"
@@ -774,12 +761,44 @@ file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_
 hash = "ecd301b1feb217f1db934463972dc8fa72822bde434c12c95a870e97e32c2e82"
 
 [[files]]
-file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
-hash = "50a19fd38e71ae0522c674f51333e1f92edbc270f3e99c2d0c76e03f055a8d66"
+file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/endureemptiness.ogg"
+hash = "07b9a73c358f6dbd1d11db53df02e2d30e4b7fb06b59da752b0d28f884c3dbd8"
 
 [[files]]
-file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "e5491ed43fa0a2dc854496c6d9f9087aa7b7c8a351131738b224e4b7daf16e61"
+file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/fightforquiescence.ogg"
+hash = "648c9c01cb9562454bf8df5314b729ef9887e1026864e96a3db402dd24da9900"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "36d8b8b75984636375b636517d8b4e111b8c2ca80ce58a20ea21e563a3005f0e"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "6a8a72e07bfa42bd2de357836585a04b326995befc63635027e6541453a1ee88"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "e51b4967579e6a36cceb91fcd318eca9795edc6269f6c898c8f2559aa6ab8268"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "793629e8e62c431c4332326f4865eb884a7e34759ba0d50448789de362248020"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "92066ec64c1a57a6bb34327a7c790c523bc9540ba31bd001bc2ed1c79e1dabbd"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "cb7486ae01d797972e17a27b267b9a3de42a8ffaf65856b5e92e1f3a44f7fca8"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_6.png"
+hash = "e6f5a1cab97b83ff538a1cdbb4002054d21b8e1628a2d394e829fb196b5cc315"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
