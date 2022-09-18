@@ -128,6 +128,11 @@ hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "78c9f9d0127b04c24bae6a26fc45f69f9643de0a43119ca547043239f1f7c743"
+metafile = true
+
+[[files]]
 file = "mods/annotated-di.pw.toml"
 hash = "45b71a873141329eae491de019fb61451defc54f9ca7b8b1221d43f5a07c1769"
 metafile = true
