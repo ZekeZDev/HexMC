@@ -418,6 +418,11 @@ hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
 metafile = true
 
 [[files]]
+file = "mods/menumusic.pw.toml"
+hash = "de8477e27df4e48457dd1198a06c4016df97899befed848c2f74a6ca44e6e442"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "d9d63490b6153909c90f7af4be7adb89fc3532a15c913ec037fd46c4699456bb"
 metafile = true
@@ -790,11 +795,11 @@ hash = "92066ec64c1a57a6bb34327a7c790c523bc9540ba31bd001bc2ed1c79e1dabbd"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "cb7486ae01d797972e17a27b267b9a3de42a8ffaf65856b5e92e1f3a44f7fca8"
+hash = "e6f5a1cab97b83ff538a1cdbb4002054d21b8e1628a2d394e829fb196b5cc315"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_6.png"
-hash = "e6f5a1cab97b83ff538a1cdbb4002054d21b8e1628a2d394e829fb196b5cc315"
+hash = "cb7486ae01d797972e17a27b267b9a3de42a8ffaf65856b5e92e1f3a44f7fca8"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
