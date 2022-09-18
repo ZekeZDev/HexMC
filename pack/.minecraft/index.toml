@@ -795,11 +795,11 @@ hash = "69c9d068b96a6add0d295e9213c34ecb590422d219b45b563b12082cfeac9a5c"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "fa870dae16a3f28389ba32066ed31eaebf04bdb92bd6ce350e36e212c90e0315"
+hash = "568559ad24ac6a22adc2fbb77ccd31b4ca2c78696b91300f739e698fddb694a3"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "568559ad24ac6a22adc2fbb77ccd31b4ca2c78696b91300f739e698fddb694a3"
+hash = "fa870dae16a3f28389ba32066ed31eaebf04bdb92bd6ce350e36e212c90e0315"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
