@@ -18,7 +18,7 @@ hash = "fc55c54a23ee982a4ec2b4bf97f264391827c18837b5a67785e49a6dfe3807f7"
 
 [[files]]
 file = "config/customsplashscreen/hexmc.png"
-hash = "d0791effb0138380d7b0c65a85eb75d5c38d6872b0ac568c9fed7168a1683ede"
+hash = "f7febea1d57e0a39555f897949e557f47406b60cf3365c2be39cd0caf9dc483d"
 
 [[files]]
 file = "config/debugify.json"
