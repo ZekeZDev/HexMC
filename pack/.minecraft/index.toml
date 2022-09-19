@@ -768,6 +768,10 @@ file = "resourcepacks/HexMC Resources/assets/menumusic/sounds/track2.ogg"
 hash = "648c9c01cb9562454bf8df5314b729ef9887e1026864e96a3db402dd24da9900"
 
 [[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/accessibility.png"
+hash = "40e66cafa1b4d490c6d54e0f649dd8836e4b5934f5b7cce343d11c4de18b0c64"
+
+[[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "9ad669d9d3f5872e9ad323420c6bd10f321a973319d51e528b476c372829cc3d"
 
@@ -802,6 +806,10 @@ hash = "e9fa3c9e2144e3c6f354397f5deb330941cb2a22b1e1c20770fe7ac971ff809c"
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "6dd1ca3131d3ba059612b6c2e5019d03cf0d1d1d0907d46ebb062a2c0371e53a"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/widgets.png"
+hash = "03f877e69ab7a257e0cb9add14f728bf895ecc4b919be61d7fbe26ae737724f8"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
