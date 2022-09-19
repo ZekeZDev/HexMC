@@ -543,6 +543,11 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
+metafile = true
+
+[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "c8ae8ccb6e15fefb7d78e70dfd27e88a3767a1975148f26bfcb25d0e36b1e63e"
 metafile = true
@@ -560,11 +565,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
