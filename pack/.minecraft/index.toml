@@ -577,7 +577,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/book.json"
-hash = "8dc66dfd6d6f7acae1914864bf85946fa61ca7a263c7a08c74e99e4f039e8cb2"
+hash = "43a0faa56dcda502157a8134ac25d46bd0b6086fe64462b3c8d97609051747b5"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/categories/boss_fights.json"
