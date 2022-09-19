@@ -769,7 +769,11 @@ hash = "648c9c01cb9562454bf8df5314b729ef9887e1026864e96a3db402dd24da9900"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/accessibility.png"
-hash = "40e66cafa1b4d490c6d54e0f649dd8836e4b5934f5b7cce343d11c4de18b0c64"
+hash = "49c1863d6d8096d9f0f38d27006f01d3d0a490364250876535c6e65ce19ca807"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/options_background.png"
+hash = "f451b6cdba00688293abcd1bf4b88d3fdcbc75595dcd4a0fe09eb1d360a6b548"
 
 [[files]]
 file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
