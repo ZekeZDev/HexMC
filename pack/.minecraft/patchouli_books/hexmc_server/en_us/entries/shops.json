@@ -1,0 +1,22 @@
+{
+    "name": "Shops",
+    "icon": "adorn:trading_station",
+    "category": "patchouli:server",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "adorn:trading_station",
+            "text": "$(item)Trading stations$() are an item that can be placed to trade with other players."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Buying",
+            "text": "You can buy items from the trading stations by using the station with payment item."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Selling",
+            "text": "Setting up your own trading stations is very simple! Just place down a trading station and open it. On the left side you can set the product and the payment. The inventory on the right side will have the products and the payments."
+        }
+    ]
+}

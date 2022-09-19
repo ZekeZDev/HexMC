@@ -1,0 +1,9 @@
+{
+    "name": "Server Information",
+    "landing_text": "Server information for the official HexMC Server. $(br2)Make sure to read the rules",
+    "book_texture": "patchouli:textures/gui/book_blue.png",
+    "model": "patchouli:book_blue",
+    "pamphlet": true,
+    "show_progress": false,
+    "use_blocky_font": "true"
+}

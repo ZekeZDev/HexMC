@@ -1,0 +1,26 @@
+{
+    "name": "Rules",
+    "icon": "minecraft:tnt",
+    "category": "patchouli:server",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Make sure to follow the server rules at all times: $(br)$(li)No Griefing or otherwise exploiting/damaging player owned land. $(br)$(li)No Hacking or Cheating $(br)$(li)Please use only: $(l:approved_modifications)Approved Modifications$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)No sexualized language or imagery, and sexual attention or advances of any kind $(br)$(li)No Trolling (antagonistic, inflammatory, insincere behaviour), insulting or derogatory comments, and personal or political attacks $(br)$(li)Publishing others' private information, such as a physical or email address, without their explicit permission"
+        },
+        {   
+            "type": "patchouli:text",
+            "title": "Enforcement",
+            "text": "Moderators are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. "
+        },
+        {   
+            "type": "patchouli:text",
+            "title": "Punishments",
+            "text": "$(li)Ban $(li)Kick $(li)Mute $(li)Temp Ban $(li)Temp Mute $(li)Ip-Ban $(li)Community Ban $(br2)A community ban is a complete ban in which you will be banned from any HexMC and PolyMC related community services."
+        }
+    ]
+}
