@@ -1,7 +1,7 @@
 [
   {
     "serverName": "HexMC Official",
-    "serverIP": "hexmc.mine.bz:25863",
+    "serverIP": "hexmc.mine.bz",
     "forceResourcePack": "true"
   }
 ]
