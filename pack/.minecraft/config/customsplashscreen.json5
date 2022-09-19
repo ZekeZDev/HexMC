@@ -8,9 +8,9 @@
 	// Change the color of the background
 	"backgroundColor": 15675965,
 	// Change the color of the progress bar
-	"progressBarColor": aa00d4ff,
+	"progressBarColor": 16777215,
 	// Change the color of the progress bar frame
-	"progressFrameColor": 170b28ff,
+	"progressFrameColor": 16777215,
 	// Change the mode of the custom loading bar
 	"customProgressBarMode": "Linear",
 	// Enable/Disable the custom progress bar background
@@ -18,7 +18,7 @@
 	// Change the style of the boss loading bar
 	"bossBarType": "NOTCHED_6",
 	"textures": {
-		"BackgroundTexture": "background.jpg",
+		"BackgroundTexture": "background.png",
 		"Aspect1to1Logo": "hexmc.png"
 	}
 }
