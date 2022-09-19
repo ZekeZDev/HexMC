@@ -7,8 +7,8 @@
    viewBox="0 0 72.495837 11.641667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="title template.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="5.1754899"
-     inkscape:cx="136.70203"
-     inkscape:cy="35.745408"
+     inkscape:cx="96.319384"
+     inkscape:cy="25.891269"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -39,14 +39,28 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:0.2;fill:#ff0000;stroke-width:3.50023"
+       id="rect240"
+       width="41.010418"
+       height="11.641666"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:0.2;fill:#66ff00;stroke-width:3.50023"
+       id="rect348"
+       width="31.485416"
+       height="11.641666"
+       x="41.010418"
+       y="0" />
     <path
        id="rect10890"
        style="fill:#22002b;stroke-width:1.75309"
-       d="M 26.458333,0 H 55.5625 c 0.251931,0 0.491591,0.05070556 0.709361,0.14250809 0.217771,0.0918025 0.413658,0.22470442 0.578046,0.38909714 0.164393,0.16439268 0.297296,0.36027854 0.389101,0.57804667 0.0918,0.2177705 0.142505,0.4574255 0.142505,0.709359 v 8.0036472 c 0,1.0077319 -0.811281,1.8190089 -1.819013,1.8190089 H 26.458333 c -0.503867,0 -0.958619,-0.202818 -1.287407,-0.531605 -0.328784,-0.328786 -0.531605,-0.783537 -0.531605,-1.2874039 V 1.8190109 C 24.639321,0.81127928 25.450602,0 26.458333,0 Z"
+       d="m 16.695506,0 h 39.104988 c 0.25193,0 0.491591,0.05070556 0.709361,0.14250809 0.217771,0.0918025 0.413657,0.22470442 0.578046,0.38909714 0.164392,0.16439268 0.297296,0.36027854 0.3891,0.57804667 0.0918,0.2177705 0.142505,0.4574255 0.142505,0.709359 v 8.0036472 c 0,1.0077319 -0.811281,1.8190089 -1.819012,1.8190089 H 16.695506 c -0.503867,0 -0.958619,-0.202818 -1.287407,-0.531605 -0.328784,-0.328786 -0.531605,-0.783537 -0.531605,-1.2874039 V 1.8190109 C 14.876494,0.81127928 15.687775,0 16.695506,0 Z"
        sodipodi:nodetypes="sssssssssssss" />
     <g
        id="g10868"
-       transform="matrix(0.61875006,0,0,0.61875006,74.083529,1.7280594)">
+       transform="matrix(0.61875006,0,0,0.61875006,69.321029,1.7280594)">
       <path
          sodipodi:type="star"
          style="opacity:1;fill:#440055;stroke-width:13.2292"
@@ -89,30 +103,16 @@
          id="path1388"
          sodipodi:nodetypes="cccccc" />
     </g>
-    <rect
-       style="opacity:0.2;fill:#66ff00;stroke-width:3.50023"
-       id="rect348"
-       width="31.485416"
-       height="11.641666"
-       x="41.010418"
-       y="0" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5.82083px;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#22002b;fill-opacity:1;stroke-width:2.27377"
-       x="34.889832"
+       x="30.127331"
        y="7.9364691"
        id="text10948"><tspan
          sodipodi:role="line"
          id="tspan10946"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.82083px;font-family:inter;-inkscape-font-specification:'inter Ultra-Bold';fill:#ffffff;stroke-width:2.27377"
-         x="34.889832"
+         x="30.127331"
          y="7.9364691">HexMC</tspan></text>
-    <rect
-       style="opacity:0.2;fill:#ff0000;stroke-width:3.50023"
-       id="rect240"
-       width="41.010418"
-       height="11.641666"
-       x="0"
-       y="0" />
   </g>
 </svg>
