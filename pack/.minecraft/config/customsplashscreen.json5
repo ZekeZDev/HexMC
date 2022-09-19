@@ -8,9 +8,9 @@
 	// Change the color of the background
 	"backgroundColor": 15675965,
 	// Change the color of the progress bar
-	"progressBarColor": 16777215,
+	"progressBarColor": 11141290,
 	// Change the color of the progress bar frame
-	"progressFrameColor": 16777215,
+	"progressFrameColor": 0,
 	// Change the mode of the custom loading bar
 	"customProgressBarMode": "Linear",
 	// Enable/Disable the custom progress bar background

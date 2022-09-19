@@ -10,7 +10,7 @@ hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "5ccecb80e3b2458207b8a945432c95b6db8caeb767e3f83ac42eb52213289c91"
+hash = "1bcb1778233e99a41b7b2c4ab3688a63ec46b4f918f2aa94b8a3d8c4ca3c6e9b"
 
 [[files]]
 file = "config/customsplashscreen/background.png"
