@@ -796,6 +796,14 @@ file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/backgr
 hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
 
 [[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "e9fa3c9e2144e3c6f354397f5deb330941cb2a22b1e1c20770fe7ac971ff809c"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "79779198c581b79901751e7b528962530904f10100a75a6575a33c92083956d0"
+
+[[files]]
 file = "resourcepacks/HexMC Resources/pack.mcmeta"
 hash = "eedf6e36acb9beafe084ade09cbb6b24488f6f5da60d05deaf01d00a44ddda68"
 
