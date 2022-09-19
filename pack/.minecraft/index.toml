@@ -30,11 +30,11 @@ hash = "e4aa7b5df78e3bd9e9628f07887823ff7762c938884d520817e2b93de335e65d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
+hash = "934b7e488603f251cb194b1ba3063d28b9be5dad7cef5e5eb584d90e3112f029"
 
 [[files]]
-file = "config/unforgivingvoid_defaultdimensionconfig.json"
-hash = "560a369b4c5ff782834909135549072151831eee47bd75450d998d01d10092be"
+file = "config/lenientdeath.json"
+hash = "4853a62a6b841f30c3cf09e581e2702cb2c8e9ec167db3a32ce1a2cf22171ca0"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
