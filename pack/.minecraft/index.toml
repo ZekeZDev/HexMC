@@ -30,11 +30,7 @@ hash = "e4aa7b5df78e3bd9e9628f07887823ff7762c938884d520817e2b93de335e65d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "934b7e488603f251cb194b1ba3063d28b9be5dad7cef5e5eb584d90e3112f029"
-
-[[files]]
-file = "config/lenientdeath.json"
-hash = "4853a62a6b841f30c3cf09e581e2702cb2c8e9ec167db3a32ce1a2cf22171ca0"
+hash = "75e52b593681b001776949d86fe6fe4e94b69ed765c8fc5f46d066b61e1b82bc"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -86,7 +82,7 @@ hash = "1c707d2edf2d355175b0d83ae6cc17b75bb194b939b3932b2cebe7ef250e9427"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
+hash = "3c71cb0e29c8c3ead479f034d7e15c1c05c82975f11a4ac7a6771581a92c40de"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
@@ -153,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "0c9551aca194ec1c182e649f38b928405b0a6441f8cc0bffe63fd448c057f7d8"
+hash = "7a0df53710b244fb5fb428f446c0dd602b1a58defa3895006b954849764a7a0a"
 metafile = true
 
 [[files]]
@@ -259,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
@@ -397,11 +398,6 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
-file = "mods/lenient-death.pw.toml"
-hash = "1f9f4a1b99a642e7bb0f50f67bb4854209e21c6680b96c30269dac5dbab09a05"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -444,11 +440,6 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
@@ -564,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "2265b6332ca60a1261261995de4e424f9aca37f0140899762230f04fdc406f79"
 metafile = true
 
 [[files]]
