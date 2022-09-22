@@ -124,11 +124,6 @@ hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
 
 [[files]]
-file = "mods/annotated-di.pw.toml"
-hash = "45b71a873141329eae491de019fb61451defc54f9ca7b8b1221d43f5a07c1769"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
