@@ -1,11 +1,16 @@
 {
     "name": "Approved Mods",
-    "icon": "ad_astra:wrench",
+    "icon": "create:wrench",
     "category": "patchouli:server",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The following mods are approved and allowed for use on this server: $(br)$(li)$(l:https://modrinth.com/mod/journeymap)Journey Map $(li)$(l:https://modrinth.com/mod/zoomify)Zoomify $(li)$(l:https://modrinth.com/mod/inventory-profiles-next)Inventory Profiles $(li)$(l:https://modrinth.com/mod/appleskin)AppleSkin $()$(br2)If you have any complaints or would like to request approval please do so $(l:https://github.com/ZekeSmith/HexMC/issues)here"
+            "text": "Allowed modifications are under loose guidelines, to be approved they must follow this rule set: $(li)Not provide major advantage over other users (eg. xray)$() $(li)Not intentionally harm the server$() $(li)Not enable harasment of users (auto spammers)$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Example approved mods",
+            "text": "Maps, eg. Xaeros Mini/World, JourneyMap$(li)Provides slight advantage however allows for greater exploration.$(br2)Zoomify, Ok Zoomer $(li)Basically a hotkey for a Spyglass, not a very big advantage.    "
         }
     ]
 }

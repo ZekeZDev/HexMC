@@ -1,0 +1,25 @@
+{
+  "name": "Rolling",
+  "icon": "kubejs:roly_poly",
+  "category": "patchouli:combat",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Rolling is hard to master but if done right can be an incredibly effective tool in your adventure."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How to roll",
+      "text": "By default rolling is bound to the $(thing)R$() key and can be changed in controls. When pressed it will allow you to roll in the direction you are walking."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Enchantments",
+      "text": "$(thing)Longfooted$() can be enchanted on boots $(li)Increases the distance of your rolls (by 1 block / level)$()$(br2)$(thing)Acrobat's Shirt$() & $(thing)Acrobat's Pants$() can be enchanted on chests and legs respectively $(li)Increases the recharge speed of the roll cooldown (by +10% / level)$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Multi-Roll$() can be enchanted on helmets $(li)Grants extra rolls (+1 roll / level)"
+    }
+  ]
+}

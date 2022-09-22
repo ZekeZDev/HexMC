@@ -33,10 +33,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "75e52b593681b001776949d86fe6fe4e94b69ed765c8fc5f46d066b61e1b82bc"
 
 [[files]]
-file = "config/yosbr/config/bobby.conf"
-hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
@@ -149,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "7a0df53710b244fb5fb428f446c0dd602b1a58defa3895006b954849764a7a0a"
+hash = "360bde83bfd06ef81f9538ca6ff1da955641c72053ddafcfc40ba38349bf6f7f"
 metafile = true
 
 [[files]]
@@ -160,11 +156,6 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
 
 [[files]]
@@ -200,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "82d362f261ded482a85206c41dd00aee63eca8c9bdb82731ea934a2320aaa367"
 metafile = true
 
 [[files]]
@@ -285,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
 
 [[files]]
@@ -395,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "df9b4bc65e9295704e893adcd1c2bb89d32564b5f13c94743422aa1d62f43fb5"
 metafile = true
 
 [[files]]
@@ -636,6 +642,10 @@ file = "patchouli_books/hexmc_handbook/en_us/entries/combat/dual_wielding.json"
 hash = "9b0b8e9c6d20ba1419ba2767da6928730ee260b0b22208931a22d175424af4dc"
 
 [[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/combat/rolling.json"
+hash = "5693e695a0d7c40f487a801d3ea5bd7755008dc607062424fc7d0351b9765c2b"
+
+[[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/combat/shield_parry.json"
 hash = "88ded8b01615612f482c14bf37b8fcb446185ae4189d00b12602488c09ca9c6b"
 
@@ -681,7 +691,7 @@ hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/approved_mods.json"
-hash = "3ee2327dcc3f578fab7582add55f181781426967bbe2b9b2be9874c8de17044b"
+hash = "a664521685b50fdc6be3e35277764f734b26fde75b22c031c8e22af02d900287"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
@@ -694,10 +704,6 @@ hash = "23a1667411cddd54697c2ec500c7a1d19ae09abd880ad508a8df814f61449cc5"
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
 hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
-
-[[files]]
-file = "patchouli_books/hexmc_server/en_us/entries/parties.json"
-hash = "d47c8f7cc4e4c5112f23c9be75a658b09b2853a7c6c6b58f2a2d4cf04f9df581"
 
 [[files]]
 file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
