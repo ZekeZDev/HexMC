@@ -209,11 +209,6 @@ hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
 metafile = true
@@ -536,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "ef139a336d085b5748f37caf5192b502252a3058f0950fe0b19b9ba029db6031"
 metafile = true
 
 [[files]]
