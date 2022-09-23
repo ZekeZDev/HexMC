@@ -269,11 +269,6 @@ hash = "3c1416f98f13c6470bd14ad6c590374c39500c9cbf1a063cf73ac89ceae219de"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
