@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "5e63620474924e45c06b5a427965ff4807efad63df7413f853589ff61e120825"
+hash = "bfc2cdfb122c3e74d96756ecc2995f53f6613afdecf43ee2ddebbaaf182dd8dc"
 metafile = true
 
 [[files]]
