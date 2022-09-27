@@ -33,6 +33,30 @@ file = "config/isxander-main-menu-credits.json"
 hash = "75e52b593681b001776949d86fe6fe4e94b69ed765c8fc5f46d066b61e1b82bc"
 
 [[files]]
+file = "config/openloader/bettercompat/data/farmersdelight/functions/load.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/bettercompat/data/farmersdelight/functions/tick.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/bettercompat/data/farmersdelight/weapon_attributes/skillet.json"
+hash = "956999b0182500ae901a75ad5cc75e716a87422c81374f5761ffd25652097d14"
+
+[[files]]
+file = "config/openloader/bettercompat/data/minecraft/tags/functions/load.json"
+hash = "bf3f90ecec7ac1431cda4532c57bd78fa1446909169e009e7cefaa5bb1b6c6b4"
+
+[[files]]
+file = "config/openloader/bettercompat/data/minecraft/tags/functions/tick.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/bettercompat/pack.mcmeta"
+hash = "36a5f94e582fdf971ed1779a0571b8aa4fbcc0cfc4a9fe3aa2a956e35b828860"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
@@ -135,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "360bde83bfd06ef81f9538ca6ff1da955641c72053ddafcfc40ba38349bf6f7f"
+hash = "a14a4080e46fd364793512eb13995d1c78d9bfe07f233238cbcc0b032f84ce89"
 metafile = true
 
 [[files]]
@@ -185,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "bfc2cdfb122c3e74d96756ecc2995f53f6613afdecf43ee2ddebbaaf182dd8dc"
+hash = "b446009d4c3fc0a8b30ec83fe4402d3ddc4966a97b49e45643379c48b35270c9"
 metafile = true
 
 [[files]]
@@ -254,6 +278,11 @@ hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
 metafile = true
 
 [[files]]
+file = "mods/emicompat.pw.toml"
+hash = "c66d1af8a97c41647c1deaeff6ba136222631cb56ce3559d5e0fbed9b55e6f4d"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "ae560f554ce70728cf3181d8163d99db22842563e6f68ea6167f91eacee2d123"
 metafile = true
@@ -301,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "58b80a63029fe06201c7e16061aae0636b281d35c90d8afbf544b323c0664970"
-metafile = true
-
-[[files]]
-file = "mods/guarding.pw.toml"
-hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
 metafile = true
 
 [[files]]
@@ -429,6 +453,21 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a95a09d3e1b099ea8484fdf3adbd5e7e7cbedce8db33e4dedc5e91db1199a774"
+metafile = true
+
+[[files]]
 file = "mods/ost-overhaul.pw.toml"
 hash = "a6fd3bdf0775ae53b82a42e98d4aa332cbb7300b597d389e9ba83fd4a016207e"
 metafile = true
@@ -450,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
+hash = "07d75ca506fbe2c5e6a2077553b1f1873a90a9ef3316ea6bb88c5ed42435fdc1"
 metafile = true
 
 [[files]]
@@ -544,6 +583,16 @@ hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "92bb438b809e0b9502468a8a7d3f1e13f3174dd4c4fa4c703dbfe4cb488758c6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e202dbe44c613b66d68040e6e81a60ea3c901a6365787462a05d27a58dfeaeb4"
+metafile = true
+
+[[files]]
 file = "mods/yigd.pw.toml"
 hash = "2265b6332ca60a1261261995de4e424f9aca37f0140899762230f04fdc406f79"
 metafile = true
@@ -624,10 +673,6 @@ hash = "9b0b8e9c6d20ba1419ba2767da6928730ee260b0b22208931a22d175424af4dc"
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/combat/rolling.json"
 hash = "5693e695a0d7c40f487a801d3ea5bd7755008dc607062424fc7d0351b9765c2b"
-
-[[files]]
-file = "patchouli_books/hexmc_handbook/en_us/entries/combat/shield_parry.json"
-hash = "88ded8b01615612f482c14bf37b8fcb446185ae4189d00b12602488c09ca9c6b"
 
 [[files]]
 file = "patchouli_books/hexmc_handbook/en_us/entries/create/introduction.json"
