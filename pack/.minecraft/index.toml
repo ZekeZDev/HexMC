@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "a14a4080e46fd364793512eb13995d1c78d9bfe07f233238cbcc0b032f84ce89"
+hash = "180c9ee60ea6c5f5aee8ba773025bebf0d1b29ba6fd55917c916e58d5468f846"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
+hash = "107c9580ec008844702b170d7c8fa2c71fca67ad64bebee4332c65388a6e3446"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "b446009d4c3fc0a8b30ec83fe4402d3ddc4966a97b49e45643379c48b35270c9"
+hash = "3d88ca83671856f4499baaa22faeaca01bd7fe77064fa2cd442737e6192cf621"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "c66d1af8a97c41647c1deaeff6ba136222631cb56ce3559d5e0fbed9b55e6f4d"
+hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
 metafile = true
 
 [[files]]
@@ -289,12 +289,12 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "3c1416f98f13c6470bd14ad6c590374c39500c9cbf1a063cf73ac89ceae219de"
+hash = "7155a7cca6e09ff6808e4004bf6b9d69db4b851bdb22f5e43716437117638984"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "58b80a63029fe06201c7e16061aae0636b281d35c90d8afbf544b323c0664970"
+hash = "b9c3dad8b4315e4b241b8a2bc0c9e4fa69f185fb5b11f62cc63715e6746a9be5"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
+hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "7c2ae545f2d7bb0c2b4de7c1132a1afd8afafbe21d8e714d458199cda1f776a7"
+hash = "6e8c74eb9814008e9461ec86b2359e3d946f7a180c040674eaee4ba0a7ace2e7"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "a95a09d3e1b099ea8484fdf3adbd5e7e7cbedce8db33e4dedc5e91db1199a774"
+hash = "58a30b56a40f7641aac512846b1a9c4969c707ebba4463bc398269e385f2f794"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "b31157693618d7e49b26189e90ff94b65ba034abc8bafba22d25ec2263ba0e8e"
+hash = "fc68b56f92ecea5ec9da5d543440fe1719f76ab813bf97c1e665878ae9357d24"
 metafile = true
 
 [[files]]
@@ -514,12 +514,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8cb2de63595d5b872a59c6308759933afae6bf46940add1889027cbe762cf42f"
+hash = "bc1b439bdcd5866fa0eb5ad804692dfd0000e02a3848b49b936cd3c04a2aef7c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "2ad443646863100af0f66138402e8cbfdf78ea565956d95d8e3e2b32c264d8a6"
+hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
 metafile = true
 
 [[files]]
@@ -584,12 +584,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92bb438b809e0b9502468a8a7d3f1e13f3174dd4c4fa4c703dbfe4cb488758c6"
+hash = "c89a45425cf7eb73b6b609d2ea18d4d230d0c466e40cdb0f7be43f7a2e4d6646"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e202dbe44c613b66d68040e6e81a60ea3c901a6365787462a05d27a58dfeaeb4"
+hash = "e5ce9a87f3dcf737361215cd03db978ae5296ef8c24e5b2193b1d425acefdced"
 metafile = true
 
 [[files]]

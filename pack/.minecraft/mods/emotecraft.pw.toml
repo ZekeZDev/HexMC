@@ -1,13 +1,13 @@
 name = "Emotecraft"
-filename = "emotecraft-for-MC1.18.2-2.2.5-fabric.jar"
+filename = "emotecraft-for-MC1.18.2-2.2.6-SNAPSHOT-build.44-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/25JiNHog/emotecraft-for-MC1.18.2-2.2.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/MjLxuS9U/emotecraft-for-MC1.18.2-2.2.6-SNAPSHOT-build.44-fabric.jar"
 hash-format = "sha1"
-hash = "1c2f2b5fdbd1d27cd316720eaa5bde9f259d86d6"
+hash = "55f852c1981c5f9d22e2596600643ab5685dc468"
 
 [update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
-version = "25JiNHog"
+version = "MjLxuS9U"
