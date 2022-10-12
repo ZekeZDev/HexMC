@@ -533,6 +533,11 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
+file = "mods/starryskies.pw.toml"
+hash = "69cd5819f6dce99ca171ced302949ae54f1a09f868349972202ed5a714a7d542"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Starry Skies"
+filename = "StarrySkies-1.5.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BrgaSWzF/versions/1.5.1-1.18.2/StarrySkies-1.5.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "9a30d8013a2397d078aad0505035115e22fa035b"
+
+[update]
+[update.modrinth]
+mod-id = "BrgaSWzF"
+version = "QX1l4DK4"
