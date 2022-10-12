@@ -1,13 +1,14 @@
 name = "Rhino"
-filename = "rhino-fabric-1802.2.1-build.240.jar"
+filename = "rhino-fabric-1802.2.0-build.232.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sk9knFPE/versions/torEfDK1/rhino-fabric-1802.2.1-build.240.jar"
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/XHnNV9Q5/rhino-fabric-1802.2.0-build.232.jar"
 hash-format = "sha1"
-hash = "b01eb4fd446b279409ce6738139305222365519a"
+hash = "e8bce62dbeb68ef0477efe089754dae81fea34a6"
 
-[update]
-[update.modrinth]
-mod-id = "sk9knFPE"
-version = "torEfDK1"
+# Newer versions incompatible with create
+# [update]
+# [update.modrinth]
+# mod-id = "sk9knFPE"
+# version = "XHnNV9Q5"
