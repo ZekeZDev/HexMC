@@ -105,32 +105,12 @@ file = "config/yosbr/options.txt"
 hash = "3c71cb0e29c8c3ead479f034d7e15c1c05c82975f11a4ac7a6771581a92c40de"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
-hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png.mcmeta"
-hash = "d947e6371a5bb46ab733722fac72f7aae2832fc94ecc8a1ab55c3e1471cbf4f4"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/roly_poly.png"
-hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/roly_poly.png.mcmeta"
-hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
-
-[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "b7c2b11a018ed4c5b6e45a0942663748628028ec7ddd3dcf7e3c65d861c73ef0"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "f435fa5523eecd2e4fd538ca812b5814cd8148a551bc6974674cd31da5d25c25"
-
-[[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
 
 [[files]]
 file = "mods/adorn.pw.toml"
