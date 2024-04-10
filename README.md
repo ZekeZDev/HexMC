@@ -2,24 +2,24 @@
 
 <img src="https://raw.githubusercontent.com/ZekeSmith/HexMC/main/images/hexmc.png" width="32px"> <font size="32px">Description</font>
 <hr>
-This is an experience of magic and machines, huge stucutres and breathtaking biomes, beckoning travel and investigation. Don't worry, we've got you covered. You can construct a big railway network or learn magic and fly.
+This is an experience of magic and machines, huge structures, and breathtaking biomes, beckoning travel and investigation. Don't worry, we've got you covered. You can construct a big railway network or learn magic and fly.
 <br><br>
 HexMC includes hand selected and well tested mods ranging from small QOL to big and changes that flip the game completely. They are all worked to feel at home and not duct taped together.
 
-Notable mods HexMC include:
+Notable mods HexMC includes:
 * Botania
 * Create
 * Illager expansion [Rematch]
 * Oh The Biomes You'll Go
 
-*view the mod list for more information*
+*view the mod list below for all mods*
 
 <hr>
 <img src="https://raw.githubusercontent.com/ZekeSmith/HexMC/main/images/hexmc.png" width="32px"> <font size="32px">Multiplayer?</font>
 <hr>
-HexMC has first and foremost designed for servers, from our inception we designed this modpack for the PolyMC community server. Now we have grown past that point and expand upon our core, opening opportunities to other servers and for you to play with your friends.
+HexMC was designed first and foremost for servers; from our inception, we designed this modpack for the PolyMC community server. Now we have grown past that point and expanded upon our core, opening opportunities to other servers and allowing you to play with your friends.
 <br><br>
-HexMC comes bundled with a list of featured servers that we highly recommend you explore. If you would like your server to be included you can join our discord: https://discord.gg/KHgM3dQJGM
+HexMC comes bundled with a list of featured servers that we highly recommend you explore. If you would like your server to be included, you can join our discord: https://discord.gg/KHgM3dQJGM
 <hr>
 <img src="https://raw.githubusercontent.com/ZekeSmith/HexMC/main/images/hexmc.png" width="32px"> <font size="32px">Mod List</font>
 <hr>
@@ -124,7 +124,7 @@ HexMC comes bundled with a list of featured servers that we highly recommend you
 <img src="https://raw.githubusercontent.com/ZekeSmith/HexMC/main/images/hexmc.png" width="32px"> <font size="32px">System Requirements</font>
 <hr>
 
-HexMC is highly optimized and in specific circumstances may preform better than 1.18.2 vanilla*
+HexMC is highly optimized and in specific circumstances may perform better than 1.18.2 vanilla*
 
 * Ram: 4GB
 * Processor (CPU): Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz or better.
