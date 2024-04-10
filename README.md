@@ -4,7 +4,7 @@
 <hr>
 This is an experience of magic and machines, huge structures, and breathtaking biomes, beckoning travel and investigation. Don't worry, we've got you covered. You can construct a big railway network or learn magic and fly.
 <br><br>
-HexMC includes hand selected and well tested mods ranging from small QOL to big and changes that flip the game completely. They are all worked to feel at home and not duct taped together.
+HexMC includes hand-selected and well-tested mods ranging from small quality-of-life improvements to big changes that flip the game completely. They are specially handpicked to make the modpack feel at home and not duct-taped together.
 
 Notable mods HexMC includes:
 * Botania
@@ -12,7 +12,7 @@ Notable mods HexMC includes:
 * Illager expansion [Rematch]
 * Oh The Biomes You'll Go
 
-*view the mod list below for all mods*
+*view the mod list at the end for all mods*
 
 <hr>
 <img src="https://raw.githubusercontent.com/ZekeSmith/HexMC/main/images/hexmc.png" width="32px"> <font size="32px">Multiplayer?</font>
